@@ -312,70 +312,9 @@
         </div>
         <!-- WHAT WE DO END -->
 
-        <!-- NEWS & BLOG -->
-        <div class="section section-padding">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-8 col-md-offset-2 col-xs-12">
-                        <div class="section-header text-center">
-                            <h3 class="section-title">Videoclips de SAXONARA</h3>
-                            <p class="section-subtext">Conoce más acerca de los videoclips que grabamos en <strong>fincas y espacios espectaculares</strong>, en los que se celebran los eventos más exclusivos y también bodas. Encuentra la inspiración para la perfecta organización de tu evento más especial en mis vídeos y también toma ideas de cual sería la <strong>música perfecta para tu boda</strong> o celebración.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="blog-grid">
-
-                        <div class="col-md-4 col-xs-6 blog-grid-item">
-                            <article class="post">
-                                <a class="post-thumb" href="/videos/baila-conmigo-saxonara.php">
-                                    <img loading="lazy" class="img-responsive" src="/images/videos/thumb-baila-conmigo-saxonara.jpg" alt="Baila Conmigo de Daivy por SAXONARA en saxofón y luces LED">
-                                </a>
-                                <div class="post-content">
-                                    <h4 class="post-title"><a href="/videos/baila-conmigo-saxonara.php">Baila Conmigo de Dayvi</a></h4>
-                                    <p class="post-date">SAXONARA</p>
-                                    <div class="post-excerpt">
-                                        <p>Espectacular videoclip grabado en una <strong>fiesta de Barcelona</strong> con DJ y SAXONARA con <strong>luces LED en el saxofón</strong>.</p>
-                                    </div>
-                                </div>
-                            </article>
-                        </div>
-
-                        <div class="col-md-4 col-xs-6 blog-grid-item">
-                            <article class="post">
-                                <a class="post-thumb" href="/videos/a-thousand-years-castell-de-tamarit.php">
-                                    <img loading="lazy" class="img-responsive" src="/images/videos/thumb-a-thousand-years-castell-de-tamarit.jpg" alt="A Thousand Years de Christina Perri por SAXONARA en el Castell de Tamarit, Tarragona">
-                                </a>
-                                <div class="post-content">
-                                    <h4 class="post-title"><a href="/videos/a-thousand-years-castell-de-tamarit.php">A Thousand Years de Christina Perri</a></h4>
-                                    <p class="post-date">SAXONARA</p>
-                                    <div class="post-excerpt">
-                                        <p>Videoclip de <strong>A Thousand Years</strong> de Christina Perri por SAXONARA, grabado en el <strong>Castell de Tamarit, Tarragona</strong>, un lugar único para celebrar tu boda.</p>
-                                    </div>
-                                </div>
-                            </article>
-                        </div>
-                        
-                        <div class="col-md-4 col-xs-6 blog-grid-item">
-                            <article class="post">
-                                <a class="post-thumb" href="/videos/snowman-sia.php">
-                                    <img loading="lazy" class="img-responsive" src="/images/videos/thumb-snowman-sia.jpg" alt="Snowman de Sia en saxofón por SAXONARA en el Estany d'Ivars i Vila-sana">
-                                </a>
-                                <div class="post-content">
-                                    <h4 class="post-title"><a href="/videos/snowman-sia.php">Snowman de Sia</a></h4>
-                                    <p class="post-date">SAXONARA</p>
-                                    <div class="post-excerpt">
-                                        <p>Snowman de Sia grabada por SAXONARA en saxofón tenor en el <strong>Estany d'Ivars i Vila-sana</strong> tras las primeras nieves de 2021.</p>
-                                    </div>
-                                </div>
-                            </article>
-                        </div>
-                        
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- NEWS & BLOG END -->
+        <!-- COMMON WEDDINGS -->
+        <?php include "common-php/weddings/es.html"; ?>
+        <!-- COMMON WEDDINGS END -->
 
         <!-- PURCHASE FROM -->
         <div class="section purchase-section text-white">

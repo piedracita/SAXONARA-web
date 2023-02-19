@@ -38,11 +38,11 @@
                     <div class="col-md-8 col-sm-7 col-xs-12">
                         <div class="blog-list">
                             <article class="post">
-                                <a class="post-thumb" href="/services/saxofonista-para-bodas.php">
+                                <a class="post-thumb" href="/saxofonista-para-bodas.php">
                                     <img class="img-responsive" src="/images/services/thumb-saxofonista-para-bodas.jpg" alt="Saxofonista para bodas, SAXONARA">
                                 </a>
                                 <div class="post-content">
-                                    <h4 class="post-title"><a href="/services/saxofonista-para-bodas.php">Saxofonista para bodas</a></h4>
+                                    <h4 class="post-title"><a href="/saxofonista-para-bodas.php">Saxofonista para bodas</a></h4>
                                     <p class="post-date">SAXONARA</p>
                                     <div class="post-excerpt">
                                         <p>Resumen de experiencias, ideas, servicios y momentos divertidos que he vivido trabajando como <strong>saxofonista en bodas</strong>.</p>

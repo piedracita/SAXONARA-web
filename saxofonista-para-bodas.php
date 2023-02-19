@@ -6,9 +6,16 @@
     <?php include "common-php/head.html"; ?>
     <!-- COMMON-HEAD END -->
 
+    <!-- CANONICAL -->
+    <link rel="canonical" href="https://www.saxonara.com/saxofonista-para-bodas.php">
+
     <title>Saxofonista para bodas | SAXONARA</title>
     <meta name="description" content="Toda la información sobre como contratar un saxofonista para tu boda de la mano de SAXONARA, entretenimiento con saxofonista profesional para bodas">
     <meta name="keywords" content="saxofonista, bodas, entretenimiento, barra libre, cóctel, cocktail, ceremonia">
+
+    <!-- COMMON-OPENGRAPH -->
+    <?php include "common-php/opengraph/es.html"; ?>
+    <!-- COMMON-OPENGRAPH END -->
 </head>
 
 <body class="page">

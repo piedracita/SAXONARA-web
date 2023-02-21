@@ -37,7 +37,7 @@
     <!-- PAGE HEADER -->
     <div class="page-header">
         <div class="container text-center">
-            <h1 class="page-title">Contacta</h1>
+            <h1 class="page-title">Contacte</h1>
             <ol class="breadcrumb">
                 <li>saxofonista per esdeveniments</li>
             </ol>

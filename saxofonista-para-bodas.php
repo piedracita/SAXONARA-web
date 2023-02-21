@@ -10,7 +10,7 @@
     <link rel="canonical" href="https://www.saxonara.com/saxofonista-para-bodas.php">
 
     <!-- COMMON-LOCALIZATION -->
-    <?php include "common-php/localization/contact.html"; ?> <!-- edit -->
+    <?php include "../common-php/localization/sax-weddings.html"; ?>
     <!-- COMMON-LOCALIZATION END -->
 
     <!-- SITE INFORMATION -->

@@ -9,16 +9,23 @@
     <!-- CANONICAL -->
     <link rel="canonical" href="https://www.saxonara.com/saxofonista-para-bodas.php">
 
-    <title>Saxofonista para bodas | SAXONARA</title>
+    <!-- COMMON-LOCALIZATION -->
+    <?php include "common-php/localization/contact.html"; ?> <!-- edit -->
+    <!-- COMMON-LOCALIZATION END -->
+
+    <!-- SITE INFORMATION -->
+    <title>Saxofonista para bodas | SAXONARA</title>
     <meta name="description" content="Toda la información sobre como contratar un saxofonista para tu boda de la mano de SAXONARA, entretenimiento con saxofonista profesional para bodas">
     <meta name="keywords" content="saxofonista, bodas, entretenimiento, barra libre, cóctel, cocktail, ceremonia">
 
     <!-- COMMON-OPENGRAPH -->
     <?php include "common-php/opengraph/es.html"; ?>
     <!-- COMMON-OPENGRAPH END -->
+
 </head>
 
 <body class="page">
+
     <!-- COMMON-BODY -->
     <?php include "common-php/body.html"; ?>
     <!-- COMMON-BODY END -->
@@ -29,128 +36,228 @@
         <!-- NAVIGATION END -->
     </header>
 
-    <!-- Page Header -->
+    <!-- PAGE HEADER -->
     <div class="page-header">
         <div class="container text-center">
             <h1 class="page-title">Saxofonista para Bodas</h1>
-            <h5>Entretenimiento y calidad musical para tu boda</h5>
+            <ol class="breadcrumb">
+                <li>Todo sobre como mezclar música y entretenimiento para tu boda</li>
+            </ol>
         </div>
     </div>
-    <!-- Page Header End -->
+    <!-- PAGE HEADER END -->
 
     <div class="main-wrap">
-        <div class="section section-padding">
+
+        <!-- COMMON WEDDINGS -->
+        <?php include "common-php/weddings/es.html"; ?>
+        <!-- COMMON WEDDINGS END -->
+
+        <!-- BAND INFORMATIONS -->
+        <div class="section theme-bg band-info-section">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-8 col-sm-7 col-xs-12">
-                        <div class="blog-single">
-                            <article class="post">
-                                <div class="post-thumb">
-                                    <img class="img-responsive" src="/images/services/saxofonista-para-bodas.jpg" alt="Saxofonista para bodas, SAXONARA">
+                    <div class="band-info-items">
+                        <div class="col-md-2 col-lg-offset-1 col-sm-4 col-xs-6">
+                            <div class="band-info-item">
+                                <div class="band-info-icon">
+                                    <i class="fa-solid fa-music"></i>
                                 </div>
-                                <div class="post-content">
-                                    <div class="post-metas">
-                                        <a class="author-meta post-meta">SAXONARA</a>
-                                        <a class="post-meta comment-count">Saxofonista profesional</a>
-                                    </div>
-                                    <div class="post-entry">
-                                        <p>El saxofón es un instrumento de los más versátiles, pudiendo ofrecer un sonido cálido para la <strong>ceremonia de boda</strong>, momento en que me gusta usar el Saxofón Soprano, el sonido más potente y funky para una <strong>fiesta en Barra Libre de Boda</strong> o el perfecto ambiente Chill-Out/Ibiza con <strong>estilo House en el Cocktail</strong>.</p>
-
-                                        <blockquote>Adapto el <b>repertorio al gusto de la pareja</b>, bien sea para la <strong>Ceremonia</strong>, el <strong>Cóctel</strong>, el <strong>Primer Baile</strong> o la <strong>Barra Libre</strong>, en solitario o con vuestro DJ favorito.</blockquote>
-
-                                        <p>Queremos crear un <strong>ambiente único y especial</strong>, al gusto de la pareja que está dando uno de los pasos más importantes en su vida, dándoles todo el protagonismo y haciendo que el momento sea como uno lo viene imaginando.</p>
-
-                                        <div class="gallery column-4">
-                                            <div class="col-md-12 col-xs-12">
-                                                <div class="video-item">
-                                                    <iframe data-adapt-container-width="true" src="https://www.youtube.com/embed/FBQAVzeuRVk" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                        <h3 id="wedding-ceremony">La Ceremonia</h3>
-                                        <p>La primera intervención en la boda como músico es en la parte de la ceremonia, con el camino al altar de los novios. ¿Te gustaría una canción <strong>moderna</strong> o un <strong>clásico</strong> de las bodas? En parejas que prefieren lo moderno, la música de <strong>Ed Sheeran</strong> es una de las más solicitadas, mientras que en ceremonias tradicionales un <strong>Canon de Pachelbel</strong> o la <strong>Marcha Nupcial de Wagner</strong> son los referentes.</p>
-
-                                        <p>Consulta todo mi repetorio en la <a href="/repertoire.php">pestaña REPERTORIO</a>, toma ideas de que canciones te gustarían para cada momento de la Ceremonia, si no encuentras tu canción favorita, avísame, no será ningún problema aprenderla para tu boda.</p>
-
-                                        <p>También puedes encontrar muchos de mis vídeos buscando <a href="#contact">SAXONARA en YouTube o Instagram</a>, escucha mis versiones en saxofón y imagínate como sonaría el día de tu boda.</p>
-
-                                        <div class="gallery column-4">
-                                            <div class="col-md-12 col-xs-12">
-                                                <div class="video-item">
-                                                    <iframe data-adapt-container-width="true" src="https://www.youtube.com/embed/td7C68NxgCA" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                        <h3 id="wedding-cocktail">Cóctel de Bienvenida & Aperitivo</h3>
-                                        <p>Mezcla de música y entretenimiento, el Cóctel o Aperitivo es un momento excelente para disfrutar de <strong>música en directo con saxofón</strong>, con un repertorio Tropical House al más puro estilo Ibiza y amenizando en todos los espacios aprovechando que dispongo de microfonía inalámrbica.</p>
-
-                                        <p>Además prepararemos, si los novios así lo quieren, una <strong>entrada espectacular al Aperitivo</strong> con música bien explosiva para que sea increíble, paseando entre los invitados y bailando con aquellos que más se presten.</p>
-
-                                        <p>¡No os olvidéis de decirme cuales son vuestras canciones favoritas para así añadirlas a mi repertorio!</p>
-                                        
-                                        <div class="gallery column-4">
-                                            <div class="col-md-12 col-xs-12">
-                                                <div class="video-item">
-                                                    <iframe data-adapt-container-width="true" src="https://www.youtube.com/embed/wZsQHjft88M" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                        <div class="gallery column-4">
-                                            <div class="col-md-12 col-xs-12">
-                                                <div class="video-item">
-                                                    <iframe data-adapt-container-width="true" src="https://www.youtube.com/embed/ihnxqeAuhXw" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                        <h3 id="wedding-party">La Fiesta & Barra Libre</h3>
-                                        <p>Una salida espectacular tras el Primer Baile o al Final del Banquete, con luces LED en el saxofón y un <b>estilo musical explosivo</b>, así me gusta arrancar la <strong>fiesta junto al DJ</strong> ¡por sorpresa y con energía!</p>
-
-                                        <p>Mi versatilidad al saxofón me permite adaptarme a cada tipo de evento, así la Barra Libre es una excelente opción par sacar <b>el sonido más funky al saxofón</b> y animar en la pista de baile con la música más moderna y también esos clásicos de la música Disco.</p>
-
-                                        <p>Para estos momentos me encanta usar mi <strong>saxofón con luces LED</strong>, ofreciendo un show más vistoso y espectacular, que haga relucir al máximo este momento final de la celebración en tu boda.</p>
-
-                                        <p>Trabajo con distintos DJs y también me adapto al que tengáis contratado, estando en constante comunicación, facilitándole mi música para que pueda mezclarla y, incluso, <b>improvisando junto a sus mezclas en la pista de baile</b>. ¡Que empiece la fiesta!</p>
-
-                                        <div class="gallery column-4">
-                                            <div class="col-md-12 col-xs-12">
-                                                <div class="video-item">
-                                                    <iframe data-adapt-container-width="true" src="https://www.youtube.com/embed/1gjUZgj_YZU" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                        <h3>Primer Baile y más</h3>
-                                        <p>Además de los servicios arriba mencionados, me adapto a las necesidades de la pareja, para hacer de el día de su boda tan increíble y único como habían soñado. Así hay momentos que podemos preparar conjuntamente como son el <strong>Primer Baile</strong>, la <strong>Entrada de los Novios al Banquete</strong>, u otras peticiones que podáis tener.</p>
-
-                                        <div class="gallery column-4">
-                                            <div class="col-md-12 col-xs-12">
-                                                <div class="video-item">
-                                                    <iframe data-adapt-container-width="true" src="https://www.youtube.com/embed/5bXfY5nRIOM" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                    </div>
+                                <h6 class="band-info-title">Estilos</h6>
+                                <p class="band-info-content">House, Jazz, Electrónica, Pop & Dance</p>
+                            </div>
+                        </div>
+                        <div class="col-md-2 col-sm-4 col-xs-6">
+                            <div class="band-info-item">
+                                <div class="band-info-icon">
+                                    <i class="fa-solid fa-globe"></i>
                                 </div>
-                            </article>
-                            <!-- Article Content End here -->
-
-                            <!-- ABOUT AUTHOR BOX -->
-                            <?php include "common-php/blog-es-author-arnald.html"; ?>
-                            <!-- ABOUT AUTHOR BOX END -->
+                                <h6 class="band-info-title">Saxofonista profesional</h6>
+                                <p class="band-info-content">Desde 2015</p>
+                            </div>
+                        </div>
+                        <div class="col-lg-2 col-md-3 col-sm-4 col-xs-6">
+                            <div class="band-info-item">
+                                <div class="band-info-icon">
+                                    <i class="fa-solid fa-location-arrow"></i>
+                                </div>
+                                <h6 class="band-info-title">Frecuentemente en</h6>
+                                <p class="band-info-content">Barcelona, Madrid, Valencia, Andorra</p>
+                            </div>
+                        </div>
+                        <div class="col-md-2 col-md-offset-0 col-sm-4 col-sm-offset-2 col-xs-6">
+                            <div class="band-info-item">
+                                <div class="band-info-icon">
+                                    <i class="fa-solid fa-calendar"></i>
+                                </div>
+                                <h6 class="band-info-title">Eventos</h6>
+                                <p class="band-info-content">Fiestas, Corporativo, Inauguraciones</p>
+                            </div>
+                        </div>
+                        <div class="col-md-2 col-sm-4 col-xs-6">
+                            <div class="band-info-item">
+                                <div class="band-info-icon">
+                                    <i class="fa-solid fa-church"></i>
+                                </div>
+                                <h6 class="band-info-title">Bodas</h6>
+                                <p class="band-info-content">Ceremonia, Cóctel, Baile, Barra Libre DJ</p>
+                            </div>
                         </div>
                     </div>
-
-                    <!-- SIDEBAR -->
-                    <?php include "common-php/blog-sidebar.html"; ?>
-                    <!-- SIDEBAR END -->
                 </div>
             </div>
         </div>
+        <!-- BAND INFORMATION END -->
+
+        <div class="section section-padding">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-8 col-md-offset-2 col-xs-12">
+                        <div class="text-center">
+                            <h3 class="section-title" id="wedding-ceremony">La Ceremonia</h3>
+                            <p>La primera intervención en la boda como músico es en la parte de la ceremonia, con el camino al altar de los novios. ¿Te gustaría una canción <strong>moderna</strong> o un <strong>clásico</strong> de las bodas? En parejas que prefieren lo moderno, la música de <strong>Ed Sheeran</strong> es una de las más solicitadas, mientras que en ceremonias tradicionales un <strong>Canon de Pachelbel</strong> o la <strong>Marcha Nupcial de Wagner</strong> son los referentes.</p>
+
+                            <p>Consulta todo mi repetorio en la <a href="/repertoire.php">pestaña REPERTORIO</a>, toma ideas de que canciones te gustarían para cada momento de la Ceremonia, si no encuentras tu canción favorita, avísame, no será ningún problema aprenderla para tu boda.</p>
+
+                            <p>También puedes encontrar muchos de mis vídeos buscando <a href="#contact">SAXONARA en YouTube o Instagram</a>, escucha mis versiones en saxofón y imagínate como sonaría el día de tu boda.</p>
+                        </div>
+                    </div>
+                </div>
+                <!-- VIDEOS CEREMONY -->
+                <?php include "common-php/videos/wedding-ceremony.html"; ?>
+                <!-- VIDEOS CEREMONY END -->
+            </div>
+        </div>
+
+        <!-- ABOUT SINGER -->
+        <div class="section about-singer-section text-white">
+            <div class="section-padding">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-6 col-sm-7">
+                            <div class="about-singer-content">
+                                <h3 class="about-singer-title">Amplio repertorio</h3>
+                                <p class="about-singer-role">& Presentación elegante</p>
+                                <p class="about-singer-text">La experienca me permite <b>adaptarme a distintos eventos y fiestas</b>, tocando estilos como <b>Tropical House, Smooth Pop</b> y improvisando junto a <strong>DJs con luces LED en el saxofón</strong>.</p>
+                                <p class="about-singer-text">Dispongo de un <b>amplio repertorio</b> que os ayudará a tomar ideas y estoy <b>abierto a peticiones</b>, especialmente en bodas.</p>
+                                <p class="about-singer-text">El <strong>cuidadoso código de vestimenta</strong> es tan importante como la música, así me presentaré vestido de manera <b>elegante</b> o acorde a la situación, ¡envíame tus comentarios!</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- ABOUT SINGER END -->
+
+    	<div class="section section-padding">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-8 col-md-offset-2 col-xs-12">
+                        <div class="text-center">
+                            <h3 class="section-title" id="wedding-cocktail">Cóctel de Bienvenida & Aperitivo</h3>
+                            <p>Mezcla de música y entretenimiento, el Cóctel o Aperitivo es un momento excelente para disfrutar de <strong>música en directo con saxofón</strong>, con un repertorio Tropical House al más puro estilo Ibiza y amenizando en todos los espacios aprovechando que dispongo de microfonía inalámrbica.</p>
+
+                            <p>Además prepararemos, si los novios así lo quieren, una <strong>entrada espectacular al Aperitivo</strong> con música bien explosiva para que sea increíble, paseando entre los invitados y bailando con aquellos que más se presten.</p>
+
+                            <p>¡No os olvidéis de decirme cuales son vuestras canciones favoritas para así añadirlas a mi repertorio!</p>
+                        </div>
+                    </div>
+                </div>
+                <!-- VIDEOS COCKTAIL -->
+                <?php include "common-php/videos/wedding-cocktail.html"; ?>
+                <!-- VIDEOS COCKTAIL END -->
+            </div>
+        </div>
+
+        <!-- Purchase From -->
+        <div class="section purchase-section text-white">
+            <div class="overlay section-padding">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-5">
+                            <div class="section-header left-style">
+                                <h3 class="section-title">Mi Música &<br/>Mis vídeos</h3>
+                            </div>
+                        </div>
+                        <div class="col-sm-7">
+                            <div class="purchase-button-wrap">
+                                <a class="btn btn-border btn-white" href="https://www.instagram.com/saxonara_/" target="_blank" rel="noopener" title="instagram SAXONARA"><i class="fa-brands fa-instagram"></i> Instagram</a>
+                                <a class="btn btn-border btn-white" href="https://www.youtube.com/@saxonara" target="_blank" rel="noopener" title="youtube SAXONARA"><i class="fa-brands fa-youtube"></i> YouTube</a>
+                                <a class="btn btn-border btn-white" href="https://open.spotify.com/artist/1czGxMkEMmilWKoDwuMu5V?si=Cyn7e1mpTI2lt_zWdcEgdg" target="_blank" rel="noopener" title="spotify SAXONARA"><i class="fa-brands fa-spotify"></i> Spotify</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Purchase Form End -->
+
+        <div class="section section-padding">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-8 col-md-offset-2 col-xs-12">
+                        <div class="text-center">
+                            <h3 class="section-title" id="wedding-party">La Fiesta & Barra Libre</h3>
+                            <p>Una salida espectacular tras el Primer Baile o al Final del Banquete, con luces LED en el saxofón y un <b>estilo musical explosivo</b>, así me gusta arrancar la <strong>fiesta junto al DJ</strong> ¡por sorpresa y con energía!</p>
+
+                            <p>Mi versatilidad al saxofón me permite adaptarme a cada tipo de evento, así la Barra Libre es una excelente opción par sacar <b>el sonido más funky al saxofón</b> y animar en la pista de baile con la música más moderna y también esos clásicos de la música Disco.</p>
+
+                            <p>Para estos momentos me encanta usar mi <strong>saxofón con luces LED</strong>, ofreciendo un show más vistoso y espectacular, que haga relucir al máximo este momento final de la celebración en tu boda.</p>
+
+                            <p>Trabajo con distintos DJs y también me adapto al que tengáis contratado, estando en constante comunicación, facilitándole mi música para que pueda mezclarla y, incluso, <b>improvisando junto a sus mezclas en la pista de baile</b>. ¡Que empiece la fiesta!</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- VIDEOS DJSAX -->
+                <?php include "common-php/videos/djsax.html"; ?>
+                <!-- VIDEOS DJSAX END -->
+            </div>
+        </div>
+
+        <!-- WHAT WE DO -->
+        <div class="section black-bg side-img-section what-we-do-section" id="bands">
+            <div class="col-sm-6 col-sm-offset-6 side-img hidden-xs"></div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-5">
+                        <div class="doing-items section-padding">
+                            <div class="section-header">
+                                <h2 class="section-title">Otras opciones</h2>
+                                <p class="section-subtext">Cada boda es única y yo trato de adaptarme a vuestro gusto, por eso la descripción de cada servicio es orientativa, así pues, trabajaré cada propuesta para <b>adaptar la música a vuestras peticiones</b> y en coordinación con el equipo de la finca, del DJ, de los Wedding Planners o de parientes y amigos que colaboran para que vuestro día sea único. A continuación os detallo otras ideas, distintas a los servicios principales, que algunos novios me han solicitado a lo largo de mi carrera:</p>
+                            </div>
+                            <div class="doing-item">
+                                <div class="doing-icon">
+                                    <i class="fa-solid fa-star"></i>
+                                </div>
+                                <h4 class="doing-title">Apariciones espectaculares</h4>
+                                <p class="doing-text">Recuerdo en una ocasión donde aparecí al final del banquete, por sorpresa, <b>desde el balcón de una finca</b>, con todos los invitados que estaban terminando de comer abajo, fue espectacular. Interpreté tres temas, uno desde el balcón, otro bajando con los invitados y el tercero llevándome a todo el mundo, haciendo la conga, hasta la zona de la fiesta. Como no, lo unimos al servicio de <b>Fiesta</b> tocando junto al DJ.</p>
+                            </div>
+                            <div class="doing-item">
+                                <div class="doing-icon">
+                                    <i class="fa-solid fa-utensils"></i>
+                                </div>
+                                <h4 class="doing-title">Ambientación del banquete</h4>
+                                <p class="doing-text">En este momento tenemos dos opciones, de un lado crear una <strong>ambientación suave</strong>, de fondo, con música al saxofón acompañado de guiarra o bases;  o bien realizar 2 o 3 pases durante el banquete, con <b>música explosiva</b> para crear ambiente de fiesta, incluso coordinándolo con los regalos o la entrada de los novios.</p>
+                            </div>
+                            <div class="doing-item">
+                                <div class="doing-icon">
+                                    <i class="fa-solid fa-music"></i>
+                                </div>
+                                <h4 class="doing-title">El primer baile</h4>
+                                <p class="doing-text">Esta opción suele ir ligada al servicio de la Fiesta junto al DJ, para el primer baile prepararía la <b>música a petición de la pareja</b>, creando las pistas que durarían un tiempo determinado, así los recién casados podrían preparar el baile.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- WHAT WE DO END -->
+
+        <!-- REVIEWS -->
+        <?php include "common-php/reviews/es.html"; ?>
+        <!-- REVIEWS END -->
+
     </div>
 
     <!-- FOOTER -->
@@ -160,6 +267,7 @@
     <!-- COMMON-BODY-SCRIPT -->
     <?php include "common-php/body-script.html"; ?>
     <!-- COMMON-BODY-SCRIPT END -->
+
 </body>
 
 </html>

@@ -1,4 +1,3 @@
-<!-- OLD -->
 <!DOCTYPE html>
 <html lang="es">
 
@@ -42,7 +41,7 @@
         <div class="container text-center">
             <h1 class="page-title">Saxofonista para Bodas</h1>
             <ol class="breadcrumb">
-                <li>Todo sobre como mezclar música y entretenimiento para tu boda</li>
+                <li>Como mezclar música y entretenimiento para tu boda</li>
             </ol>
         </div>
     </div>

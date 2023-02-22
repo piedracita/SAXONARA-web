@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="ca">
 
 <head>
     <!-- COMMON-HEAD -->
@@ -147,62 +147,9 @@
         </div>
         <!-- ARTIST END -->
 
-
-        <!-- BAND INFORMATIONS -->
-        <div class="section theme-bg band-info-section">
-            <div class="container">
-                <div class="row">
-                    <div class="band-info-items">
-                        <div class="col-md-2 col-lg-offset-1 col-sm-4 col-xs-6">
-                            <div class="band-info-item">
-                                <div class="band-info-icon">
-                                    <i class="fa-solid fa-music"></i>
-                                </div>
-                                <h6 class="band-info-title">Estils</h6>
-                                <p class="band-info-content">House, Jazz, Electrònica, Pop & Dance</p>
-                            </div>
-                        </div>
-                        <div class="col-md-2 col-sm-4 col-xs-6">
-                            <div class="band-info-item">
-                                <div class="band-info-icon">
-                                    <i class="fa-solid fa-globe"></i>
-                                </div>
-                                <h6 class="band-info-title">Saxofonista professional</h6>
-                                <p class="band-info-content">Desde 2015</p>
-                            </div>
-                        </div>
-                        <div class="col-lg-2 col-md-3 col-sm-4 col-xs-6">
-                            <div class="band-info-item">
-                                <div class="band-info-icon">
-                                    <i class="fa-solid fa-location-arrow"></i>
-                                </div>
-                                <h6 class="band-info-title">Habitualment a</h6>
-                                <p class="band-info-content">Tarragona, Salou, Reus, Cambrils</p>
-                            </div>
-                        </div>
-                        <div class="col-md-2 col-md-offset-0 col-sm-4 col-sm-offset-2 col-xs-6">
-                            <div class="band-info-item">
-                                <div class="band-info-icon">
-                                    <i class="fa-solid fa-calendar"></i>
-                                </div>
-                                <h6 class="band-info-title">Esdeveniments</h6>
-                                <p class="band-info-content">Festes, Corporatiu, Inauguracions</p>
-                            </div>
-                        </div>
-                        <div class="col-md-2 col-sm-4 col-xs-6">
-                            <div class="band-info-item">
-                                <div class="band-info-icon">
-                                    <i class="fa-solid fa-church"></i>
-                                </div>
-                                <h6 class="band-info-title">Bodes</h6>
-                                <p class="band-info-content">Cerimònia, Aperitiu, Ball, Festa</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- BAND INFORMATION END -->
+        <!-- DIVIDER -->
+        <?php include "../common-php/dividers/01-cat.html"; ?>
+        <!-- DIVIDER END -->
 
     </div>
     <!-- FOOTER -->

@@ -81,61 +81,9 @@
         </div>
         <!-- ABOUT BAND END -->
 
-        <!-- BAND INFORMATIONS -->
-        <div class="section theme-bg band-info-section">
-            <div class="container">
-                <div class="row">
-                    <div class="band-info-items">
-                        <div class="col-md-2 col-lg-offset-1 col-sm-4 col-xs-6">
-                            <div class="band-info-item">
-                                <div class="band-info-icon">
-                                    <i class="fa-solid fa-music"></i>
-                                </div>
-                                <h6 class="band-info-title">Estils</h6>
-                                <p class="band-info-content">House, Jazz, Electrònica, Pop & Dance</p>
-                            </div>
-                        </div>
-                        <div class="col-md-2 col-sm-4 col-xs-6">
-                            <div class="band-info-item">
-                                <div class="band-info-icon">
-                                    <i class="fa-solid fa-globe"></i>
-                                </div>
-                                <h6 class="band-info-title">Saxofonista professional</h6>
-                                <p class="band-info-content">Des de 2015</p>
-                            </div>
-                        </div>
-                        <div class="col-lg-2 col-md-3 col-sm-4 col-xs-6">
-                            <div class="band-info-item">
-                                <div class="band-info-icon">
-                                    <i class="fa-solid fa-location-arrow"></i>
-                                </div>
-                                <h6 class="band-info-title">Freqüentment a</h6>
-                                <p class="band-info-content">Barcelona, Girona, Lleida, Tarragona</p>
-                            </div>
-                        </div>
-                        <div class="col-md-2 col-md-offset-0 col-sm-4 col-sm-offset-2 col-xs-6">
-                            <div class="band-info-item">
-                                <div class="band-info-icon">
-                                    <i class="fa-solid fa-calendar"></i>
-                                </div>
-                                <h6 class="band-info-title">Esdeveniments</h6>
-                                <p class="band-info-content">Festes, Corporatiu, Inauguracions</p>
-                            </div>
-                        </div>
-                        <div class="col-md-2 col-sm-4 col-xs-6">
-                            <div class="band-info-item">
-                                <div class="band-info-icon">
-                                    <i class="fa-solid fa-church"></i>
-                                </div>
-                                <h6 class="band-info-title">Bodes</h6>
-                                <p class="band-info-content">Cerimònia, Còctel, Ball, Festa DJ</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- BAND INFORMATION END -->
+        <!-- DIVIDER -->
+        <?php include "../common-php/dividers/01-cat.html"; ?>
+        <!-- DIVIDER END -->
  
         <!-- Artist -->
         <div class="section section-padding artist-section" id="videos">
@@ -167,25 +115,9 @@
         </div>
         <!-- Artist End -->
 
-        <!-- ABOUT SINGER -->
-        <div class="section about-singer-section text-white" id="repertorio">
-            <div class="section-padding">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-6 col-sm-7">
-                            <div class="about-singer-content">
-                                <h3 class="about-singer-title">Ampli repertori</h3>
-                                <p class="about-singer-role">& Presentació elegant</p>
-                                <p class="about-singer-text">L'experiència em permet <b>adaptar-me a diferents esdeveniments i festes</b>, tocant estils com <b>Tropical House, Smooth Pop</b> i improvisant al costat de DJs i <strong>llums LED al saxòfon</strong>.</p>
-                                <p class="about-singer-text">Disposo d'un <b>ampli repertori</b> que us ajudarà a escollir i agafar idees, també estic <b>obert a peticions</b>, especialment en casaments.</p>
-                                <p class="about-singer-text">L'acurat <strong>codi de vestimenta</strong> és molt important, així em presentaré vestit de manera <strong>elegant</strong> o d'acord amb la situació, envia'm els teus comentaris!</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- ABOUT SINGER END -->
+        <!-- DIVIDER -->
+        <?php include "../common-php/dividers/repertoire-presence-cat.html"; ?>
+        <!-- DIVIDER END -->
 
         <!-- SONG LIST -->
         <div class="section section-padding">

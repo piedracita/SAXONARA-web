@@ -61,7 +61,7 @@
                                             </div>
                                         </div>
 
-                                        <h3 id="wedding-ceremony">La Ceremonia</h3>
+                                        <h3 id="ceremony">La Ceremonia</h3>
                                         <p>La primera intervención en la boda como músico es en la parte de la ceremonia, con el camino al altar de los novios. ¿Te gustaría una canción <strong>moderna</strong> o un <strong>clásico</strong> de las bodas? En parejas que prefieren lo moderno, la música de <strong>Ed Sheeran</strong> es una de las más solicitadas, mientras que en ceremonias tradicionales un <strong>Canon de Pachelbel</strong> o la <strong>Marcha Nupcial de Wagner</strong> son los referentes.</p>
 
                                         <p>Consulta todo mi repetorio en la <a href="/repertoire.php">pestaña REPERTORIO</a>, toma ideas de que canciones te gustarían para cada momento de la Ceremonia, si no encuentras tu canción favorita, avísame, no será ningún problema aprenderla para tu boda.</p>
@@ -76,7 +76,7 @@
                                             </div>
                                         </div>
 
-                                        <h3 id="wedding-cocktail">Cóctel de Bienvenida & Aperitivo</h3>
+                                        <h3 id="cocktail">Cóctel de Bienvenida & Aperitivo</h3>
                                         <p>Mezcla de música y entretenimiento, el Cóctel o Aperitivo es un momento excelente para disfrutar de <strong>música en directo con saxofón</strong>, con un repertorio Tropical House al más puro estilo Ibiza y amenizando en todos los espacios aprovechando que dispongo de microfonía inalámrbica.</p>
 
                                         <p>Además prepararemos, si los novios así lo quieren, una <strong>entrada espectacular al Aperitivo</strong> con música bien explosiva para que sea increíble, paseando entre los invitados y bailando con aquellos que más se presten.</p>
@@ -99,7 +99,7 @@
                                             </div>
                                         </div>
 
-                                        <h3 id="wedding-party">La Fiesta & Barra Libre</h3>
+                                        <h3 id="party">La Fiesta & Barra Libre</h3>
                                         <p>Una salida espectacular tras el Primer Baile o al Final del Banquete, con luces LED en el saxofón y un <b>estilo musical explosivo</b>, así me gusta arrancar la <strong>fiesta junto al DJ</strong> ¡por sorpresa y con energía!</p>
 
                                         <p>Mi versatilidad al saxofón me permite adaptarme a cada tipo de evento, así la Barra Libre es una excelente opción par sacar <b>el sonido más funky al saxofón</b> y animar en la pista de baile con la música más moderna y también esos clásicos de la música Disco.</p>

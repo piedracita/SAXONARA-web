@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="ca">
 
 <head>
     <!-- COMMON-HEAD -->
@@ -15,8 +15,8 @@
 
     <!-- SITE INFORMATION -->
     <title>Saxofonista per a bodes | SAXONARA</title>
-    <meta name="description" content="Tota la informació sobre com contractar un saxofonista per a la teva boda de la mà de SAXONARA, entreteniment amb saxofonista professional per a bodes">
-    <meta name="keywords" content="saxofonista, bodes, entreteniment, festa, còctel, cocktail, cerimònia">
+    <meta name="description" content="Tota la informació sobre com contractar un saxofonista per al teu casament de la mà de SAXONARA, el saxofonista per a bodes i esdeveniments que busques.">
+    <meta name="keywords" content="saxofonista, casaments, música, festa, barra lliure, còctel, còctel, cerimònia">
 
     <!-- COMMON-OPENGRAPH -->
     <?php include "../common-php/opengraph/cat.html"; ?>
@@ -41,7 +41,7 @@
         <div class="container text-center">
             <h1 class="page-title">Saxofonista per a bodes</h1>
             <ol class="breadcrumb">
-                <li>Com mesclar música i etreteniment a la teva boda</li>
+                <li>Com mesclar música i entreteniment a la teva boda</li>
             </ol>
         </div>
     </div>
@@ -53,68 +53,16 @@
         <?php include "../common-php/weddings/cat.html"; ?>
         <!-- COMMON WEDDINGS END -->
 
-        <!-- BAND INFORMATIONS -->
-        <div class="section theme-bg band-info-section">
-            <div class="container">
-                <div class="row">
-                    <div class="band-info-items">
-                        <div class="col-md-2 col-lg-offset-1 col-sm-4 col-xs-6">
-                            <div class="band-info-item">
-                                <div class="band-info-icon">
-                                    <i class="fa-solid fa-music"></i>
-                                </div>
-                                <h6 class="band-info-title">Estils</h6>
-                                <p class="band-info-content">House, Jazz, Electrònica, Pop & Dance</p>
-                            </div>
-                        </div>
-                        <div class="col-md-2 col-sm-4 col-xs-6">
-                            <div class="band-info-item">
-                                <div class="band-info-icon">
-                                    <i class="fa-solid fa-globe"></i>
-                                </div>
-                                <h6 class="band-info-title">Saxofonista professional</h6>
-                                <p class="band-info-content">Des de 2015</p>
-                            </div>
-                        </div>
-                        <div class="col-lg-2 col-md-3 col-sm-4 col-xs-6">
-                            <div class="band-info-item">
-                                <div class="band-info-icon">
-                                    <i class="fa-solid fa-location-arrow"></i>
-                                </div>
-                                <h6 class="band-info-title">Freqüentment a</h6>
-                                <p class="band-info-content">Barcelona, Girona, Lleida, Tarragona</p>
-                            </div>
-                        </div>
-                        <div class="col-md-2 col-md-offset-0 col-sm-4 col-sm-offset-2 col-xs-6">
-                            <div class="band-info-item">
-                                <div class="band-info-icon">
-                                    <i class="fa-solid fa-calendar"></i>
-                                </div>
-                                <h6 class="band-info-title">Esdeveniments</h6>
-                                <p class="band-info-content">Festes, Corporatiu, Inauguracions</p>
-                            </div>
-                        </div>
-                        <div class="col-md-2 col-sm-4 col-xs-6">
-                            <div class="band-info-item">
-                                <div class="band-info-icon">
-                                    <i class="fa-solid fa-church"></i>
-                                </div>
-                                <h6 class="band-info-title">Bodes</h6>
-                                <p class="band-info-content">Cerimònia, Còctel, Ball, Festa DJ</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- BAND INFORMATION END -->
+        <!-- DIVIDER -->
+        <?php include "../common-php/dividers/01-cat.html"; ?>
+        <!-- DIVIDER END -->
 
         <div class="section section-padding">
             <div class="container">
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2 col-xs-12">
                         <div class="text-center">
-                            <h3 class="section-title" id="wedding-ceremony">La Cerimònia</h3>
+                            <h3 class="section-title" id="ceremony">La Cerimònia</h3>
                             <p>La primera intervenció al casament com a músic és a la part de la cerimònia, amb el camí a l'altar dels nuvis. T'agradaria una cançó moderna o un clàssic dels casaments? En parelles que prefereixen el modern, la música d'Ed Sheeran és una de les més sol·licitades, mentre que en cerimònies tradicionals un Cànon de Pachelbel o la Marxa Nupcial de Wagner són els referents.</p>
 
                             <p>Consulta tot el meu repetori i agafa idees de cançons t'agradarien per a cada moment de la Cerimònia, si no trobes la teva cançó preferida, avisa'm, estaré encantat de preparar-la per a la vostra boda.</p>
@@ -129,32 +77,16 @@
             </div>
         </div>
 
-        <!-- ABOUT SINGER -->
-        <div class="section about-singer-section text-white">
-            <div class="section-padding">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-6 col-sm-7">
-                            <div class="about-singer-content">
-                                <h3 class="about-singer-title">Ampli Repertori</h3>
-                                <p class="about-singer-role">& Presentació Elegant</p>
-                                <p class="about-singer-text">L'experiència em permet adaptar-me a diferents esdeveniments i festes, tocant estils com Tropical House, Smooth Pop i improvisant amb DJs amb llums LED al saxofon.</p>
-                                <p class="about-singer-text">Disposo d´un ampli repertori que us ajudarà a prendre idees i estic obert a peticions, especialment en casaments.</p>
-                                <p class="about-singer-text">El curós codi de vestimenta és tan important com la música, així em presentaré vestit de manera elegant o d'acord amb la situació, envia'm els teus comentaris!</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- ABOUT SINGER END -->
+        <!-- DIVIDER -->
+        <?php include "../common-php/dividers/repertoire-presence-cat.html"; ?>
+        <!-- DIVIDER END -->
 
     	<div class="section section-padding">
             <div class="container">
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2 col-xs-12">
                         <div class="text-center">
-                            <h3 class="section-title" id="wedding-cocktail">Còctel de Benvinguda & Aperitiu</h3>
+                            <h3 class="section-title" id="cocktail">Còctel de Benvinguda & Aperitiu</h3>
                             <p>Barreja de música i entreteniment, el Còctel o Aperitiu és un moment excel·lent per gaudir de música en directe amb saxòfon, amb un repertori Tropical House al més pur estil Eivissa i amenitzant a tots els espais aprofitant que disposo de microfonia sense fil.</p>
 
                             <p>A més, prepararem, si els nuvis així ho volen, una entrada espectacular a l'Aperitiu amb música ben explosiva perquè sigui increïble, passejant entre els convidats i ballant amb aquells que més es prestin.</p>
@@ -197,7 +129,7 @@
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2 col-xs-12">
                         <div class="text-center">
-                            <h3 class="section-title" id="wedding-party">La Festa amb el DJ</h3>
+                            <h3 class="section-title" id="party">La Festa amb el DJ</h3>
                             <p>Una sortida espectacular després del Primer Ball o al Final del Banquet, amb llums LED al saxofon i un estil musical explosiu, així m'agrada arrencar la festa al costat del DJ per sorpresa i amb energia!</p>
 
                             <p>La meva versatilitat al saxofon em permet adaptar-me a cada tipus d'esdeveniment, així la Barra Lliure és una excel·lent opció per treure el so més funky al saxofon i animar a la pista de ball amb la música més moderna i també aquests clàssics de la música Disco.</p>
@@ -223,7 +155,7 @@
                     <div class="col-sm-5">
                         <div class="doing-items section-padding">
                             <div class="section-header">
-                                <h2 class="section-title">Altres Opcions</h2>
+                                <h2 class="section-title" id="more">Més Idees</h2>
                                 <p class="section-subtext">Cada casament és únic i jo intento adaptar-me al vostre gust, per això la descripció de cada servei és orientativa, així doncs, treballaré cada proposta per adaptar la música a les vostres peticions i en coordinació amb l'equip de la finca, del DJ, els Wedding Planners o parents i amics que col·laboren perquè el vostre dia sigui únic. A continuació us detallo algunes idees, diferents dels serveis principals, que alguns nuvis m'han sol·licitat al llarg de la meva carrera:</p>
                             </div>
                             <div class="doing-item">

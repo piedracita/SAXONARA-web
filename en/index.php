@@ -81,61 +81,9 @@
         </div>
         <!-- ABOUT BAND END -->
 
-        <!-- BAND INFORMATIONS -->
-        <div class="section theme-bg band-info-section">
-            <div class="container">
-                <div class="row">
-                    <div class="band-info-items">
-                        <div class="col-md-2 col-lg-offset-1 col-sm-4 col-xs-6">
-                            <div class="band-info-item">
-                                <div class="band-info-icon">
-                                    <i class="fa-solid fa-music"></i>
-                                </div>
-                                <h6 class="band-info-title">Music Styles</h6>
-                                <p class="band-info-content">House, Jazz, Electronic, Pop & Dance</p>
-                            </div>
-                        </div>
-                        <div class="col-md-2 col-sm-4 col-xs-6">
-                            <div class="band-info-item">
-                                <div class="band-info-icon">
-                                    <i class="fa-solid fa-globe"></i>
-                                </div>
-                                <h6 class="band-info-title">Professional saxophonist</h6>
-                                <p class="band-info-content">Since 2015</p>
-                            </div>
-                        </div>
-                        <div class="col-lg-2 col-md-3 col-sm-4 col-xs-6">
-                            <div class="band-info-item">
-                                <div class="band-info-icon">
-                                	<i class="fa-solid fa-location-arrow"></i>
-                                </div>
-                                <h6 class="band-info-title">See me play</h6>
-                                <p class="band-info-content">Barcelona, Madrid, London, Ibiza</p>
-                            </div>
-                        </div>
-                        <div class="col-md-2 col-md-offset-0 col-sm-4 col-sm-offset-2 col-xs-6">
-                            <div class="band-info-item">
-                                <div class="band-info-icon">
-                                    <i class="fa-solid fa-calendar"></i>
-                                </div>
-                                <h6 class="band-info-title">Events</h6>
-                                <p class="band-info-content">Parties, Corporate, Grand Openings</p>
-                            </div>
-                        </div>
-                        <div class="col-md-2 col-sm-4 col-xs-6">
-                            <div class="band-info-item">
-                                <div class="band-info-icon">
-                                    <i class="fa-solid fa-church"></i>
-                                </div>
-                                <h6 class="band-info-title">Weddings</h6>
-                                <p class="band-info-content">Ceremony, Reception, First Dance, DJ Party</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- BAND INFORMATION END -->
+        <!-- DIVIDER -->
+        <?php include "../common-php/dividers/01-en.html"; ?>
+        <!-- DIVIDER END -->
  
         <!-- Artist -->
         <div class="section section-padding artist-section" id="videos">
@@ -167,25 +115,9 @@
         </div>
         <!-- Artist End -->
 
-        <!-- ABOUT SINGER -->
-        <div class="section about-singer-section text-white" id="repertorio">
-            <div class="section-padding">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-6 col-sm-7">
-                            <div class="about-singer-content">
-                                <h3 class="about-singer-title">Choose the repertoire</h3>
-                                <p class="about-singer-role">& Dress Code</p>
-                                <p class="about-singer-text">My experience allows me <b>to adapt to different events and parties</b>, playing styles such as <b>Tropical House, Smooth Pop</b> and improvising with DJs and <strong>LED lights on my saxophone</strong>.</p>
-                                <p class="about-singer-text">I have a <b>large repertoire</b> that will help you get ideas, I'm also <b>open to requests</b>, especially at weddings.</p>
-                                <p class="about-singer-text">To choose carefully <strong>the appropriate dress code</strong> is as important as the music, so I will present myself dressed in an <strong>elegant</strong> way or according to the situation, send me your thoughts!</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- ABOUT SINGER END -->
+        <!-- DIVIDER -->
+        <?php include "../common-php/dividers/repertoire-presence-en.html"; ?>
+        <!-- DIVIDER END -->
 
         <!-- SONG LIST -->
         <div class="section section-padding">

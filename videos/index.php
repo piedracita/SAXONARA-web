@@ -181,7 +181,7 @@
         </div>
 
         <!-- DIVIDER -->
-        <?php include "common-php/dividers/01-es.html"; ?>
+        <?php include "../common-php/dividers/01-es.html"; ?>
         <!-- DIVIDER END -->
 
         <!-- NEWS & BLOG -->

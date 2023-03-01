@@ -39,6 +39,7 @@ FAQs
 404 Styles
 Whatsapp Button (by Arnald)
 Linktree Page (by Arnald)
+Img-Responsive (by Arnald)
 ------------------------------------------*/
 /*----------------------------
 General
@@ -378,6 +379,21 @@ Button
 
 .button-group .btn + .btn:not(.btn-simple) {
   margin-left: 26px;
+}
+
+.button-post-container /*ARNALD*/ {
+  height: 56px;
+  position: relative;
+  padding: 36px;
+}
+
+.button-post-center /*ARNALD*/ {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
 }
 
 /*--------------------------------
@@ -1623,7 +1639,7 @@ Blog
 }
 
 .post-content {
-  padding: 56px 40px;
+  padding: 40px 40px;
 }
 
 .post-title {
@@ -3303,4 +3319,13 @@ YouTube Videos
   color: red;
   opacity: 1;
   transition: all 0.3s ease;
+}
+
+/*--------------------------------
+Img-Responsive (Centrar imatges dels mini-posts)
+--------------------------------*/
+.img-responsive {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }

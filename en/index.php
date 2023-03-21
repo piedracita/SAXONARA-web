@@ -219,6 +219,34 @@
         </div>
         <!-- WHAT WE DO END -->
 
+        <!-- COMMON WEDDINGS -->
+        <?php include "../common-php/weddings/en.html"; ?>
+        <!-- COMMON WEDDINGS END -->
+
+        <!-- PURCHASE FROM -->
+        <div class="section purchase-section text-white">
+            <div class="overlay section-padding">
+                <div class="container">
+                    <div class="gallery column-4">
+                        <div class="col-md-6 col-xs-12">
+                            <div class="video-item">
+                                <!-- HEY BROTHER, MADRID -->
+                                <iframe width="560" height="315" src="https://www.youtube.com/embed/dyZ65Wsz2aY" title="saxophonist weddings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+                            </div>
+                        </div>
+
+                        <div class="col-md-6 col-xs-12">
+                            <div class="video-item">
+                                <!-- QUÉDATE, HOME -->
+                                <iframe width="560" height="315" src="https://www.youtube.com/embed/QACbdAI6UmA" title="saxophoniste events" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- PURCHASE FROM -->
+
         <!-- REVIEWS -->
         <?php include "../common-php/reviews/en.html"; ?>
         <!-- REVIEWS END -->

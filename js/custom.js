@@ -319,41 +319,35 @@ $(document).ready(function () {
     /*-----------------------------------
     YouTube Videos +INFO https://www.shaunpoore.com/lazy-load-youtube-videos/
     -----------------------------------*/
-    //document.addEventListener("DOMContentLoaded", function(event) {
+    //Load YouTube Videos on page...
+    var youTubeVideos = document.querySelectorAll('.youtube');
+    for (var i = 0; i < youTubeVideos.length; i++) {
+        //Change thumbnail size BEST/BIG->"maxresdefault.jpg"
+        var thumbnail = "https://img.youtube.com/vi/"+ youTubeVideos[i].dataset.embed +"/mqdefault.jpg";
+        //set CSS
+        youTubeVideos[i].style.cssText = "max-width: 560px;";
+        //Descripció Alt
+        var altyoutube = "SAXONARA Videos"
 
+        //set microdata attributes for SEO (HE TRET LA MICRODATA JA QUE NO SÉ BÉ COM VA)
+        //youTubeVideos[i].setAttribute("itemprop", "video");
+        //youTubeVideos[i].setAttribute("itemscope", '');
+        //youTubeVideos[i].setAttribute("itemtype", "http://schema.org/VideoObject");
 
-            //Load YouTube Videos on page...
-            var youTubeVideos = document.querySelectorAll('.youtube');
-            for (var i = 0; i < youTubeVideos.length; i++) {
-                //Change thumbnail size BEST/BIG->"maxresdefault.jpg"
-                var thumbnail = "https://img.youtube.com/vi/"+ youTubeVideos[i].dataset.embed +"/mqdefault.jpg";
-                //set CSS
-                youTubeVideos[i].style.cssText = "max-width: 560px;";
-                //Descripció Alt
-                var altyoutube = "SAXONARA Videos"
+        //set HTML
+        youTubeVideos[i].innerHTML = '<div class="play"><i class="fa-brands fa-youtube"></i></div>' +
+            '<meta itemprop="embedURL" content="https://www.youtube.com/embed/' +  youTubeVideos[i].dataset.embed +'" />' +
+            '<img class="img-responsive" style="cursor: pointer;" width="560" height="315" src=' + thumbnail + ' loading="lazy" alt="' + altyoutube + '" />';
 
-                //set microdata attributes for SEO (HE TRET LA MICRODATA JA QUE NO SÉ BÉ COM VA)
-                //youTubeVideos[i].setAttribute("itemprop", "video");
-                //youTubeVideos[i].setAttribute("itemscope", '');
-                //youTubeVideos[i].setAttribute("itemtype", "http://schema.org/VideoObject");
+        //add click event that will load YouTube video
+        youTubeVideos[i].addEventListener( "click", function() {
+            this.innerHTML = '<iframe width="560" height="315" frameBorder="0" ' +
+                'allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"' +
+                'src="https://www.youtube.com/embed/' + this.dataset.embed + '?enablejsapi=1&rel=0&showinfo=0&autoplay=1"' +
+                ' allowFullScreen="allowfullscreen"></iframe>';
+        } );
 
-                //set HTML
-                youTubeVideos[i].innerHTML = '<div class="play"><i class="fa-brands fa-youtube"></i></div>' +
-                    '<meta itemprop="embedURL" content="https://www.youtube.com/embed/' +  youTubeVideos[i].dataset.embed +'" />' +
-                    '<img class="img-responsive" style="cursor: pointer;" width="560" height="315" src=' + thumbnail + ' loading="lazy" alt="' + altyoutube + '" />';
-
-                //add click event that will load YouTube video
-                youTubeVideos[i].addEventListener( "click", function() {
-                    this.innerHTML = '<iframe width="560" height="315" frameBorder="0" ' +
-                        'allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"' +
-                        'src="https://www.youtube.com/embed/' + this.dataset.embed + '?enablejsapi=1&rel=0&showinfo=0&autoplay=1"' +
-                        ' allowFullScreen="allowfullscreen"></iframe>';
-                } );
-
-            }
-
-//    })
-
+    }
 });
 
 

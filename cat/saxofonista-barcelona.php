@@ -14,8 +14,8 @@
     <!-- COMMON-LOCALIZATION END -->
 
     <!-- SITE INFORMATION -->
-    <title>Saxofonista a Barcelona | SAXONARA</title>
-    <meta name="description" content="Tot sobre el saxofonista de Barcelona SAXONARA, posa't al dia dels concerts o demana informació per contractar saxofonista per a bodes i esdevenniments.">
+    <title>Saxofonista per Esdeveniments a Barcelona | Disponibilitat i Preus</title>
+    <meta name="description" content="Saxofonista per a esdeveniments a Barcelona i com contractar el saxofonista SAXONARA, esdeveniments exclusius, casaments i festes.">
     <meta name="keywords" content="saxofonista, barcelona, saxonara, events, esdeveniments, bodes, festes, saxòfon">
 
     <!-- COMMON-OPENGRAPH -->

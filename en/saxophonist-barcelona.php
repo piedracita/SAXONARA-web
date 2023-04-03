@@ -14,8 +14,8 @@
     <!-- COMMON-LOCALIZATION END -->
 
     <!-- SITE INFORMATION -->
-    <title>Saxophonist in Barcelona | SAXONARA</title>
-    <meta name="description" content="All about the saxophonist from Barcelona SAXONARA, discover the exclusive events, weddings and parties in which I participate with his saxophone.">
+    <title>Saxophonist for Events in Barcelona | Availability and Prices</title>
+    <meta name="description" content="Saxophonist for events in Barcelona and how to hire SAXONARA saxophonist in Barcelona, exclusive events, weddings and parties.">
     <meta name="keywords" content="saxophonist, barcelona, SAXONARA, events, weddings, parties, saxophone">
 
     <!-- COMMON-OPENGRAPH -->

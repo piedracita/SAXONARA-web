@@ -119,26 +119,9 @@
         <?php include "../common-php/dividers/repertoire-presence-fr.html"; ?>
         <!-- DIVIDER END -->
 
-        <!-- SONG LIST -->
-        <div class="section section-padding">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-8 col-md-offset-2 col-xs-12">
-                        <div class="section-header text-center">
-                            <h3 class="section-title">Musique de mariage</h3>
-                            <p class="section-subtext">Un mariage ou une célébration similaire implique généralement des demandes spécifiques de musique pour des moments spéciaux tels qu'un <strong>chemin vers l'autel lors d'une cérémonie de mariage</strong>; une <strong>entrée spectaculaire au Vin d'honneur</strong> avec les mariés et une musique explosive; ou votre chanson préférée pour la <strong>Première Danse</strong>.</p>
-                            <p class="section-subtext">Ce ne sont que quelques exemples et le répertoire ci-dessous n'est qu'indicatif, <b>j'attends vos demandes</b> si vous souhaitez compter sur moi pour rendre la célébration encore plus spéciale.</p>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- COMMON SONG-LIST -->
-                <?php include "../common-php/song-list.html"; ?>
-                <!-- COMMON SONG-LIST END -->
-
-            </div>
-        </div>
-        <!-- SONG LIST END -->
+        <!-- COMMON WEDDINGS -->
+        <?php include "../common-php/weddings/fr.html"; ?>
+        <!-- COMMON WEDDINGS END -->
 
         <!-- WEDDING VIDEOS -->
         <div class="section purchase-section text-white">
@@ -219,10 +202,6 @@
             </div>
         </div>
         <!-- WHAT WE DO END -->
-
-        <!-- COMMON WEDDINGS -->
-        <?php include "../common-php/weddings/fr.html"; ?>
-        <!-- COMMON WEDDINGS END -->
 
         <!-- PURCHASE FROM -->
         <div class="section purchase-section text-white">

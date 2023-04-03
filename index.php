@@ -144,26 +144,9 @@
         <?php include "common-php/dividers/repertoire-presence-es.html"; ?>
         <!-- DIVIDER END -->
 
-        <!-- SONG LIST -->
-        <div class="section section-padding">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-8 col-md-offset-2 col-xs-12">
-                        <div class="section-header text-center">
-                            <h3 class="section-title">Música para bodas</h3>
-                            <p class="section-subtext">Una boda o celebración similar suele conllevar peticiones concretas de música para momentos especiales como puede ser un <strong>Camino al Altar en una <a href="/saxofonista-bodas.php#ceremony">Ceremonia de Boda</a></strong>; una <strong>entrada espectacular en el <a href="/saxofonista-bodas.php#cocktail">Cóctel</a></strong> junto con los novios y música explosiva; o la <strong>canción para el Primer Baile</strong> con su canción favorita.</p>
-                            <p class="section-subtext">Estos son solo algunos ejemplos y el repertorio que adjunto a continuación es solo orientativo, <b>espero vuestras peticiones</b> si queréis contar conmigo para hacer la celebración todavía más especial.</p>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- COMMON SONG-LIST -->
-                <?php include "common-php/song-list.html"; ?>
-                <!-- COMMON SONG-LIST END -->
-
-            </div>
-        </div>
-        <!-- SONG LIST END -->
+        <!-- COMMON WEDDINGS -->
+        <?php include "common-php/weddings/es.html"; ?>
+        <!-- COMMON WEDDINGS END -->
         
 
         <!-- WEDDING VIDEOS -->
@@ -243,34 +226,6 @@
             </div>
         </div>
         <!-- WHAT WE DO END -->
-
-        <!-- COMMON WEDDINGS -->
-        <?php include "common-php/weddings/es.html"; ?>
-        <!-- COMMON WEDDINGS END -->
-
-        <!-- PURCHASE FROM -->
-        <div class="section purchase-section text-white">
-            <div class="overlay section-padding">
-                <div class="container">
-                    <div class="gallery column-4">
-                        <div class="col-md-6 col-xs-12">
-                            <div class="video-item">
-                                <!-- HEY BROTHER, MADRID -->
-                                <iframe width="560" height="315" src="https://www.youtube.com/embed/dyZ65Wsz2aY" title="Saxofonista par bodas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
-                            </div>
-                        </div>
-
-                        <div class="col-md-6 col-xs-12">
-                            <div class="video-item">
-                                <!-- QUÉDATE, HOME -->
-                                <iframe width="560" height="315" src="https://www.youtube.com/embed/QACbdAI6UmA" title="Saxofonista para eventos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- PURCHASE FROM -->
 
         <!-- REVIEWS -->
         <?php include "common-php/reviews/es.html"; ?>

@@ -119,26 +119,9 @@
         <?php include "../common-php/dividers/repertoire-presence-cat.html"; ?>
         <!-- DIVIDER END -->
 
-        <!-- SONG LIST -->
-        <div class="section section-padding">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-8 col-md-offset-2 col-xs-12">
-                        <div class="section-header text-center">
-                            <h3 class="section-title">Música per a bodes</h3>
-                            <p class="section-subtext">Un casament o celebració similar sol comportar peticions concretes de música per moments especials com pot ser el <strong>Camí a l'Altar en una Cerimònia de Noces</strong>; una <strong>entrada espectacular al Còctel</strong> juntament amb els nuvis i música explosiva; o la <strong>cançó romàntica per al Primer Ball</strong>.</p>
-                            <p class="section-subtext">Aquests són només alguns exemples i el repertori que adjunt a continuació és només orientatiu, <b>espero les vostres peticions</b> si voleu comptar amb mi per fer la celebració encara més especial.</p>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- COMMON SONG-LIST -->
-                <?php include "../common-php/song-list.html"; ?>
-                <!-- COMMON SONG-LIST END -->
-
-            </div>
-        </div>
-        <!-- SONG LIST END -->
+        <!-- COMMON WEDDINGS -->
+        <?php include "../common-php/weddings/cat.html"; ?>
+        <!-- COMMON WEDDINGS END -->
 
         <!-- WEDDING VIDEOS -->
         <div class="section purchase-section text-white">
@@ -217,34 +200,6 @@
             </div>
         </div>
         <!-- WHAT WE DO END -->
-
-        <!-- COMMON WEDDINGS -->
-        <?php include "../common-php/weddings/cat.html"; ?>
-        <!-- COMMON WEDDINGS END -->
-
-        <!-- PURCHASE FROM -->
-        <div class="section purchase-section text-white">
-            <div class="overlay section-padding">
-                <div class="container">
-                    <div class="gallery column-4">
-                        <div class="col-md-6 col-xs-12">
-                            <div class="video-item">
-                                <!-- HEY BROTHER, MADRID -->
-                                <iframe width="560" height="315" src="https://www.youtube.com/embed/dyZ65Wsz2aY" title="Saxofonista bodes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
-                            </div>
-                        </div>
-
-                        <div class="col-md-6 col-xs-12">
-                            <div class="video-item">
-                                <!-- QUÉDATE, HOME -->
-                                <iframe width="560" height="315" src="https://www.youtube.com/embed/QACbdAI6UmA" title="Saxofonista esdeveniments" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- PURCHASE FROM -->
 
         <!-- REVIEWS -->
         <?php include "../common-php/reviews/cat.html"; ?>

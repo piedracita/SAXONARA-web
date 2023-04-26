@@ -14,8 +14,8 @@
     <!-- COMMON-LOCALIZATION END -->
 
     <!-- SITE INFORMATION -->
-    <title>Saxofonista para bodas | SAXONARA</title>
-    <meta name="description" content="Toda la información sobre como contratar un saxofonista para tu boda de la mano de SAXONARA, el saxofonista para bodas y eventos que buscas.">
+    <title>Saxofonista para bodas | Aperitivo, Fiesta & Ceremonia | Precios</title>
+    <meta name="description" content="Contratar al saxofonista para bodas, consulta la disponibilidad, información y precios. Música para Ceremonia de boda, Aperitivo o Fiesta y Barra libre. Sorprende a tus invitados para la mejor boda.">
     <meta name="keywords" content="saxofonista, bodas, música, fiesta, barra libre, cóctel, cocktail, ceremonia">
 
     <!-- COMMON-OPENGRAPH -->
@@ -41,7 +41,7 @@
         <div class="container text-center">
             <h1 class="page-title">Saxofonista para Bodas</h1>
             <ol class="breadcrumb">
-                <li>Como mezclar música y entretenimiento para tu boda</li>
+                <li>Contratar al saxofonista para bodas, consulta la disponibilidad, información y precios. Música para Ceremonia de boda, Aperitivo o Fiesta y Barra libre. Sorprende a tus invitados para la mejor boda.</li>
             </ol>
         </div>
     </div>

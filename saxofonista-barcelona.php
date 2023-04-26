@@ -14,8 +14,8 @@
     <!-- COMMON-LOCALIZATION END -->
 
     <!-- SITE INFORMATION -->
-    <title>Saxofonista para Eventos en Barcelona | Disponibilidad y precios</title>
-    <meta name="description" content="Saxofonista para eventos en Barcelona y como contratar al saxofonista SAXONARA, eventos exclusivos, bodas y fiestas.">
+    <title>Saxofonista en Barcelona | Eventos, Bodas y Fiestas | Disponibilidad y precios</title>
+    <meta name="description" content="Saxofonista en Barcelona para eventos, bodas y fiestas. Toda la información sobre SAXONARA, contrata al saxofonista de Barcelona para eventos de empresa o bodas.">
     <meta name="keywords" content="saxofonista, barcelona, SAXONARA, eventos, bodas, fiestas, saxofón">
 
     <!-- COMMON-OPENGRAPH -->
@@ -42,7 +42,7 @@
                 <div class="banner-content text-white">
                     <div class="container">
                         <h1 class="banner-title">Saxofonista en Barcelona</h1>
-                        <p class="banner-subtitle"><span class="banner-highlight">Todo sobre los eventos, conciertos y fiestas del saxofonista SAXONARA en Barcelona</span></p>
+                        <p class="banner-subtitle"><span class="banner-highlight">Saxofonista en Barcelona para eventos, bodas y fiestas. Toda la información sobre SAXONARA, contrata al saxofonista de Barcelona para eventos de empresa o bodas.</span></p>
                         <div class="button-group">
                             <a class="btn btn-border btn-lg btn-white" href="#contact">Contactar</a>
                             <a class="btn btn-simple btn-lg btn-white" href="/videos/"><i class="fa-solid fa-play"></i> Ver Vídeos</a>

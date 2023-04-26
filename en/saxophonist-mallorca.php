@@ -14,8 +14,8 @@
     <!-- COMMON-LOCALIZATION END -->
 
     <!-- SITE INFORMATION -->
-    <title>Saxophonist in Mallorca | SAXONARA</title>
-    <meta name="description" content="Saxophonist in Mallorca for weddings and events, watch my videos playing in the most unique places around Mallorca. Email me for booking and inquiries.">
+    <title>Saxophonist in Mallorca | Weddings, Exclusive Events & Parties | SAXONARA</title>
+    <meta name="description" content="Saxophonist in Mallorca for weddings and exclusive events, text me to know more about availability and prices of SAXONARA, a reliable saxophonist in Mallorca for live music and entertainment.">
     <meta name="keywords" content="saxophonist, mallorca, SAXONARA, events, weddings, parties, saxophone">
 
     <!-- COMMON-OPENGRAPH -->
@@ -42,7 +42,7 @@
                 <div class="banner-content text-white">
                     <div class="container">
                         <h1 class="banner-title">Saxophonist in Mallorca</h1>
-                        <p class="banner-subtitle"><span class="banner-highlight">Follow me in events around Mallorca, concerts and parties of the saxophonist SAXONARA in Mallorca</span></p>
+                        <p class="banner-subtitle"><span class="banner-highlight">Saxophonist in Mallorca for weddings and exclusive events, text me to know more about availability and prices of SAXONARA, a reliable saxophonist in Mallorca for live music and entertainment.</span></p>
                         <div class="button-group">
                             <a class="btn btn-border btn-lg btn-white" href="#contact">Contact</a>
                             <a class="btn btn-simple btn-lg btn-white" href="/en/videos.php"><i class="fa-solid fa-play"></i> Videos</a>

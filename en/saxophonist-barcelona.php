@@ -15,7 +15,7 @@
 
     <!-- SITE INFORMATION -->
     <title>Saxophonist for Events in Barcelona | Availability and Prices</title>
-    <meta name="description" content="Saxophonist for events in Barcelona and how to hire SAXONARA saxophonist in Barcelona, exclusive events, weddings and parties.">
+    <meta name="description" content="Saxophonist in Barcelona for events, weddings and parties. All the information about SAXONARA, hire a saxophonist from Barcelona for corporate events or weddings.">
     <meta name="keywords" content="saxophonist, barcelona, SAXONARA, events, weddings, parties, saxophone">
 
     <!-- COMMON-OPENGRAPH -->
@@ -42,7 +42,7 @@
                 <div class="banner-content text-white">
                     <div class="container">
                         <h1 class="banner-title">Saxophonist in Barcelona</h1>
-                        <p class="banner-subtitle"><span class="banner-highlight">All about the events, concerts and parties of the saxophonist SAXONARA in Barcelona</span></p>
+                        <p class="banner-subtitle"><span class="banner-highlight">Saxophonist in Barcelona for events, weddings and parties. All the information about SAXONARA, hire a saxophonist from Barcelona for corporate events or weddings.</span></p>
                         <div class="button-group">
                             <a class="btn btn-border btn-lg btn-white" href="#contact">Contact</a>
                             <a class="btn btn-simple btn-lg btn-white" href="/en/videos.php"><i class="fa-solid fa-play"></i> Videos</a>

@@ -14,8 +14,8 @@
     <!-- COMMON-LOCALIZATION END -->
 
     <!-- SITE INFORMATION -->
-    <title>Saxophoniste pour mariage | SAXONARA</title>
-    <meta name="description" content="Toutes les informations pour engager un saxophoniste pour votre mariage chez SAXONARA, le saxophoniste pour mariages et événements que vous recherchez.">
+    <title>Saxophoniste pour mariages | Vin d'Honneur, Soirée & Cérémonie | Prix</title>
+    <meta name="description" content="Saxophoniste pour les mariages, vérifiez la disponibilité, les informations et les prix. Musique pour cérémonie de mariage, apéritif ou fête et bar ouvert. Surprenez vos invités pour le meilleur mariage.">
     <meta name="keywords" content="saxophoniste, mariage, musique, fête, open bar, cocktail, cocktail, cérémonie, soirée">
 
     <!-- COMMON-OPENGRAPH -->
@@ -41,7 +41,7 @@
         <div class="container text-center">
             <h1 class="page-title">Saxophoniste pour mariage</h1>
             <ol class="breadcrumb">
-                <li>Tout sur comment mixer musique et divertissement pour votre mariages</li>
+                <li>Saxophoniste pour les mariages, vérifiez la disponibilité, les informations et les prix. Musique pour cérémonie de mariage, apéritif ou fête et bar ouvert. Surprenez vos invités pour le meilleur mariage.</li>
             </ol>
         </div>
     </div>

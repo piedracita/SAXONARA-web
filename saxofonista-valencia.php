@@ -10,8 +10,8 @@
     <link rel="canonical" href="https://www.saxonara.com/saxofonista-valencia.php">
 
     <!-- SITE INFORMATION -->
-    <title>Saxofonista en Valencia | SAXONARA</title>
-    <meta name="description" content="Saxofonista de Valencia para eventos, bodas y fiestas privadas. Información sobre giras, vídeos y contacto de SAXONARA.">
+    <title>Saxofonista en Valencia | Eventos de Empresa, Fiestas o Bodas | SAXONARA</title>
+    <meta name="description" content="Saxofonista en Valencia para eventos, bodas, fiestas privadas o actos de empresa. Infórmate sobre como contratar a un saxofonsita profesional para el mejor evento. Escríbeme para más información y precio.">
     <meta name="keywords" content="saxofonista, valencia, saxonara, eventos, bodas, fiestas, saxofón">
 
     <!-- COMMON-OPENGRAPH -->
@@ -37,7 +37,7 @@
                 <div class="banner-content text-white">
                     <div class="container">
                         <h1 class="banner-title">Saxofonista en Valencia</h1>
-                        <p class="banner-subtitle"><span class="banner-highlight">Actualidad y contratación de SAXONARA, saxofonista en Valencia para eventos, bodas y fiestas privadas.</span></p>
+                        <p class="banner-subtitle"><span class="banner-highlight">Saxofonista en Valencia para eventos, bodas, fiestas privadas o actos de empresa. Infórmate sobre como contratar a un saxofonsita profesional para el mejor evento. Escríbeme para más información y precio.</span></p>
                         <div class="button-group">
                             <a class="btn btn-border btn-lg btn-white" href="#contact">Contactar</a>
                             <a class="btn btn-simple btn-lg btn-white" href="/videos/"><i class="fa-solid fa-play"></i> Ver Vídeos</a>

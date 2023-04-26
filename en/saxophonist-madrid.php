@@ -14,8 +14,8 @@
     <!-- COMMON-LOCALIZATION END -->
 
     <!-- SITE INFORMATION -->
-    <title>Saxophonist in Madrid | SAXONARA</title>
-    <meta name="description" content="All about the saxophonist from Madrid SAXONARA, discover the exclusive events, weddings and parties in which I participate with his saxophone.">
+    <title>Saxophonist in Madrid | Events, Parties and Weddings | SAXONARA</title>
+    <meta name="description" content="Saxophonist in Madrid for exclusive events, weddings and private parties. Hire SAXONARA for corporate events, openings or weddings and private parties.">
     <meta name="keywords" content="saxophonist, Madrid, SAXONARA, events, weddings, parties, saxophone">
 
     <!-- COMMON-OPENGRAPH -->
@@ -42,7 +42,7 @@
                 <div class="banner-content text-white">
                     <div class="container">
                         <h1 class="banner-title">Saxophonist in Madrid</h1>
-                        <p class="banner-subtitle"><span class="banner-highlight">All about the events, concerts and parties of the saxophonist SAXONARA in Madrid</span></p>
+                        <p class="banner-subtitle"><span class="banner-highlight">Saxophonist in Madrid for exclusive events, weddings and private parties. Hire SAXONARA for corporate events, openings or weddings and private parties.</span></p>
                         <div class="button-group">
                             <a class="btn btn-border btn-lg btn-white" href="#contact">Contact</a>
                             <a class="btn btn-simple btn-lg btn-white" href="/en/videos.php"><i class="fa-solid fa-play"></i> Videos</a>

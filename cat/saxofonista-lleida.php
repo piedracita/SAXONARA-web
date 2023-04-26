@@ -10,8 +10,8 @@
     <link rel="canonical" href="https://www.saxonara.com/cat/saxofonista-lleida.php">
 
     <!-- SITE INFORMATION -->
-    <title>Saxofonista a Lleida | SAXONARA</title>
-    <meta name="description" content="Pàgina oficial del saxofonista de Lleida SAXONARA, posa't al dia dels concerts i demana informació per contractar saxofonista per bodes i esdeveniments.">
+    <title>Saxofonista de Lleida | Música per esdeveniments d'empresa i bdoes | SAXONARA</title>
+    <meta name="description" content="Contractar al saxofonsita de Lleida, SAXONARA, una opció perfecta per música en directa a esdeveniments d'empresa o bodes, sorprèn als teus convidats amb un show de qualitat i música.">
     <meta name="keywords" content="saxofonista, lleida, saxonara, events, esdeveniments, bodes, festes, saxòfon">
 
     <!-- COMMON-OPENGRAPH -->
@@ -36,8 +36,8 @@
             <div class="banner-item bg-saxonara-electronicsax">
                 <div class="banner-content text-white">
                     <div class="container">
-                        <h1 class="banner-title">Saxofonista a Lleida</h1>
-                        <p class="banner-subtitle"><span class="banner-highlight">Posa't al dia dels esdeveniments, bodes i concerts del saxofonista SAXONARA a Lleida</span></p>
+                        <h1 class="banner-title">Saxofonista de Lleida</h1>
+                        <p class="banner-subtitle"><span class="banner-highlight">Contractar al saxofonsita de Lleida, SAXONARA, una opció perfecta per música en directa a esdeveniments d'empresa o bodes, sorprèn als teus convidats amb un show de qualitat i música.</span></p>
                         <div class="button-group">
                             <a class="btn btn-border btn-lg btn-white" href="#contact">Contactar</a>
                             <a class="btn btn-simple btn-lg btn-white" href="/cat/videos.php"><i class="fa-solid fa-play"></i> Vídeos</a>

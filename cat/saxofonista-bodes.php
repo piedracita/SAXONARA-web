@@ -14,8 +14,8 @@
     <!-- COMMON-LOCALIZATION END -->
 
     <!-- SITE INFORMATION -->
-    <title>Saxofonista per a bodes | SAXONARA</title>
-    <meta name="description" content="Tota la informació sobre com contractar un saxofonista per al teu casament de la mà de SAXONARA, el saxofonista per a bodes i esdeveniments que busques.">
+    <title>Saxofonista per a casaments | Aperitiu, Festa & Cerimònia | Preus</title>
+    <meta name="description" content="Contractar el saxofonista per a bodes, consulta la disponibilitat, informació i preus. Música per a Cerimònia de boda, Aperitiu o Festa i Barra lliure. Sorprèn els teus convidats per al millor casament.">
     <meta name="keywords" content="saxofonista, casaments, música, festa, barra lliure, còctel, còctel, cerimònia">
 
     <!-- COMMON-OPENGRAPH -->
@@ -41,7 +41,7 @@
         <div class="container text-center">
             <h1 class="page-title">Saxofonista per a bodes</h1>
             <ol class="breadcrumb">
-                <li>Com mesclar música i entreteniment a la teva boda</li>
+                <li>Contractar el saxofonista per a bodes, consulta la disponibilitat, informació i preus. Música per a Cerimònia de boda, Aperitiu o Festa i Barra lliure. Sorprèn els teus convidats per al millor casament.</li>
             </ol>
         </div>
     </div>

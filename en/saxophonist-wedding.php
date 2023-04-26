@@ -14,8 +14,8 @@
     <!-- COMMON-LOCALIZATION END -->
 
     <!-- SITE INFORMATION -->
-    <title>Wedding Saxophonist | SAXONARA</title>
-    <meta name="description" content="All the information on how to hire a saxophonist for your wedding from SAXONARA, the saxophonist for weddings and events you are looking for.">
+    <title>Wedding Saxophonist | Cocktail, Party & Ceremony | Prices</title>
+    <meta name="description" content="Hire the saxophonist for weddings, check availability, information and prices. Live music for Wedding Ceremony, Appetizer or Party and Open Bar. Surprise your guests for the best wedding.">
     <meta name="keywords" content="saxophonist, wedding, music, party, open bar, cocktail, cocktail party, ceremony">
 
     <!-- COMMON-OPENGRAPH -->
@@ -41,7 +41,7 @@
         <div class="container text-center">
             <h1 class="page-title">Wedding Saxophonist</h1>
             <ol class="breadcrumb">
-                <li>All about how to mix music and entertainment for your wedding</li>
+                <li>Hire the saxophonist for weddings, check availability, information and prices. Live music for Wedding Ceremony, Appetizer or Party and Open Bar. Surprise your guests for the best wedding.</li>
             </ol>
         </div>
     </div>

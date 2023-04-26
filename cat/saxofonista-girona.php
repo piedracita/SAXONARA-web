@@ -10,8 +10,8 @@
     <link rel="canonical" href="https://www.saxonara.com/cat/saxofonista-girona.php">
 
     <!-- SITE INFORMATION -->
-    <title>Saxofonista a Girona | SAXONARA</title>
-    <meta name="description" content="Si busques contractar saxofonista a Girona, escriu-me, sóc l'Arnald SAXONARA, saxofonista per a bodes i esdeveniments, a Girona, Barcelona i tota Catalunya.">
+    <title>Saxofonista a Girona | Bodes, Esdeveniments i Festes amb SAXONARA</title>
+    <meta name="description" content="Saxofonista a Girona per a bodes, esdeveniments i festes, la millor opció per soprendre amb música de qualitat i saxofonista professional. Informa't i escriu-me per contractar.">
     <meta name="keywords" content="saxofonista, girona, saxonara, events, esdeveniments, bodes, festes, saxòfon">
 
     <!-- COMMON-OPENGRAPH -->
@@ -37,7 +37,7 @@
                 <div class="banner-content text-white">
                     <div class="container">
                         <h1 class="banner-title">Saxofonista a Girona</h1>
-                        <p class="banner-subtitle"><span class="banner-highlight">Posa't al dia dels esdeveniments, bodes i concerts del saxofonista SAXONARA a Girona</span></p>
+                        <p class="banner-subtitle"><span class="banner-highlight">Saxofonista a Girona per a bodes, esdeveniments i festes, la millor opció per soprendre amb música de qualitat i saxofonista professional. Informa't i escriu-me per contractar.</span></p>
                         <div class="button-group">
                             <a class="btn btn-border btn-lg btn-white" href="#contact">Contactar</a>
                             <a class="btn btn-simple btn-lg btn-white" href="/cat/videos.php"><i class="fa-solid fa-play"></i> Vídeos</a>

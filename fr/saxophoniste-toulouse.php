@@ -10,8 +10,8 @@
     <link rel="canonical" href="https://www.saxonara.com/fr/saxophoniste-toulouse.php">
 
     <!-- SITE INFORMATION -->
-    <title>Saxophoniste à Toulouse | SAXONARA</title>
-    <meta name="description" content="Rencontrez le saxophoniste SAXONARA à Toulouse et découvrez en exclusivité les événements, mariages et soirées auxquels il participe avec son saxophone.">
+    <title>Saxophoniste à Toulouse | Mariages, Événements & Soirées | SAXONARA</title>
+    <meta name="description" content="Saxophoniste à Toulouse pour événements, mariages et soirées. Toutes les informations sur SAXONARA, engagez un saxophoniste et musique pour des événements d'entreprise ou des mariages.">
     <meta name="keywords" content="saxophoniste, toulouse, SAXONARA, événements, mariage, fêtes, saxophone">
 
     <!-- COMMON-OPENGRAPH -->
@@ -37,7 +37,7 @@
         <div class="container text-center">
             <h1 class="page-title">Saxophoniste à Toulouse</h1>
             <ol class="breadcrumb">
-                <li>événements, fêtes et mariages avec SAXONARA</li>
+                <li>Saxophoniste à Toulouse pour événements, mariages et soirées. Toutes les informations sur SAXONARA, engagez un saxophoniste et musique pour des événements d'entreprise ou des mariages.</li>
             </ol>
         </div>
     </div>

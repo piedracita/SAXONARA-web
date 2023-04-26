@@ -14,8 +14,8 @@
     <!-- COMMON-LOCALIZATION END -->
 
     <!-- SITE INFORMATION -->
-    <title>Saxofonista per Esdeveniments a Barcelona | Disponibilitat i Preus</title>
-    <meta name="description" content="Saxofonista per a esdeveniments a Barcelona i com contractar el saxofonista SAXONARA, esdeveniments exclusius, casaments i festes.">
+    <title>Saxofonista de Barcelona | Esdeveniments, Bodes i Festes | Disponibilitat i Preus</title>
+    <meta name="description" content="Saxofonista de Barcelona per a esdeveniments, bodes i festes. Tota la informació sobre SAXONARA, contracta al saxofonista de Barcelona per a esdeveniments d'empresa o casaments.">
     <meta name="keywords" content="saxofonista, barcelona, saxonara, events, esdeveniments, bodes, festes, saxòfon">
 
     <!-- COMMON-OPENGRAPH -->
@@ -40,8 +40,8 @@
             <div class="banner-item bg-saxonara-electronicsax">
                 <div class="banner-content text-white">
                     <div class="container">
-                        <h1 class="banner-title">Saxofonista a Barcelona</h1>
-                        <p class="banner-subtitle"><span class="banner-highlight">Posa't al dia dels esdeveniments, bodes i concerts del saxofonista SAXONARA a Barcelona</span></p>
+                        <h1 class="banner-title">Saxofonista de Barcelona</h1>
+                        <p class="banner-subtitle"><span class="banner-highlight">Saxofonista de Barcelona per a esdeveniments, bodes i festes. Tota la informació sobre SAXONARA, contracta al saxofonista de Barcelona per a esdeveniments d'empresa o casaments.</span></p>
                         <div class="button-group">
                             <a class="btn btn-border btn-lg btn-white" href="#contact">Contactar</a>
                             <a class="btn btn-simple btn-lg btn-white" href="/cat/videos.php"><i class="fa-solid fa-play"></i> Vídeos</a>

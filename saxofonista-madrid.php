@@ -14,8 +14,8 @@
     <!-- COMMON-LOCALIZATION END -->
 
     <!-- SITE INFORMATION -->
-    <title>Saxofonista en Madrid | SAXONARA</title>
-    <meta name="description" content="Saxofonista de Madrid para eventos, bodas y fiestas privadas. Información sobre giras, vídeos y contacto de SAXONARA.">
+    <title>Saxofonista en Madrid | Eventos, Fiestas y Bodas | SAXONARA</title>
+    <meta name="description" content="Saxofonista en Madrid para eventos exclusivos, bodas y fiestas privadas. Contrata a SAXONARA para eventos de empresa, inauguraciones o bodas y fiestas privadas.">
     <meta name="keywords" content="saxofonista, madrid, saxonara, eventos, bodas, fiestas, saxofón">
 
     <!-- COMMON-OPENGRAPH -->
@@ -41,7 +41,7 @@
                 <div class="banner-content text-white">
                     <div class="container">
                         <h1 class="banner-title">Saxofonista en Madrid</h1>
-                        <p class="banner-subtitle"><span class="banner-highlight">Información sobre conciertos y eventos de SAXONARA, saxofonista en Madrid para fiestas privadas y eventos.</span></p>
+                        <p class="banner-subtitle"><span class="banner-highlight">Saxofonista en Madrid para eventos exclusivos, bodas y fiestas privadas. Contrata a SAXONARA para eventos de empresa, inauguraciones o bodas y fiestas privadas.</span></p>
                         <div class="button-group">
                             <a class="btn btn-border btn-lg btn-white" href="#contact">Contactar</a>
                             <a class="btn btn-simple btn-lg btn-white" href="/videos/"><i class="fa-solid fa-play"></i> Ver Vídeos</a>

@@ -10,8 +10,8 @@
     <link rel="canonical" href="https://www.saxonara.com/fr/saxophoniste-perpignan.php">
 
     <!-- SITE INFORMATION -->
-    <title>Saxophoniste à Perpignan | SAXONARA</title>
-    <meta name="description" content="Rencontrez le saxophoniste SAXONARA à Perpignan et découvrez en exclusivité les événements, mariages et soirées auxquels il participe avec son saxophone.">
+    <title>Saxophoniste à Perpignan | Mariages, Événements & Soirées | SAXONARA</title>
+    <meta name="description" content="Saxophoniste à Perpignan pour événements, mariages et soirées. Toutes les informations sur SAXONARA, engagez un saxophoniste à Perpignan pour des événements d'entreprise ou des mariages.">
     <meta name="keywords" content="saxophoniste, perpignan, SAXONARA, événements, mariage, fêtes, saxophone">
 
     <!-- COMMON-OPENGRAPH -->
@@ -36,7 +36,7 @@
         <div class="container text-center">
             <h1 class="page-title">Saxophoniste à Perpignan</h1>
             <ol class="breadcrumb">
-                <li>événements, fêtes et mariages avec SAXONARA</li>
+                <li>Saxophoniste à Perpignan pour événements, mariages et soirées. Toutes les informations sur SAXONARA, engagez un saxophoniste à Perpignan pour des événements d'entreprise ou des mariages.</li>
             </ol>
         </div>
     </div>

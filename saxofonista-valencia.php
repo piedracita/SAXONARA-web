@@ -56,7 +56,7 @@
                 <div class="row">
                     <div class="col-md-6 col-md-push-6 col-xs-12 col-xs-push-0">
                         <div class="about-artist">
-                            <h2 class="artist-name">l'Arnald | SAXONARA</h2>
+                            <h2 class="artist-name">Arnald | SAXONARA</h2>
                             <p><b>Saxofonista profesional en Valencia con larga experiencia sobre los escenarios, también como músico para bodas, eventos y fiestas.</b></p>
                             <p>¡Hola! Soy Arnald, saxofonista freelance con años de experiencia tocando en bandas  y cursando en academias de España, Estados Unidos, Puerto Rico y Argentina. Se me conoce con el nombre artístico SAXONARA como <strong>saxofonista para bodas y eventos</strong> en los que sacamos la parte más divertida del saxofón, creando ambientes únicos en formatos amenización, fiesta o a petición.</p>
                             <p>Realizo actuaciones en toda <strong>España</strong> y internacionalmente, viajando desde cerca de <strong>Valencia</strong> donde realizo buena parte de mis actuaciones como son conciertos, <strong>eventos de empresa y discotecas</strong>. Paticipo de muchas <strong>bodas</strong> que suelen tener lugar en las fincas cercanas a Valencia, amenizano el <strong>cóctel con saxofón</strong>, tocado en la ceremonia o en la Fiesta Barra Libre junto al DJ.</p>

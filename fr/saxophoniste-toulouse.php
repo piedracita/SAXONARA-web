@@ -50,7 +50,7 @@
                 <div class="row">
                     <div class="col-md-6 col-md-push-6 col-xs-12 col-xs-push-0">
                         <div class="about-artist">
-                            <h2 class="artist-name">l'Arnald | SAXONARA</h2>
+                            <h2 class="artist-name">Arnald | SAXONARA</h2>
                             <p><b>Saxophoniste professionnel du nom de scène SAXONARA et le musicien parfait pour votre mariage, événement ou fête</b></p>
                             <p>Après des années d'expérience en tant que saxophoniste dans différents groupes, jouant différents styles et formé dans des académies aux États-Unis, en Espagne et à Porto Rico, Arnald, du nom de scène SAXONARA, est un musicien saxophoniste avec une grande expérience et <strong>un très bon sens du divertissement</strong> qui partage avec sa musique au saxophone, offrant des spectacles amusants<strong></strong> et en interaction avec les invités.</p>
                             <p>Toulouse est l'une de mes villes préférées pour participer à <strong>des événements exclusifs et de luxe</strong>, elle a une grande vie culturelle et de nombreux centres d'affaires qui la rendent très intéressante pour les activités locales et internationales. De plus, il dispose également d'un environnement privilégié pour la tenue de <strong>mariages</strong>, avec des domaines, des vignobles et des châteaux.</p>

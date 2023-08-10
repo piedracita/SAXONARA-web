@@ -86,7 +86,7 @@
                     <div class="col-md-10 col-md-offset-1 col-xs-12">
                         <div class="section-header text-center style-3">
                             <h3 class="section-title">SAXONARA<br>Saxofonista para bodas y eventos</h3>
-                            <p class="section-subtext">¡Hola! Me llamo Arnald pero llamadme SAXONARA, soy <strong>saxofonista profesional</strong>, trabajo como freelance junto a DJs, agrupaciones y shows en solitario, especializándome en <strong><a href="/saxofonista-bodas.php">bodas</a>, eventos privados, hoteles o fiestas de empresa.</strong></p>
+                            <p class="section-subtext">¡¡Hola!! Me llamo Arnald pero llamadme SAXONARA, soy <strong>saxofonista profesional</strong>, trabajo como freelance junto a DJs, agrupaciones y shows en solitario, especializándome en <strong><a href="/saxofonista-bodas.php">bodas</a>, eventos privados, hoteles o fiestas de empresa.</strong></p>
 
                             <p class="section-subtext"><b>¿Donde podéis encontrarme?</b> Me desplazo para participar de distintos eventos y celebracions, así trabajo activamente en <b>todo el territorio español</b>, especialmente podréis encontrarme en <a href="saxofonista-barcelona.php">Barcelona</a>, <a href="saxofonista-madrid.php">Madrid</a> o <a href="saxofonista-valencia.php">Valencia</a>. También trabajo, especialmente en verano en Ibiza y eventos puntuales en Santander, Zaragoza o Euskadi.</p>
 

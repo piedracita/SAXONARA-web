@@ -61,7 +61,7 @@
                     <div class="col-md-10 col-md-offset-1 col-xs-12">
                         <div class="section-header text-center style-3">
                             <h3 class="section-title">SAXONARA<br>Saxophonist for weddings & events</h3>
-                            <p class="section-subtext">Hi! I'm Arnald, I'm a professional saxophone player playing solo, with DJs and bands. I work mostly around <strong>Europe</strong>, specially <strong>Barcelona</strong>, <strong>Paris</strong> and <strong>Ibiza</strong>. I've played at many different events along DJs and SoloSax, events like grand openings, <strong>private parties</strong>, fashion catwalks, business fairs, <strong>weddings</strong> and <strong>corporate events</strong>.</p>
+                            <p class="section-subtext">Hi! I'm Arnald SAXONARA, I'm a professional saxophone player playing solo, with DJs and bands. I work mostly around <strong>Europe</strong>, specially <strong>Barcelona</strong>, <strong>Paris</strong> and <strong>Ibiza</strong>. I've played at many different events along DJs and SoloSax, events like grand openings, <strong>private parties</strong>, fashion catwalks, business fairs, <strong>weddings</strong> and <strong>corporate events</strong>.</p>
 
                             <p class="section-subtext">Being a professional saxophone player and playing <strong>modern, electronic, pop and jazz music</strong> turns my performances into dynamic ones, that are unique and elegant. For each performance <strong>I prepare the music I'll play according to the clients and the type of event</strong>, always providing the best service and to enjoying the party.</p>
 

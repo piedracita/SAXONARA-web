@@ -61,7 +61,7 @@
                     <div class="col-md-10 col-md-offset-1 col-xs-12">
                         <div class="section-header text-center style-3">
                             <h3 class="section-title">SAXONARA<br>Saxofonista per a bodes i esdeveniments</h3>
-                            <p class="section-subtext">Hola! Em dic Arnald, sóc saxofonista professional, treballo en solitari, amb DJs i en agrupacions. Realitzo actuacions per tota <strong>Catalunya, Andorra i Espanya</strong>, també a l'extranger, amb freqüència em trobareu tocant a <strong>Barcelona, Lleida, Mallorca, Tarragona, Eivissa, Girona, Andorra...</strong> Tinc àmplia experiència participant en inauguracions, <strong>festes privades</strong>, passarel·les de moda, fires, <strong>bodes</strong> i <strong>esdeveniments d'empresa</strong>.</p>
+                            <p class="section-subtext">Hola! Sóc l'Arnald SAXONARA, sóc saxofonista professional, treballo en solitari, amb DJs i en agrupacions. Realitzo actuacions per tota <strong>Catalunya, Andorra i Espanya</strong>, també a l'extranger, amb freqüència em trobareu tocant a <strong>Barcelona, Lleida, Mallorca, Tarragona, Eivissa, Girona, Andorra...</strong> Tinc àmplia experiència participant en inauguracions, <strong>festes privades</strong>, passarel·les de moda, fires, <strong>bodes</strong> i <strong>esdeveniments d'empresa</strong>.</p>
 
                             <p class="section-subtext">Ser saxofonista professional i tocar <strong>música comercial, dance, pop i jazz</strong> fa que les meves performances siguin úniques i elegants. Per a cada actuació preparo el <strong>repertori al gust del client i de l'esdeveniment</strong>, buscant sempre la màxima qualitat, satisfacció i elegància.</p>
 

@@ -86,11 +86,11 @@
                     <div class="col-md-10 col-md-offset-1 col-xs-12">
                         <div class="section-header text-center style-3">
                             <h3 class="section-title">SAXONARA<br>Saxofonista para bodas y eventos</h3>
-                            <p class="section-subtext">¡¡Hola!! Soy Arnald SAXONARA, y soy<strong>saxofonista profesional</strong> como solista, junto a DJs, grupos y otros shows, me encanta ponerle <strong><a href="/saxofonista-bodas.php">música en bodas</a>, eventos privados, hoteles, fiestas y <strong>cenas de empresa</strong>.</strong></p>
+                            <p class="section-subtext">¡Hola! Soy Arnald SAXONARA,<strong>saxofonista profesional en eventos y bodas</strong> como solista, junto a DJs, grupos y otras opciones. Me encanta ponerle <strong><a href="/saxofonista-bodas.php">música en directo en bodas</a></strong>, eventos privados, hoteles, fiestas, <strong>cenas de empresa</strong> y más.</strong></p>
 
-                            <p class="section-subtext"><b>¿Donde podéis encontrarme?</b> Me desplazo para ponerle música como saxofonista <b>en toda España</b>, especialmente podréis encontrarme en <a href="saxofonista-barcelona.php">Barcelona</a>, <a href="saxofonista-madrid.php">Madrid</a> o <a href="saxofonista-valencia.php">Valencia</a>. También trabajo, especialmente en verano en Mallorca y eventos puntuales en Santander, Zaragoza o Euskadi.</p>
+                            <p class="section-subtext"><b>¿Donde podéis encontrarme?</b> Me desplazo para ponerle música como <a href="saxofonista-espana.php">saxofonista en toda España</a>, especialmente podréis encontrarme en <a href="saxofonista-barcelona.php">Barcelona</a>, <a href="saxofonista-madrid.php">Madrid</a> o <a href="saxofonista-valencia.php">Valencia</a>. También trabajo, especialmente en verano en Mallorca y eventos privados y bodas en Santander, Zaragoza o Euskadi.</p>
 
-                            <p class="section-subtext">¿Mis estilos favoritos? Adapto mis <b>shows al tipo de evento</b>, así no es lo mismo tocar <strong>música romántica en una <a href="/saxofonista-bodas.php#ceremony">Ceremonia de Boda</a></strong> que salir con el <strong>saxofón y luces LED en la tarima de una discoteca</strong>. Me encanta adaptarme a cada situación, de una manera <strong>elegante</strong> y buscando satisfacer al cliente, así también estoy abierto a <b>peticiones</b> para hacer que el evento sea único.</p>
+                            <p class="section-subtext"><b>¿Mis estilos favoritos?</b> Adapto mis <b>shows al tipo de evento</b>, así no es lo mismo tocar <strong>música romántica en saxofón</strong> en una <a href="/saxofonista-bodas.php#ceremony">Ceremonia de Boda</a> que salir con el <strong>saxofón y luces LED</strong> en la tarima de una discoteca. Me encanta adaptarme a cada situación, de una manera <strong>elegante</strong> y buscando satisfacer al cliente, así también estoy abierto a <b>peticiones</b> para hacer que el evento sea único.</p>
 
                             <p class="section-subtext">Además de la música, también dispongo de <b>equipos de sonido y microfonía</b> para mayor comodidad. Contacta conmigo para reservar la fecha de tu evento. Me desplazo por toda <strong>España</strong> y en el extrangero.</p>
                             <a class="btn btn-small btn-black" href="#contact">CONTACTO</a>
@@ -118,8 +118,9 @@
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2 col-xs-12">
                         <div class="section-header text-center">
-                            <h3 class="section-title">Vídeos</h3>
-                            <p class="section-subtext">En mi canal de YouTube encontrarás mis <strong>versiones en saxofón de música moderna</strong>, algunos de ellos son bailables y perfectos para una fiesta o celebración tipo <b>Cocktail</b> o con <b>DJ</b>. También me gusta grabar música clásica o estilo pop, muy solicitado en momentos como una <strong>Ceremonia de Boda</strong>.</p>
+                            <h3 class="section-title">Vídeos de SAXONARA</h3>
+                            <p class="section-subtext">Tengo muchísimos vídeos de grabaciones de directo en bodas y eventos, así como videoclips que grabamos en lugares maravillosos. Para estar al día de las últimas grabaciones o descubrir juntos <strong>las mejores fincas de bodas</strong> te puedes suscribir a mis canales de Instagram o Youtube, encuéntrame como SAXONARA.</p>
+                            <p class="section-subtext">Te dejo a continuación algunas de mis últimas grabaciones, algunos de <strong>música romátinca en saxofón</strong>, vídeos como <a href="saxofonista-bodas.php">saxofonista para bodas</a> o en fiestas con <strong>saxofonista y DJ</strong>.</p>
                         </div>
                     </div>
                 </div>
@@ -131,7 +132,7 @@
                 <div class="row">
                     <div class="col-md-10 col-md-offset-1 col-xs-12">
                         <div class="text-center style-3">
-                            <a class="btn btn-small btn-black" href="/videos/" title="Videos de SAXONARA">MÁS VÍDEOS</a>
+                            <a class="btn btn-small btn-black" href="/videos/" title="Videos de SAXONARA">+ VÍDEOS</a>
                         </div>
                     </div>
                 </div>

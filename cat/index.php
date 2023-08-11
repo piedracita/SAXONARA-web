@@ -61,11 +61,14 @@
                     <div class="col-md-10 col-md-offset-1 col-xs-12">
                         <div class="section-header text-center style-3">
                             <h3 class="section-title">SAXONARA<br>Saxofonista per a bodes i esdeveniments</h3>
-                            <p class="section-subtext">Hola! Sóc l'Arnald SAXONARA, sóc saxofonista professional, treballo en solitari, amb DJs i en agrupacions. Realitzo actuacions per tota <strong>Catalunya, Andorra i Espanya</strong>, també a l'extranger, amb freqüència em trobareu tocant a <strong>Barcelona, Lleida, Mallorca, Tarragona, Eivissa, Girona, Andorra...</strong> Tinc àmplia experiència participant en inauguracions, <strong>festes privades</strong>, passarel·les de moda, fires, <strong>bodes</strong> i <strong>esdeveniments d'empresa</strong>.</p>
+                            <p class="section-subtext">Hola! Sóc l'Arnald SAXONARA, <strong>saxofonista professional en esdeveniments i bodes</strong> com a solista, amb DJs, grups i altres opcions. M'encanta posar <strong><a href="/cat/saxofonista-bodes.php">música en directe a bodes</a></strong>, esdeveniments privats, hotels, festes, <strong>sopars d'empresa</strong> i més.</p>
 
-                            <p class="section-subtext">Ser saxofonista professional i tocar <strong>música comercial, dance, pop i jazz</strong> fa que les meves performances siguin úniques i elegants. Per a cada actuació preparo el <strong>repertori al gust del client i de l'esdeveniment</strong>, buscant sempre la màxima qualitat, satisfacció i elegància.</p>
+                            <p class="section-subtext"><b>On em podeu trorbar?</b> Em desplaç amb la música com a <strong>saxofonista a Catalunya</strong>, especialment em podreu trobar a les principals ciutats com <a href="/cat/saxofonista-barcelona.php">Barcelona</a>, <a href="/cat/saxofonista-girona.php">Girona</a>, <a href="/cat/saxofonista-lleida.php">Lleida</a> o <a href="/cat/saxofonista-tarragona.php">Tarragona</a>. També actuo a Andorra, Illes Balears, Espanya i França.</p>
 
-                            <p class="section-subtext">A més de la música, també disposo d'equips de so i microfonia per a més comoditat. Contacta'm per reservar el dia del teu esdeveniment. Treballo a tota <strong>Catalunya</strong>, <strong>Espanya</strong> (incloent-hi les <strong>Illes Balears</strong>) i <strong>Andorra</strong>.</p>
+                            <p class="section-subtext"><b>Els meus estils preferits?</b> Adatpo les actuacions al tipus d'esdeveniment, així no és igual tocar <strong>música romàntica en saxòfon</strong> en una <a href="/cat/saxofonista-bodes.php#ceremony">Cerimònia de Boda</a> que sortir amb el <strong>saxo i llums LED</strong> a la tarima d'una discoteca. M'encanta adaptar-me a cada situació, d'una manera <strong>elegant</strong> i buscant satisfer al client, així també estic overt a <b>peticions</b> per fer que l'esdeveniment sigui únic.</p>
+
+
+                            <p class="section-subtext">A més de la música, també disposo d'<b>equips de so i microfonia</b> per a més comoditat. Contacta'm per reservar el dia del teu esdeveniment. Treballo a tota <strong>Catalunya</strong>, <strong>Espanya</strong> (incloent-hi les <strong>Illes Balears</strong>) i <strong>Andorra</strong>.</p>
                             <a class="btn btn-small btn-black" href="#contact">CONTACTE</a>
                         </div>
                     </div>
@@ -91,9 +94,9 @@
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2 col-xs-12">
                         <div class="section-header text-center">
-                            <h3 class="section-title">Vídeos</h3>
-                            <p class="section-subtext">Aquestes són les meves darreres gravaciones en saxòfon.<br>
-                            Al canal de YouTube <b>SAXONARA</b> trobarEU molts més vídeos i gravacions.</p>
+                            <h3 class="section-title">Vídeos de SAXONARA</h3>
+                            <p class="section-subtext">Tinc moltíssims vídeos d'enregistraments de directe en casaments i esdeveniments, així com videoclips que gravem a llocs meravellosos. Per estar al dia dels darrers enregistraments o descobrir junts <strong>les millors finques de casaments</strong> et pots subscriure als meus canals d'Instagram o Youtube, troba'm com SAXONARA.</p>
+                            <p class="section-subtext">Us deixo a continuació alguns dels meus darrers enregistraments, alguns de <strong>música romàtinca en saxofon</strong>, vídeos com a <a href="/cat/saxofonista-bodes.php">saxofonista per a bodes</a> o en festes amb <strong>saxofonista i DJ</strong>.</p>
                         </div>
                     </div>
                 </div>
@@ -106,7 +109,7 @@
                 <div class="row">
                     <div class="col-md-10 col-md-offset-1 col-xs-12">
                         <div class="text-center style-3">
-                            <a class="btn btn-small btn-black" href="/cat/videos.php" title="Videos de SAXONARA">MÉS VÍDEOS</a>
+                            <a class="btn btn-small btn-black" href="/cat/videos.php" title="Videos de SAXONARA">+ VÍDEOS</a>
                         </div>
                     </div>
                 </div>
@@ -150,7 +153,7 @@
                         <div class="section-header">
                             <h2 class="section-title">Serveis amb saxofonista</h2>
                             <h5>Bodes</h5>
-                            <p>Vaig començar amb <b>SAX</b> ON <b>ARA</b> per a donar servei a la gran demanda de <strong>parelles que volien que toqués el saxòfon a les seves bodes</strong>, avui són moltes ja les bodes en les que he participat com a saxofonista. Moments com la <strong>Cerimònia</strong>, el <strong>Còctel</strong> o la <strong>Festa amb el DJ</strong> acostument a ser els més sol·licitats, però també altres com el <strong>Primer Ball</strong> o el Pastís.</p>
+                            <p>Cada vegada són més les parelles que volen <strong>música en directe a la boda</strong></strong>, i a mi em fa molta il·lusió que vulguin comptar amb la meva música al saxòfon, és per això que realitzo moltes actuacions com a <strong>saxofonista per a bodes</strong>. Moments com la <strong>Cerimònia</strong>, el <strong>Còctel</strong> o la <strong>Festa amb el DJ</strong> acostument a ser els més sol·licitats, però també altres com el <strong>Primer Ball</strong> o el Pastís.</p>
                             <h5>Esdeveniments Corporatius</h5>
                             <p>Als <strong>Esdeveniments d'Empresa</strong> acostumo a treballar <strong>amenitzant en saxòfon</strong> i música de l'estil Smooth Pop o House, creant un <strong>ambient Chill-Out Modern</strong> per a moments d'After-Office, Team Building o similars, una opció molt sol·licitada en grans ciutats com <strong>Barcelona, Andorra la Vella o València</strong>.</p>
                             <h5>Sonorització i Equip de So</h5>

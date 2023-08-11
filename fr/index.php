@@ -61,11 +61,13 @@
                     <div class="col-md-10 col-md-offset-1 col-xs-12">
                         <div class="section-header text-center style-3">
                             <h3 class="section-title">SAXONARA<br>Saxophoniste événementiel & mariages</h3>
-                            <p class="section-subtext">Bonjour! Je suis Arnald SAXONARA, je suis un saxophoniste professionnel, je travaille en solo, avec des DJs et en groupe. Je joue dans toute la <strong>France</strong>, surtout <strong>à Toulouse, à Cannes, à Saint-Tropez, à Paris, à Lyon, à Perpignan</strong>… mais aussi à l'étranger. J'ai une vaste expérience de la participation à des Vernissages, <strong>Fêtes Privées</strong>, Défilés de Mode, Foires, <strong>Mariages</strong> et <strong>Événements d'Entreprise</strong>.</p>
+                            <p class="section-subtext">Salut! Je suis Arnald SAXONARA, <strong>saxophoniste professionnel lors d'événements et de mariages</strong> en tant que soliste, ainsi qu'avec des DJ, des groupes et d'autres options. J'adore faire de la <strong>musique live lors des mariages</strong>, d'événements privés, d'hôtels, de fêtes, de <strong>dîners d'entreprise</strong> et plus encore.</p>
 
-                            <p class="section-subtext">En tant que joueur professionnel de saxophone et jouant de la <strong>musique moderne, électronique, pop et jazz</strong>, mes performances se transforment en performances dynamiques, uniques et élégantes. Pour chaque représentation, je prépare la musique que je vais jouer en fonction des clients et du type d'événement, en fournissant toujours <strong>le meilleur service pour la meilleur fête</strong>.</p>
+                            <p class="section-subtext">Où pouvez-vous me trouver? Je voyage pour jouer de la musique en tant que <strong><a href="/fr/saxophoniste-france">saxophoniste en France</a></strong>, en particulier vous pouvez me trouver à <a href="/fr/saxophoniste-toulouse">Toulouse</a>, <a href="/fr/saxophoniste-perpignan">Perpignan</a> ou Montpellier. Je travaille également, surtout pour des événements privés et des mariages, à Paris, Lyon ou Marseille.</p>
 
-                            <p class="section-subtext">En plus de jouer du saxophone, je peux fournir également du matériel de sonorisation et des microphones. Contactez-moi pour réserver le jour de votre événement. Je suis <strong>saxophoniste événementiel en France</strong> mais je suis aussi <strong>disponible pour voyager</strong>.</p>
+                            <p class="section-subtext"><b>Mes styles de musique préférés?</b> J'adapte mes shows au type d'événement, donc jouer de la <strong>musique romantique au saxophone</strong> lors d'une <a href="/fr/saxophoniste-mariages.php#ceremony">Cérémonie de Mariage</a> n'est pas la même chose que sortir avec le <strong>saxophone et lumières LED</strong> sur la scène d'une boîte de nuit. J'aime m'adapter à chaque situation, de manière <strong>élégante</strong> et en cherchant à satisfaire le client, je suis donc également ouvert aux <b>demandes</b> pour rendre l'événement unique.</p>
+
+                            <p class="section-subtext">En plus de jouer du saxophone, je peux fournir également du matériel de <b>sonorisation et des microphones</b>. Contactez-moi pour réserver le jour de votre événement. Je suis <strong>saxophoniste événementiel en France</strong> mais je suis aussi <strong>disponible à l'international</strong>.</p>
                             <a class="btn btn-small btn-black" href="#contact">CONTACTER</a>
                         </div>
                     </div>
@@ -91,9 +93,10 @@
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2 col-xs-12">
                         <div class="section-header text-center">
-                            <h3 class="section-title">Videos</h3>
-                            <p class="section-subtext">Voici mes enregistrements les plus récents sur saxophone.<br>
-                            Allez sur le YouTube Channel <b>SAXONARA</b> pour y trouver plusieurs vidéos et enregistrements.</p>
+                            <h3 class="section-title">Vidéos SAXONARA</h3>
+                            <p class="section-subtext">J'ai des tonnes de vidéos d'enregistrements en direct lors de mariages et d'événements, ainsi que des clips vidéo que nous avons tournés dans des endroits merveilleux. Pour vous tenir au courant des derniers enregistrements ou découvrir ensemble des <strong>les meilleurs domaines de mariage</strong>, vous pouvez vous abonner à mes chaînes Instagram ou YouTube, retrouvez-moi sous le nom de SAXONARA.</p>
+
+                            <p class="section-subtext"> Voici quelques-uns de mes derniers enregistrements, de la <strong>musique romantique au saxophone</strong>, des vidéos en tant que <a href="/fr/saxophoniste-mariages.php">saxophoniste pour des mariages</a> ou lors de <strong>soirées avec saxophoniste et DJ</strong>.</p>
                         </div>
                     </div>
                 </div>
@@ -105,7 +108,7 @@
                 <div class="row">
                     <div class="col-md-10 col-md-offset-1 col-xs-12">
                         <div class="text-center style-3">
-                            <a class="btn btn-small btn-black" href="/fr/videos.php" title="Videos de SAXONARA">PLUS DE VIDÉOS</a>
+                            <a class="btn btn-small btn-black" href="/fr/videos.php" title="Videos de SAXONARA">+ VIDÉOS</a>
                         </div>
                     </div>
                 </div>

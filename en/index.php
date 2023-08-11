@@ -61,11 +61,13 @@
                     <div class="col-md-10 col-md-offset-1 col-xs-12">
                         <div class="section-header text-center style-3">
                             <h3 class="section-title">SAXONARA<br>Saxophonist for weddings & events</h3>
-                            <p class="section-subtext">Hi! I'm Arnald SAXONARA, I'm a professional saxophone player playing solo, with DJs and bands. I work mostly around <strong>Europe</strong>, specially <strong>Barcelona</strong>, <strong>Paris</strong> and <strong>Ibiza</strong>. I've played at many different events along DJs and SoloSax, events like grand openings, <strong>private parties</strong>, fashion catwalks, business fairs, <strong>weddings</strong> and <strong>corporate events</strong>.</p>
+                            <p class="section-subtext">Hello! I'm Arnald SAXONARA, I'm a <strong>professional saxophonist at events and weddings</strong> playing as a solo artist, along with DJs, bands or other options. I love playing <strong><a href="/en/saxophonist-wedding.php">live music at weddings</a></strong>, private events, hotels, parties, <strong>corporate events</strong> & more.</p>
 
-                            <p class="section-subtext">Being a professional saxophone player and playing <strong>modern, electronic, pop and jazz music</strong> turns my performances into dynamic ones, that are unique and elegant. For each performance <strong>I prepare the music I'll play according to the clients and the type of event</strong>, always providing the best service and to enjoying the party.</p>
+                            <p class="section-subtext"><b>Where can you find me?</b> I travel and play my music as a <strong>saxophonist throughout Europe</strong>, specially you can find me in <a href="/en/saxophonist-barcelona.php">Barcelona</a>, <a href="/en/saxophonist-madrid.php">Madrid</a> or around <a href="/en/saxophonist-spain.php">Spain</a>. I also work, specially in summer in <a href="/en/saxophonist-mallorca.php">Mallorca</a>, and private events and weddings in the UK, France, Germany, Switzerland and Dubai.</p>
 
-                            <p class="section-subtext">Besides playing saxophone, I also can provide sound equipment & microphones to make it easier. Contact me to book the day of your event. I do local and <strong>international events</strong>.</p>
+                            <p class="section-subtext"><b>My favorite styles?</b> I adapt my shows to each event, so playing <strong>romantic music on saxophone</strong> at a <a href="/en/saxophonist-wedding.php#ceremony">Wedding Ceremony</a> is not going to be the same as playing my <strong>saxophone with LED lights</strong> on the stage of a nightclub. I love to adapt to each event, in an <strong>elegant</strong> way and seeking to satisfy the client, so I'm also open to <b>requests</b> to make the event unique.</p>
+
+                            <p class="section-subtext">In addition to music, I also have <b>sound equipment and microphones</b> for the ease of the customer. Contact me to book the date of your event. I travel throughout <strong>Spain</strong>, <strong>France</strong>, <strong>UK</strong>, <strong>Germany</strong> and abroad.</p>
                             <a class="btn btn-small btn-black" href="#contact">CONTACT</a>
                         </div>
                     </div>
@@ -91,9 +93,10 @@
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2 col-xs-12">
                         <div class="section-header text-center">
-                            <h3 class="section-title">Videos</h3>
-                            <p class="section-subtext">These are my latests recordings on saxophone.<br>
-                            Go to the YouTube Channel <b>SAXONARA</b> to find many more videos and recordings.</p>
+                            <h3 class="section-title">SAXONARAVideos</h3>
+                            <p class="section-subtext">I have tons of videos from live recordings at weddings and events, as well as video clips that we shot in wonderful places. To keep up to date with the latest recordings or discover <strong>the best wedding venues</strong> together, you can subscribe to my Instagram or YouTube channels, find me as SAXONARA.</p>
+
+                            <p class="section-subtext"> Here are some of my latest recordings, some of them are <strong>romantic music on saxophone</strong>, videos as <a href="/en/saxophonist-wedding.php">saxophonist for weddings</a> or parties with <strong>saxophonist and DJ</strong>.</p>
                         </div>
                     </div>
                 </div>
@@ -106,7 +109,7 @@
                 <div class="row">
                     <div class="col-md-10 col-md-offset-1 col-xs-12">
                         <div class="text-center style-3">
-                            <a class="btn btn-small btn-black" href="/en/videos.php" title="Videos de SAXONARA">MY VIDEOS</a>
+                            <a class="btn btn-small btn-black" href="/en/videos.php" title="Videos de SAXONARA">+ VIDEOS</a>
                         </div>
                     </div>
                 </div>

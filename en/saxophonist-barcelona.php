@@ -14,7 +14,7 @@
     <!-- COMMON-LOCALIZATION END -->
 
     <!-- SITE INFORMATION -->
-    <title>Saxophonist for Events in Barcelona | Availability and Prices</title>
+    <title>Saxophonist in Barcelona | Events & Weddings | Availability & Prices</title>
     <meta name="description" content="Saxophonist in Barcelona for events, weddings and parties. All the information about SAXONARA, hire a saxophonist from Barcelona for corporate events or weddings.">
     <meta name="keywords" content="saxophonist, barcelona, SAXONARA, events, weddings, parties, saxophone">
 

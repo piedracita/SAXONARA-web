@@ -68,7 +68,7 @@
                     </div>
                     <div class="col-md-6 col-md-pull-6 col-xs-12 col-xs-pull-0">
                         <div class="artist-image">
-                            <img loading="lazy" class="img-responsive" src="../images/cities/saxophoniste-toulouse.jpg" alt="SAXONARA est saxophoniste à Toulouse">
+                            <img loading="lazy" class="img-responsive" src="../images/cities/saxophoniste-toulouse.jpg" alt="SAXONARA est le meilleur saxophoniste événementiel">
                         </div>
                     </div>
                 </div>

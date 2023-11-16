@@ -10,7 +10,7 @@
     <link rel="canonical" href="https://www.saxonara.com/about.php">
 
     <!-- SITE INFORMATION -->
-    <title>Todo sobre mi | ¿Quien es SAXONARA?</title>
+    <title>Biografía de Arnald SAXONARA | Saxofonista para eventos y bodas</title>
     <meta name="description" content="¿Quién es Arnald SAXONARA? Descubre toda mi historia que va mucho más allá de ser saxofonista para eventos.">
     <meta name="keywords" content="saxofonista, SAXONARA, About, quién, arnald, eventos, bodas">
 
@@ -35,9 +35,9 @@
     <!-- PAGE HEADER -->
     <div class="page-header">
         <div class="container text-center">
-            <h1 class="page-title">¿Quién es SAXONARA?</h1>
+            <h1 class="page-title">Biografía de Arnald SAXONARA</h1>
             <ol class="breadcrumb">
-                <li>¿Quién es Arnald SAXONARA? Descubre toda mi historia que va mucho más allá de ser saxofonista para eventos.</li>
+                <li>Descubre toda mi historia que va mucho más allá de ser saxofonista para eventos.</li>
             </ol>
         </div>
     </div>

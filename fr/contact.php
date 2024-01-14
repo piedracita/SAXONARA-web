@@ -59,13 +59,13 @@
                                 <!-- <h2 class="section-title">Contacta conmigo</h2> -->
                                 <p class="section-subtext"><b>Voulez-vous compter sur SAXONARA? </b> Réservez le jour de votre événement spécial ou de votre mariage avec moi, commençons à planifier votre célébration unique.</p>
                             </div>
-                            <div class="doing-item">
+                            <!-- <div class="doing-item">
                                 <div class="doing-icon">
                                     <i class="fa-solid fa-phone"></i> <i class="fa-brands fa-whatsapp"></i>
                                 </div>
                                 <h4 class="doing-title">Appel ou Whatsapp</h4>
                                 <p class="doing-text">Ecrivez-moi sur <a href="https://wa.me/33628267799">WhatsApp</a> ou appelez-moi au <a href="https://wa.me/33628267799">(+33) 628 26 77 99</a> pour plus d'informations.</p>
-                            </div>
+                            </div> -->
                             <div class="doing-item">
                                 <div class="doing-icon">
                                     <i class="fa-solid fa-envelope"></i>

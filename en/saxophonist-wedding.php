@@ -41,7 +41,7 @@
         <div class="container text-center">
             <h1 class="page-title">Wedding Saxophonist</h1>
             <ol class="breadcrumb">
-                <li>Hire the saxophonist for weddings, check availability, information and prices. Live music for Wedding Ceremony, Appetizer or Party and Open Bar. Surprise your guests for the best wedding.</li>
+                <li><span class="banner-highlight">Hire the saxophonist for weddings, check availability, information and prices. Live music for Wedding Ceremony, Appetizer or Party and Open Bar. Surprise your guests for the best wedding.</span></li>
             </ol>
         </div>
     </div>

@@ -41,7 +41,7 @@
             <h1 class="page-title">Vídeos de SAXONARA</h1>
             <h5>Els meus videoclips preferits en saxòfon</h5>
             <!-- <ol class="breadcrumb">
-                <li>Selección musical con grabaciones de estudio y vídeos en directo</li>
+                <li><span class="banner-highlight">Selección musical con grabaciones de estudio y vídeos en directo</span></li>
             </ol> -->
         </div>
     </div>

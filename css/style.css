@@ -2255,6 +2255,7 @@ Page Header
   text-transform: uppercase;
   margin: 0;
   line-height: 1;
+  text-shadow: 2px 2px 4px #000000;
 }
 
 /*----------------------------

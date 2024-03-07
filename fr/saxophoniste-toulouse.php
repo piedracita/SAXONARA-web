@@ -37,7 +37,7 @@
         <div class="container text-center">
             <h1 class="page-title">Saxophoniste à Toulouse</h1>
             <ol class="breadcrumb">
-                <li>Saxophoniste à Toulouse pour événements, mariages et soirées. Toutes les informations sur SAXONARA, engagez un saxophoniste et musique pour des événements d'entreprise ou des mariages.</li>
+                <li><span class="banner-highlight">Saxophoniste à Toulouse pour événements, mariages et soirées. Toutes les informations sur SAXONARA, engagez un saxophoniste et musique pour des événements d'entreprise ou des mariages.</span></li>
             </ol>
         </div>
     </div>

@@ -36,7 +36,7 @@
         <div class="container text-center">
             <h1 class="page-title">Saxophoniste en France</h1>
             <ol class="breadcrumb">
-                <li>Saxophoniste en France pour événements, mariages et soirées. Toutes les informations sur SAXONARA, engagez un saxophoniste pour des événements d'entreprise ou des mariages en France.</li>
+                <li><span class="banner-highlight">Saxophoniste en France pour événements, mariages et soirées. Toutes les informations sur SAXONARA, engagez un saxophoniste pour des événements d'entreprise ou des mariages en France.</span></li>
             </ol>
         </div>
     </div>

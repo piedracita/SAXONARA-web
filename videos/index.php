@@ -39,10 +39,9 @@
     <div class="page-header">
         <div class="container text-center">
             <h1 class="page-title">Vídeos de SAXONARA</h1>
-            <h5>Selección musical con grabaciones de estudio y vídeos en directo</h5>
-            <!-- <ol class="breadcrumb">
-                <li>Selección musical con grabaciones de estudio y vídeos en directo</li>
-            </ol> -->
+            <ol class="breadcrumb">
+                <li><span class="banner-highlight">Selección musical con grabaciones de estudio y vídeos en directo</span></li>
+            </ol>
         </div>
     </div>
     <!-- PAGE HEADER END -->

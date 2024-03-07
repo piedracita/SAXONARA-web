@@ -37,7 +37,7 @@
         <div class="container text-center">
             <h1 class="page-title">Biographie de SAXONARA</h1>
             <ol class="breadcrumb">
-                <li>Qui est Arnald SAXONARA? Découvrez toute mon histoire qui va bien au-delà du fait d'être saxophoniste événementiel.</li>
+                <li><span class="banner-highlight">Qui est Arnald SAXONARA? Découvrez toute mon histoire qui va bien au-delà du fait d'être saxophoniste événementiel.</span></li>
             </ol>
         </div>
     </div>

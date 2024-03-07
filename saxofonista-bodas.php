@@ -41,7 +41,7 @@
         <div class="container text-center">
             <h1 class="page-title">Saxofonista para Bodas</h1>
             <ol class="breadcrumb">
-                <li>Contratar al saxofonista para bodas, consulta la disponibilidad, información y precios. Música para Ceremonia de boda, Aperitivo o Fiesta y Barra libre. Sorprende a tus invitados para la mejor boda.</li>
+                <li><span class="banner-highlight">Contratar al saxofonista para bodas, consulta la disponibilidad, información y precios. Música para Ceremonia de boda, Aperitivo o Fiesta y Barra libre. Sorprende a tus invitados para la mejor boda.</span></li>
             </ol>
         </div>
     </div>

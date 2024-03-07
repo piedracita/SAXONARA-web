@@ -41,7 +41,7 @@
         <div class="container text-center">
             <h1 class="page-title">Contacto</h1>
             <ol class="breadcrumb">
-                <li>saxofonista para eventos</li>
+                <li><span class="banner-highlight">saxofonista para eventos</span></li>
             </ol>
         </div>
     </div>

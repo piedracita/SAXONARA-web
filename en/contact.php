@@ -39,7 +39,7 @@
         <div class="container text-center">
             <h1 class="page-title">Contact</h1>
             <ol class="breadcrumb">
-                <li>saxophonist for events</li>
+                <li><span class="banner-highlight">Saxophonist for events</span></li>
             </ol>
         </div>
     </div>

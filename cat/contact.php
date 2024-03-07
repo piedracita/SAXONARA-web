@@ -39,7 +39,7 @@
         <div class="container text-center">
             <h1 class="page-title">Contacte</h1>
             <ol class="breadcrumb">
-                <li>saxofonista per esdeveniments</li>
+                <li><span class="banner-highlight">saxofonista per esdeveniments</span></li>
             </ol>
         </div>
     </div>

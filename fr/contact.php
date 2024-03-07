@@ -40,7 +40,7 @@
         <div class="container text-center">
             <h1 class="page-title">Contactez-moi</h1>
             <ol class="breadcrumb">
-                <li>Saxophoniste événementiel et mariages</li>
+                <li><span class="banner-highlight">Saxophoniste événementiel et mariages</span></li>
             </ol>
         </div>
     </div>

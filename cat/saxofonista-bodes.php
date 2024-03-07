@@ -41,7 +41,7 @@
         <div class="container text-center">
             <h1 class="page-title">Saxofonista per a bodes</h1>
             <ol class="breadcrumb">
-                <li>Contractar el saxofonista per a bodes, consulta la disponibilitat, informació i preus. Música per a Cerimònia de boda, Aperitiu o Festa i Barra lliure. Sorprèn els teus convidats per al millor casament.</li>
+                <li><span class="banner-highlight">Contractar el saxofonista per a bodes, consulta la disponibilitat, informació i preus. Música per a Cerimònia de boda, Aperitiu o Festa i Barra lliure. Sorprèn els teus convidats per al millor casament.</span></li>
             </ol>
         </div>
     </div>

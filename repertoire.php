@@ -38,7 +38,7 @@
             <h1 class="page-title">Repertorio y Estilos</h1>
             <h5>Resumen de los distintos estilos de música que interpreto en saxofón, según sea para un evento lounge, cocktail, fiesta o incluso ceremonia de boda</h5>
             <!-- <ol class="breadcrumb">
-                <li>Selección musical con grabaciones de estudio y vídeos en directo</li>
+                <li><span class="banner-highlight">Selección musical con grabaciones de estudio y vídeos en directo</span></li>
             </ol> -->
         </div>
     </div>

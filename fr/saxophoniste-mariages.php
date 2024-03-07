@@ -41,7 +41,7 @@
         <div class="container text-center">
             <h1 class="page-title">Saxophoniste pour mariage</h1>
             <ol class="breadcrumb">
-                <li>Saxophoniste pour les mariages, vérifiez la disponibilité, les informations et les prix. Musique pour cérémonie de mariage, apéritif ou fête et bar ouvert. Surprenez vos invités pour le meilleur mariage.</li>
+                <li><span class="banner-highlight">Saxophoniste pour les mariages, vérifiez la disponibilité, les informations et les prix. Musique pour cérémonie de mariage, apéritif ou fête et bar ouvert. Surprenez vos invités pour le meilleur mariage.</span></li>
             </ol>
         </div>
     </div>

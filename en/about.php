@@ -37,7 +37,7 @@
         <div class="container text-center">
             <h1 class="page-title">About SAXONARA</h1>
             <ol class="breadcrumb">
-                <li>Who is Arnald SAXONARA? Discover my entire story that goes far beyond being a saxophonist for events and weddings.</li>
+                <li><span class="banner-highlight">Who is Arnald SAXONARA? Discover my entire story that goes far beyond being a saxophonist for events and weddings.</span></li>
             </ol>
         </div>
     </div>

@@ -122,7 +122,7 @@
                                     <i class="fa-solid fa-martini-glass-citrus"></i>
                                 </div>
                                 <h4 class="doing-title">Repertorio</h4>
-                                <p class="doing-text">A la hora de preparar el show es fundmental tener unas guías en cuanto a la música y el estilo que el cliente desa, no es lo mismo actuar en un <strong>Cóctel de boda</strong> que en una fiesta, así como tampoco es lo mismo interpretar temas de un <strong>evento corporativo</strong> en un auditorio que en un formato Lounge.</p>
+                                <p class="doing-text">A la hora de preparar el show es fundamental tener unas guías en cuanto a la música y el estilo que el cliente desa, no es lo mismo actuar en un <strong>Cóctel de boda</strong> que en una fiesta, así como tampoco es lo mismo interpretar temas de un <strong>evento corporativo</strong> en un auditorio que en un formato <strong>Música Lounge en directo</strong>.</p>
                             </div>
                             <div class="doing-item">
                                 <div class="doing-icon">
@@ -136,7 +136,7 @@
                                     <i class="fa-solid fa-headphones"></i>
                                 </div>
                                 <h4 class="doing-title">Fiestas DJ</h4>
-                                <p class="doing-text">Nuestro formato de <strong>Dúo Violín & Saxofón Fusión</strong> es autónomo, nosotros mismos nos encargamos de mezclar la música y realizar nuestra actuación, sin embargo, hay posibilidad de trabajar con DJs externos, a quienes facilitaremos la música y con quienes podemos improvisar si fuera necesario, especialemente para un ambiente <strong>Jazz Chill-out</strong>.</p>
+                                <p class="doing-text">Nuestro formato de <strong>Dúo Violín & Saxofón Fusión</strong> es autónomo, nosotros mismos nos encargamos de mezclar la música y realizar nuestra actuación, sin embargo, hay posibilidad de trabajar con <b>DJs externos</b>, a quienes facilitaremos la música y con quienes podemos improvisar si fuera necesario, especialemente para un ambiente <strong>Jazz Chill-out</strong>.</p>
                             </div>
                         </div>
                     </div>
@@ -158,11 +158,11 @@
                         <div class="section-header">
                             <h2 class="section-title">Violín & Sax Fusión en Eventos</h2>
                             <h5>Bodas</h5>
-                            <p>Una de las partes que más disfruto como saxofonista és cuando participo en bodas, realizando servicios como la <strong><a href="/saxofonista-bodas.php#ceremony">Ceremonia</a></strong>, el <strong><a href="/saxofonista-bodas.php#cocktail">Cóctel</a></strong>, el <strong>Primer Baile</strong> o la <strong><a href="/saxofonista-bodas.php#party">Fiesta junto al DJ</a></strong>, siempre con la intención de hacer que a celebración sea inolvidable y al gusto de la pareja.</p>
+                            <p>Nuestras fiestas favoritas, nuestro <strong>Dúo Violín Sax Fusión</strong> es perfecto para un <strong>apertivo de boda</strong> que invite a bailar o para la <strong>fiesta</strong> junto al DJ, con <strong>Violín Electrónico Led</strong> y <strong>Saxofón con luz</strong>.</p>
                             <h5>Eventos Privados</h5>
-                            <p>En los <strong>eventos de empresa</strong> suelo trabajar <strong>amenizando en saxofón</strong> con música estilo Smooth Pop o House, creando un <strong>ambiente Chill-Out Moderno</strong> para momentos de After-Office, Team Building y similares, una opción muy solicitada en grandes ciudades como <strong>Barcelona, Madrid o Valencia</strong>.</p>
-                            <h5>Fiestas</h5>
-                            <p>También podemos proveer el <strong>equipo de sonido y luces</strong> para las performances, se trata de equipos de alta calidad y modulábles dependiendo del tipo de evento, el público y el espacio.</p>
+                            <p>Si quieres sorprender a tus invitados con un <strong>dúo de música en directo</strong>, estamos seguros que nuestro show te va a encantar, actuamos en <strong>eventos privados</strong> de todo tipo, también al aire libre.</p>
+                            <h5>Eventos de empresa</h5>
+                            <p><strong>Música en directo Violín y Saxo</strong> para eventos coorporativos espectaculares, sorprenderás a tus clientes en una fiesta o también podemos actuar en <strong>auditorio</strong> amenizando una <strong>entrega de premios</strong>. Si tienes otra idea, ¡háznoslo saber!</p>
                         </div>
                     </div>
                 </div>

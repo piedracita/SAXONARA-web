@@ -49,7 +49,7 @@
                     </div>
                 </div>
             </div> -->
-            <div class="banner-item bg-saxonara-electronicsax">
+            <div class="banner-item banner-item-1">
                 <div class="banner-content text-white">
                     <div class="container">
                         <h1 class="banner-title">Saxofonista para eventos</h1>

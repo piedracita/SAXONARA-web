@@ -24,7 +24,8 @@
 
 </head>
 
-<body class="page">
+<body>
+<!--<body class="page">-->
 
     <!-- COMMON-BODY -->
     <?php include "common-php/body.html"; ?>
@@ -34,18 +35,24 @@
         <!-- NAVIGATION -->
         <?php include "common-php/navigation/es.html"; ?>
         <!-- NAVIGATION END -->
-    </header>
 
-    <!-- PAGE HEADER -->
-    <div class="page-header">
-        <div class="container text-center">
-            <h1 class="page-title">Saxofonista para Bodas</h1>
-            <ol class="breadcrumb">
-                <li><span class="banner-highlight">Contratar al saxofonista para bodas, consulta la disponibilidad, información y precios. Música para Ceremonia de boda, Aperitivo o Fiesta y Barra libre. Sorprende a tus invitados para la mejor boda.</span></li>
-            </ol>
+        <!-- BANNER SLIDER -->
+        <div class="banner-slider owl-slider" id="banner-slider">
+            <div class="banner-item banner-item-2">
+                <div class="banner-content text-white">
+                    <div class="container">
+                        <h1 class="banner-title">Saxofonista para Bodas</h1>
+                        <p class="banner-subtitle"><span class="banner-highlight">Contratar al saxofonista para bodas, consulta la disponibilidad, información y precios. Música para Ceremonia de boda, Aperitivo o Fiesta y Barra libre. Sorprende a tus invitados para la mejor boda.</span></p>
+                        <div class="button-group">
+                            <a class="btn btn-border btn-lg btn-white" href="#contact">Contactar</a>
+                            <a class="btn btn-simple btn-lg btn-white" href="/videos/"><i class="fa-solid fa-play"></i> Ver Vídeos</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
-    </div>
-    <!-- PAGE HEADER END -->
+        <!-- BANNER SLIDER END -->
+    </header>
 
     <div class="main-wrap">
 

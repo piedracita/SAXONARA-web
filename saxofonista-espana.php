@@ -37,7 +37,7 @@
 
         <!-- BANNER SLIDER -->
         <div class="banner-slider owl-slider" id="banner-slider">
-            <div class="banner-item bg-saxonara-electronicsax">
+            <div class="banner-item banner-item-1">
                 <div class="banner-content text-white">
                     <div class="container">
                         <h1 class="banner-title">Saxofonista en España</h1>

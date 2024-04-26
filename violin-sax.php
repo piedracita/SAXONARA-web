@@ -76,7 +76,7 @@
                 <div class="row">
                     <div class="col-xs-12 text-center">
                         <div class="band-img">
-                            <img loading="lazy" class="img-responsive" src="images/violin-sax/violin-sax-fusion.jpg" alt="Fusión Violín Saxofón en Música Electrónica y bodas.">
+                            <img loading="lazy" class="img-responsive" src="/images/violin-sax/violin-sax-fusion.jpg" alt="Fusión Violín Saxofón en Música Electrónica y bodas.">
                         </div>
                     </div>
                 </div>

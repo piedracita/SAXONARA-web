@@ -15,7 +15,7 @@
 
     <!-- SITE INFORMATION -->
     <title>DJ & SAX Fusión | Fiestas de boda y Eventos increñibles | Precio y Tarifas</title>
-    <meta name="description" content="Increíble combo para Fiestas y Eventos, desde la música Lounge Ibiza hasta las Fiestas más espectaculares en bodas y clubs de Barcelona y Madrid. Consulta precio y tarifas.">
+    <meta name="description" content="Música en directo DJ & SAX Fusión para Fiestas y Eventos, desde la música Lounge Ibiza hasta las Fiestas de bodamás espectaculares en bodas y clubs de Barcelona y Madrid. Consulta precio y tarifas.">
     <meta name="keywords" content="sax, dj, duo, fusion, bodas, fiestas, electrónica">
 
     <!-- COMMON-OPENGRAPH -->
@@ -38,11 +38,11 @@
 
         <!-- BANNER SLIDER -->
         <div class="banner-slider owl-slider" id="banner-slider">
-            <div class="banner-item banner-item-3">
+            <div class="banner-item banner-item-1">
                 <div class="banner-content text-white">
                     <div class="container">
                         <h1 class="banner-title">DJ & SAX Fusión</h1>
-                        <p class="banner-subtitle"><span class="banner-highlight">Increíble combo para Fiestas y Eventos, desde la música Lounge Ibiza hasta las Fiestas más espectaculares en bodas y clubs de Barcelona y Madrid. Consulta precio y tarifas.</span></p>
+                        <p class="banner-subtitle"><span class="banner-highlight">Música en directo DJ & SAX Fusión para Fiestas y Eventos, desde la música Lounge Ibiza hasta las Fiestas de bodamás espectaculares en bodas y clubs de Barcelona y Madrid. Consulta precio y tarifas.</span></p>
                         <div class="button-group">
                             <a class="btn btn-border btn-lg btn-white" href="#contact">Contactar</a>
                             <a class="btn btn-simple btn-lg btn-white" href="/videos/"><i class="fa-solid fa-play"></i> Ver Vídeos</a>
@@ -76,7 +76,7 @@
                 <div class="row">
                     <div class="col-xs-12 text-center">
                         <div class="band-img">
-                            <img loading="lazy" class="img-responsive" src="images/violin-sax/violin-sax-fusion.jpg" alt="Fusión Violín Saxofón en Música Electrónica y bodas.">
+                            <img loading="lazy" class="img-responsive" src="/images/dj-sax/dj-sax.jpg" alt="Fusión DJ y Saxofonsita para las mejores fiestas y eventos.">
                         </div>
                     </div>
                 </div>
@@ -85,7 +85,7 @@
         <!-- ABOUT BAND END -->
 
         <!-- DIVIDER -->
-        <?php include "common-php/violin-sax/divider-violin-sax-01-es.html"; ?>
+        <?php include "common-php/dj-sax/divider-dj-sax-01-es.html"; ?>
         <!-- DIVIDER END -->
 
         <!-- ARTIST -->
@@ -94,13 +94,13 @@
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2 col-xs-12">
                         <div class="section-header text-center">
-                            <h3 class="section-title">Fotos Violín y Sax Dúo</h3>
+                            <h3 class="section-title">Fotos DJ y Sax Fusión</h3>
                             <p class="section-subtext">Algunas de nuestras fotos favoritas en formato <strong>Dúo Violín y Saxofón</strong>, como nos encanta actuar en <strong>bodas</strong>, y como tenemos los mejores novios, siempre no esnvían fotos espectaculares. Nuestro formato y presentación se adapta al tipo de evento, no dudes en dejarnos tus comentarios cuando nos contrates.</p>
                         </div>
                     </div>
                 </div>
 
-                <?php include "common-php/violin-sax/photos-violin-sax-01.html"; ?>
+                <?php include "common-php/dj-sax/photos-dj-sax-01.html"; ?>
 
             </div>
         </div>

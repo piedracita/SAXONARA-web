@@ -14,9 +14,9 @@
     <!-- COMMON-LOCALIZATION END -->
 
     <!-- SITE INFORMATION -->
-    <title>DJ & SAX Fusión | Fiestas de boda y Eventos increñibles | Precio y Tarifas</title>
-    <meta name="description" content="Música en directo DJ & SAX Fusión para Fiestas y Eventos, desde la música Lounge Ibiza hasta las Fiestas de bodamás espectaculares en bodas y clubs de Barcelona y Madrid. Consulta precio y tarifas.">
-    <meta name="keywords" content="sax, dj, duo, fusion, bodas, fiestas, electrónica">
+    <title>DJ & SAX Combo | Eventos y Fiestas de boda | + Bongos / Violín</title>
+    <meta name="description" content="Música en directo DJ & SAX Combo para Fiestas y Eventos, también con Bongos o Violín. Música en directo tipo Lounge / Chill-Out o las Fiestas más explosivas en bodas y clubs de Barcelona y Madrid. Consulta precio y tarifas.">
+    <meta name="keywords" content="sax, dj, duo, combo, bodas, fiestas, electrónica">
 
     <!-- COMMON-OPENGRAPH -->
     <?php include "common-php/opengraph/es.html"; ?>
@@ -41,8 +41,8 @@
             <div class="banner-item banner-item-1">
                 <div class="banner-content text-white">
                     <div class="container">
-                        <h1 class="banner-title">DJ & SAX Fusión</h1>
-                        <p class="banner-subtitle"><span class="banner-highlight">Música en directo DJ & SAX Fusión para Fiestas y Eventos, desde la música Lounge Ibiza hasta las Fiestas de bodamás espectaculares en bodas y clubs de Barcelona y Madrid. Consulta precio y tarifas.</span></p>
+                        <h1 class="banner-title">DJ & SAX Combo</h1>
+                        <p class="banner-subtitle"><span class="banner-highlight">Música en directo DJ & SAX Combo para Fiestas y Eventos, también con Bongos o Violín. Música en directo tipo Lounge / Chill-Out o las Fiestas más explosivas en bodas. Consulta precio y tarifas.</span></p>
                         <div class="button-group">
                             <a class="btn btn-border btn-lg btn-white" href="#contact">Contactar</a>
                             <a class="btn btn-simple btn-lg btn-white" href="/videos/"><i class="fa-solid fa-play"></i> Ver Vídeos</a>
@@ -61,12 +61,12 @@
                 <div class="row">
                     <div class="col-md-10 col-md-offset-1 col-xs-12">
                         <div class="section-header text-center style-3">
-                            <h3 class="section-title">DJ & SAX</h3>
-                            <p class="section-subtext">Show expectacular con una puesta en escena vibrante, creando el mejor ambiente para tu evento. También estamos disponibles para <strong>bodas</strong>. Con nuestro <strong>Dúo Musical Violín & Saxo Fusión</strong> recorremos los temas más conocidos de la música española e internacional, con especial atención a esos temas que suenan hoy en día en las principales pistas de baile, sí como los clásicos de la música Remember y el Disco Funk de los 70s y 80s.</p>
+                            <h3 class="section-title">DJ & SAX Combo</h3>
+                            <p class="section-subtext">Nuestro Combo DJ & SAX se adapta a tu evento, desde <strong>fiestas de boda</strong> a <strong>eventos de empresa</strong> o aperitivos y eventos/bodas <strong>cóctel</strong>.</p>
 
-                            <p class="section-subtext">La mezcla de un <strong>violín electrónico</strong> con la energía de un saxofón en acústico, y también electrónico, serán el centro de atención en una fiesta, especialmente en eventos donde también puedan brillar las <strong>luces LED</strong> del violín y el <strong>saxo electrónico</strong>.</p>
+                            <p class="section-subtext">El saxofón es un instrumentos que se mimetiza perfectamente con la música electrónica, desde estilos más <strong>Lounge</strong> y <strong>Chill-Out</strong> a las fiestas más explosivas, como podría ser un Club, con <strong>saxofón electrónico</strong>, o una Fiesta de Boda con el saxofonsita animando y ofreciendo <strong>música en directo</strong>.</p>
 
-                            <p class="section-subtext">Como <strong>dúo musical</strong> también estamos disponibles para bodas, adaptando nuestro show <strong>Violín & Saxo Fusión</strong> a cada momento, desde <strong>Aperitivos tipo House / Ibiza</strong> a <strong>Fiestas con DJ</strong> y la música más actual. Así mismo también hay posibilidad de tocar en Ceremonia de boda y otras ideas.</p>
+                            <p class="section-subtext">A nuestro combo DJ & Sax se le pueden sumar más músicos para que el evento sea aún más vibrante, por ejemplo, <strong>DJ, Saxofón y Bongos</strong> es una opción fantástica para una fiesta de boda. Otra opción es <strong>DJ, Sax & Violín</strong> eléctrico, con una puesta en escena con <strong>luces LED</strong> y la música más conocida.</p>
 
                             <p class="section-subtext">Nos puedes contactar directamente para <strong>disponibilidad y precio</strong>. Estamos disponibles en toda España y el extrangero.</p>
                             <a class="btn btn-small btn-black" href="#contact">CONTACTO</a>
@@ -76,7 +76,7 @@
                 <div class="row">
                     <div class="col-xs-12 text-center">
                         <div class="band-img">
-                            <img loading="lazy" class="img-responsive" src="/images/dj-sax/dj-sax.jpg" alt="Fusión DJ y Saxofonsita para las mejores fiestas y eventos.">
+                            <img loading="lazy" class="img-responsive" src="/images/dj-sax/dj-sax.jpg" alt="Combo DJ y Saxofonsita electrónico para fiestas y eventos.">
                         </div>
                     </div>
                 </div>
@@ -94,8 +94,8 @@
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2 col-xs-12">
                         <div class="section-header text-center">
-                            <h3 class="section-title">Fotos DJ y Sax Fusión</h3>
-                            <p class="section-subtext">Algunas de nuestras fotos favoritas en formato <strong>Dúo Violín y Saxofón</strong>, como nos encanta actuar en <strong>bodas</strong>, y como tenemos los mejores novios, siempre no esnvían fotos espectaculares. Nuestro formato y presentación se adapta al tipo de evento, no dudes en dejarnos tus comentarios cuando nos contrates.</p>
+                            <h3 class="section-title">DJ & Sax Electrónico</h3>
+                            <p class="section-subtext">Estas són algunas de nuestras fotos favoritas en fiestas DJ & SAX, también acompañados de otros músicos para formatos <strong>DJ, Sax & Bongos</strong> o a <strong>Dúo Saxo y Violín</strong>, encontrarás muchas más fotos en el Instagram de SAXONARA.</p>
                         </div>
                     </div>
                 </div>
@@ -114,29 +114,29 @@
                     <div class="col-sm-5">
                         <div class="doing-items section-padding">
                             <div class="section-header">
-                                <h2 class="section-title">Preparamos el evento</h2>
-                                <p class="section-subtext">Conoce algunos detalles más de como preparamos cada evento, la coordinación entre nosotros en fundamental para una <b>perfecta interpretación</b> en el directo, así como la <b>coordinación con el cliente</b>. Cada evento o fiesta es distinta y nos gusta adaptarlo para que sea único.</p>
+                                <h2 class="section-title">Música en directo para eventos</h2>
+                                <p class="section-subtext">El formato perfecto para tu evento, la combinación musical <strong>DJ y Saxofón en directo</strong>, una opción potente, elegante y animada para hacer que tu evento destaque, disponible para <strong>eventos de empresa</strong>, <strong>bodas</strong> y otras opciones, sigue leyendo...</p>
                             </div>
                             <div class="doing-item">
                                 <div class="doing-icon">
                                     <i class="fa-solid fa-martini-glass-citrus"></i>
                                 </div>
-                                <h4 class="doing-title">Repertorio</h4>
-                                <p class="doing-text">A la hora de preparar el show es fundamental tener unas guías en cuanto a la música y el estilo que el cliente desa, no es lo mismo actuar en un <strong>Cóctel de boda</strong> que en una fiesta, así como tampoco es lo mismo interpretar temas de un <strong>evento corporativo</strong> en un auditorio que en un formato <strong>Música Lounge en directo</strong>.</p>
+                                <h4 class="doing-title">Chill-Out / Lounge</h4>
+                                <p class="doing-text">Si estás organizando un <strong>evento</strong> y quieres música en directo puedes contar con nuestro <strong>Combo DJ y Saxo</strong>, con nuestro formato obtendrás la <b>adaptabilidad</b> de la música DJ junto con el hype que le dará la <strong>música del saxofón en directo</strong>, puediendo adaptar la música a cada moemento.</p>
                             </div>
                             <div class="doing-item">
                                 <div class="doing-icon">
-                                    <i class="fa-solid fa-church"></i>
+                                    <i class="fa-solid fa-water-ladder"></i>
                                 </div>
-                                <h4 class="doing-title">Presentación</h4>
-                                <p class="doing-text">Nuestros looks y el dress-code lo coordinaremos en el momento de la contratación, que puede ser el elegante habitual, <strong>fiesta Ibiza</strong> en blanco, formal de traje y/o de negro o en <strong>colaboración con marcas de ropa</strong> y similares.</p>
+                                <h4 class="doing-title">Pool Party</h4>
+                                <p class="doing-text">Mi opción favorita tanto en música como formato es la opción DJ & SAX para una pool party, mezclando <strong>música en directo</strong>, entretenimiento y el ambiente de <strong>Saxofonista Nikki Beach Ibiza</strong> en tu <strong>Pool Party</strong>.</p>
                             </div>
                             <div class="doing-item">
                                 <div class="doing-icon">
-                                    <i class="fa-solid fa-headphones"></i>
+                                    <i class="fa-solid fa-champagne-glasses"></i>
                                 </div>
-                                <h4 class="doing-title">Fiestas DJ</h4>
-                                <p class="doing-text">Nuestro formato de <strong>Dúo Violín & Saxofón Fusión</strong> es autónomo, nosotros mismos nos encargamos de mezclar la música y realizar nuestra actuación, sin embargo, hay posibilidad de trabajar con <b>DJs externos</b>, a quienes facilitaremos la música y con quienes podemos improvisar si fuera necesario, especialemente para un ambiente <strong>Jazz Chill-out</strong>.</p>
+                                <h4 class="doing-title">La mejor fiesta</h4>
+                                <p class="doing-text">Un formató original de <strong>música en directo</strong> para <strong>fiestas de empresa</strong> y <strong>fiestas de boda</strong>, pudiéndonos adaptar en función de las necesidades y gustos de cliente, con una presentación <strong>elegante</strong> y saxofonista animando en formato pases desde la pista de baile, asegurando el éxito y <strong>diversión</strong> del evento.</p>
                             </div>
                         </div>
                     </div>
@@ -151,18 +151,18 @@
                 <div class="row">
                     <div class="col-md-6">
                         <div class="album-image">
-                            <img loading="lazy" class="img-responsive" src="images/violin-sax/violin-sax-duo.jpg" alt="Duo Violín y Saxofón para bodas,eventos y fiestas">
+                            <img loading="lazy" class="img-responsive" src="images/dj-sax/dj-sax-combo.jpg" alt="Combo DJ y Saxo para fiestas y eventos como bodas">
                         </div>
                     </div>
                     <div class="col-md-6">
                         <div class="section-header">
-                            <h2 class="section-title">Violín & Sax Fusión en Eventos</h2>
-                            <h5>Bodas</h5>
-                            <p>Nuestras fiestas favoritas, nuestro <strong>Dúo Violín Sax Fusión</strong> es perfecto para un <strong>apertivo de boda</strong> que invite a bailar o para la <strong>fiesta</strong> junto al DJ, con <strong>Violín Electrónico Led</strong> y <strong>Saxofón con luz</strong>.</p>
-                            <h5>Eventos Privados</h5>
-                            <p>Si quieres sorprender a tus invitados con un <strong>dúo de música en directo</strong>, estamos seguros que nuestro show te va a encantar, actuamos en <strong>eventos privados</strong> de todo tipo, también al aire libre.</p>
+                            <h2 class="section-title">Saxofonista, Violín y Bongos</h2>
+                            <h5>Sax & Bongos</h5>
+                            <p>Junto con el DJ, este Cmbo <strong>Saxo & Bongos</strong> lenvatará el ánimo de la fiesta con el extra de <strong>percusión en directo</strong> y la energía del <strong>saxofón electrónico</strong>, un formato adaptable a bodas y eventos.</p>
+                            <h5>Violín & Saxofón</h5>
+                            <p>Preparamos los sets más explosivos para que no paréis de bailar, la combinación de <strong>Saxofón y Violín electrónico</strong> en directo hará que tu fiesta brille, especialmente con las <strong>luces LED</strong> del violín.</p>
                             <h5>Eventos de empresa</h5>
-                            <p><strong>Música en directo Violín y Saxo</strong> para eventos coorporativos espectaculares, sorprenderás a tus clientes en una fiesta o también podemos actuar en <strong>auditorio</strong> amenizando una <strong>entrega de premios</strong>. Si tienes otra idea, ¡háznoslo saber!</p>
+                            <p>Nuestros formatos de música en directo están disponibles para <b>eventos de empresa</b>, <strong>fiestas de boda</strong> y más eventos y fiestas privadas, así como conciertos y actuaciones. Consulta <strong>precio</strong> y disponibilidad.</p>
                         </div>
                     </div>
                 </div>

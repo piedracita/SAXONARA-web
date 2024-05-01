@@ -119,14 +119,14 @@
                             </div>
                             <div class="doing-item">
                                 <div class="doing-icon">
-                                    <i class="fa-solid fa-martini-glass-citrus"></i>
+                                    <i class="fa-solid fa-music"></i>
                                 </div>
                                 <h4 class="doing-title">Repertorio</h4>
                                 <p class="doing-text">A la hora de preparar el show es fundamental tener unas guías en cuanto a la música y el estilo que el cliente desa, no es lo mismo actuar en un <strong>Cóctel de boda</strong> que en una fiesta, así como tampoco es lo mismo interpretar temas de un <strong>evento corporativo</strong> en un auditorio que en un formato <strong>Música Lounge en directo</strong>.</p>
                             </div>
                             <div class="doing-item">
                                 <div class="doing-icon">
-                                    <i class="fa-solid fa-church"></i>
+                                    <i class="fa-solid fa-user-tie"></i>
                                 </div>
                                 <h4 class="doing-title">Presentación</h4>
                                 <p class="doing-text">Nuestros looks y el dress-code lo coordinaremos en el momento de la contratación, que puede ser el elegante habitual, <strong>fiesta Ibiza</strong> en blanco, formal de traje y/o de negro o en <strong>colaboración con marcas de ropa</strong> y similares.</p>

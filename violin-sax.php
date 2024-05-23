@@ -45,7 +45,7 @@
                         <p class="banner-subtitle"><span class="banner-highlight">Fusión musical de Violín y Saxofón, el duo musical perfecto para eventos y bodas, disponible en Aperitivo, Cóctel, Fiesta y Electrónica House.</span></p>
                         <div class="button-group">
                             <a class="btn btn-border btn-lg btn-white" href="#contact">Contactar</a>
-                            <a class="btn btn-simple btn-lg btn-white" href="/videos/"><i class="fa-solid fa-play"></i> Ver Vídeos</a>
+                            <!-- <a class="btn btn-simple btn-lg btn-white" href="/videos/"><i class="fa-solid fa-play"></i> Ver Vídeos</a> -->
                         </div>
                     </div>
                 </div>
@@ -62,7 +62,7 @@
                     <div class="col-md-10 col-md-offset-1 col-xs-12">
                         <div class="section-header text-center style-3">
                             <h3 class="section-title">Dúo Violín & Saxofón</h3>
-                            <p class="section-subtext">Show expectacular con una puesta en escena vibrante, creando el mejor ambiente para tu evento. También estamos disponibles para <strong>bodas</strong>. Con nuestro <strong>Dúo Musical Violín & Saxo Fusión</strong> recorremos los temas más conocidos de la música española e internacional, con especial atención a esos temas que suenan hoy en día en las principales pistas de baile, sí como los clásicos de la música Remember y el Disco Funk de los 70s y 80s.</p>
+                            <p class="section-subtext">Show expectacular con una puesta en escena vibrante, creando el mejor ambiente para tu evento. También estamos disponibles para <strong>bodas</strong>. Con nuestro <strong>Dúo Musical Violín & Saxo Fusión</strong> recorremos los temas más conocidos de la música española e <b>internacional</b>, con especial atención a esos temas que suenan hoy en día en las principales pistas de baile, sí como los clásicos de la música Remember y el Disco Funk de los 70s y 80s.</p>
 
                             <p class="section-subtext">La mezcla de un <strong>violín electrónico</strong> con la energía de un saxofón en acústico, y también electrónico, serán el centro de atención en una fiesta, especialmente en eventos donde también puedan brillar las <strong>luces LED</strong> del violín y el <strong>saxo electrónico</strong>.</p>
 
@@ -100,7 +100,7 @@
                     </div>
                 </div>
 
-                <?php include "common-php/violin-sax/photos-violin-sax-01.html"; ?>
+                <?php include "common-php/violin-sax/photos-violin-sax-01-es.html"; ?>
 
             </div>
         </div>
@@ -158,7 +158,7 @@
                         <div class="section-header">
                             <h2 class="section-title">Violín & Sax Fusión en Eventos</h2>
                             <h5>Bodas</h5>
-                            <p>Nuestras fiestas favoritas, nuestro <strong>Dúo Violín Sax Fusión</strong> es perfecto para un <strong>apertivo de boda</strong> que invite a bailar o para la <strong>fiesta</strong> junto al DJ, con <strong>Violín Electrónico Led</strong> y <strong>Saxofón con luz</strong>.</p>
+                            <p>Nos encantan las bodas, nuestro <strong>Dúo Violín Sax Fusión</strong> es perfecto para un <strong>apertivo de boda</strong> creando una atmosfera chill o incluso poniéndo todo el mundo a bailar. En la <strong>fiesta</strong> junto al DJ, con <strong>Violín Electrónico Led</strong> y <strong>Saxofón electrónico</strong>, seremos la DJ Band perfecta, tocando la música que pone a todo el mundo a bailar.</p>
                             <h5>Eventos Privados</h5>
                             <p>Si quieres sorprender a tus invitados con un <strong>dúo de música en directo</strong>, estamos seguros que nuestro show te va a encantar, actuamos en <strong>eventos privados</strong> de todo tipo, también al aire libre.</p>
                             <h5>Eventos de empresa</h5>

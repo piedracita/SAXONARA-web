@@ -100,7 +100,7 @@
                     </div>
                 </div>
 
-                <?php include "common-php/dj-sax/photos-dj-sax-01.html"; ?>
+                <?php include "common-php/dj-sax/photos-dj-sax-01-es.html"; ?>
 
             </div>
         </div>
@@ -122,7 +122,7 @@
                                     <i class="fa-solid fa-martini-glass-citrus"></i>
                                 </div>
                                 <h4 class="doing-title">Chill-Out / Lounge</h4>
-                                <p class="doing-text">Si estás organizando un <strong>evento</strong> y quieres música en directo puedes contar con nuestro <strong>Combo DJ y Saxo</strong>, con nuestro formato obtendrás la <b>adaptabilidad</b> de la música DJ junto con el hype que le dará la <strong>música del saxofón en directo</strong>, puediendo adaptar la música a cada moemento.</p>
+                                <p class="doing-text">Si estás organizando un <strong>evento</strong> y quieres música en directo puedes contar con nuestro <strong>Combo DJ y Saxo</strong>, con nuestro formato obtendrás la <b>adaptabilidad</b> de la música DJ junto con el hype que le dará la <strong>música del saxofón en directo</strong>, puediendo adaptar la música a cada momento.</p>
                             </div>
                             <div class="doing-item">
                                 <div class="doing-icon">
@@ -158,7 +158,7 @@
                         <div class="section-header">
                             <h2 class="section-title">Saxofonista, Violín y Bongos</h2>
                             <h5>Sax & Bongos</h5>
-                            <p>Junto con el DJ, este Cmbo <strong>Saxo & Bongos</strong> lenvatará el ánimo de la fiesta con el extra de <strong>percusión en directo</strong> y la energía del <strong>saxofón electrónico</strong>, un formato adaptable a bodas y eventos.</p>
+                            <p>Junto con el DJ, este Combo <strong>Saxo & Bongos</strong> lenvatará el ánimo de la fiesta con el extra de <strong>percusión en directo</strong> y la energía del <strong>saxofón electrónico</strong>, un formato adaptable a bodas y eventos.</p>
                             <h5>Violín & Saxofón</h5>
                             <p>Preparamos los sets más explosivos para que no paréis de bailar, la combinación de <strong>Saxofón y Violín electrónico</strong> en directo hará que tu fiesta brille, especialmente con las <strong>luces LED</strong> del violín.</p>
                             <h5>Eventos de empresa</h5>

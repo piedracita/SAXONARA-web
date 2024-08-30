@@ -86,8 +86,8 @@
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2 col-xs-12">
                         <div class="text-center">
-                            <h3 class="section-title" id="cocktail">Wedding Reception</h3>
-                            <p>Mix of music and entertainment, the Reception or Aperitif is an excellent moment to enjoy live music with saxophone, with a Tropical House repertoire in the purest Ibiza style and entertaining moving around the area with a wireless microphone on my saxophone.</p>
+                            <h3 class="section-title" id="cocktail">Wedding Cocktail</h3>
+                            <p>Mix of music and entertainment, the Reception or Aperitif is an excellent moment to enjoy live music with saxophone, with a Tropical House repertoire in the purest Ibiza style and entertaining roaming around the area with a wireless mic on my sax.</p>
 
                             <p>In addition, we will prepare, if the bride and groom so wish, a spectacular entrance to the Aperitif with very explosive music to make it incredible, walking among the guests and dancing with those who are most willing.</p>
 

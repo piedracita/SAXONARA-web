@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="fr">
+<html lang="en">
 
 <head>
     <!-- COMMON-HEAD -->
@@ -7,23 +7,25 @@
     <!-- COMMON-HEAD END -->
 
     <!-- CANONICAL -->
-    <link rel="canonical" href="https://www.saxonara.com/fr/saxophoniste-france.php">
+    <link rel="canonical" href="https://www.saxonara.com/en/saxophonist-france.php">
 
     <!-- COMMON-LOCALIZATION -->
     <?php include "../common-php/localization/loc-france.html"; ?>
     <!-- COMMON-LOCALIZATION END -->
 
     <!-- SITE INFORMATION -->
-    <title>Saxophoniste en France | Mariages, Événements & Soirées | SAXONARA</title>
-    <meta name="description" content="Saxophoniste en Francee pour événements, mariages et soirées. Je suis Arnald SAXONARA, saxophoniste en France, vous pouvez m'éngager pour des événements d'entreprise ou des mariages à Toulouse, Perginan, Montpellier, Lyon, Paris et plus.">
-    <meta name="keywords" content="saxophoniste, france, entreprise, événements, mariage, fêtes, saxophone">
+    <title>Saxophonist in France | Weddings, Events & Parties | SAXONARA</title>
+    <meta name="description" content="Saxophonist in France for events, weddings and parties. I am Arnald SAXONARA, saxophonist in France, you can hire me for corporate events or weddings in Toulouse, Perginan, Montpellier, Lyon, Paris and more.">
+    <meta name="keywords" content="saxophonist, france, business, events, weddings, parties, saxophone">
 
     <!-- COMMON-OPENGRAPH -->
-    <?php include "../common-php/opengraph/fr.html"; ?>
+    <?php include "../common-php/opengraph/en.html"; ?>
     <!-- COMMON-OPENGRAPH END -->
+
 </head>
 
-<body class="page">
+<body>
+<!--<body class="page">-->
 
     <!-- COMMON-BODY -->
     <?php include "../common-php/body.html"; ?>
@@ -31,20 +33,26 @@
 
     <header id="top" class="top-header">
         <!-- NAVIGATION -->
-        <?php include "../common-php/navigation/fr.html"; ?>
+        <?php include "../common-php/navigation/en.html"; ?>
         <!-- NAVIGATION END -->
-    </header>
 
-    <!-- PAGE HEADER -->
-    <div class="page-header">
-        <div class="container text-center">
-            <h1 class="page-title">Saxophoniste en France</h1>
-            <ol class="breadcrumb">
-                <li><span class="banner-highlight">Saxophoniste en France pour événements, mariages et soirées. Toutes les informations sur SAXONARA, engagez un saxophoniste pour des événements d'entreprise ou des mariages en France.</span></li>
-            </ol>
+        <!-- BANNER SLIDER -->
+        <div class="banner-slider owl-slider" id="banner-slider">
+            <div class="banner-item banner-item-1">
+                <div class="banner-content text-white">
+                    <div class="container">
+                        <h1 class="banner-title">Saxophonist in France</h1>
+                        <p class="banner-subtitle"><span class="banner-highlight">Saxophonist in France for events, weddings and parties. All information about SAXONARA, hire a saxophonist for corporate events or weddings in France.</span></p>
+                        <div class="button-group">
+                            <a class="btn btn-border btn-lg btn-white" href="#contact">Contact</a>
+                            <a class="btn btn-simple btn-lg btn-white" href="/en/videos.php"><i class="fa-solid fa-play"></i> Videos</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
-    </div>
-    <!-- PAGE HEADER END -->
+        <!-- BANNER SLIDER END -->
+    </header>
 
     <div class="main-wrap">
     	<!-- ABOUT ARTIST -->
@@ -54,27 +62,25 @@
                     <div class="col-md-6 col-md-push-6 col-xs-12 col-xs-push-0">
                         <div class="about-artist">
                             <h2 class="artist-name">Arnald | SAXONARA</h2>
-                            <p><b>Je suis Arnald SAXONARA, saxophoniste professionnel dans les événements et mariages les plus célèbres</b></p>
-                            <p>Après des années d'expérience en tant que saxophoniste dans différents groupes, jouant différents styles et formé dans des académies aux académies locales et internationales, j'ai développé une carrière de saxophoniste jouant lors d'<strong>événements de luxe</strong>, de <strong>mariages</strong> et de <strong>fêtes</strong> dans des lieux uniques.</p>
-                            <p>J'ai participé avec mon saxophone à un grand nombre d'événements et de concerts <strong>partout en France</strong>, notamment des mariages et des événements à <strong>Toulouse, Perpignan, Montpellier, Narbonne, Lyon ou Paris</strong>.</p>
-                            <p>Dans mes réseaux sociaux, vous découvrirez les incroyables <strong>domaines de mariage en France</strong> où j'ai eu le plaisir de jouer du saxophone, soit à l'<strong>apéritif de mariage</strong>, soit à la soirée comme <strong>DJ et saxophoniste</strong>.</p>
+                            <p><b>I am Arnald SAXONARA, professional saxophonist in the most famous events and weddings</b></p>
+                            <p>After years of experience as a saxophonist in different bands, playing different styles and trained in academies at local and international academies, I have developed a career as a saxophonist playing at luxury events, weddings and parties in unique places.</p>
+                            <p>I have participated with my saxophone in a large number of events and concerts all over France, including weddings and events in Toulouse, Perpignan, Montpellier, Narbonne, Lyon or Paris.</p>
+                            <p>In my social networks you will discover the incredible wedding venues in France where I had the pleasure of playing the saxophone, either at the wedding aperitif or at the party as a DJ and saxophonist.</p>
                             <div class="artist-information-list">
-                                <p><b class="artist-info-item">Nom</b>:<span class="artist-info-value">Arnald SAXONARA</span></p>
-                                <p><b class="artist-info-item">Saxophoniste en</b>:<span class="artist-info-value">France</span></p>
-                                <p><b class="artist-info-item">Éducation</b>:<span class="artist-info-value">États-Unis, Espagne et France</span></p>
-                                <p><b class="artist-info-item">Suivez-moi sur</b>:<span class="artist-info-value">
-                                    <a class="artist-social" href="https://open.spotify.com/artist/1czGxMkEMmilWKoDwuMu5V?si=vsFB0IFWStWJpotGZJmqvA" target="_blank" rel="noopener" title="spotify SAXONARA"><i class="fa-brands fa-spotify"></i></a>
-
-                                    <a class="artist-social" href="https://www.instagram.com/saxonara_/" target="_blank" rel="noopener" title="instagram SAXONARA"><i class="fa-brands fa-instagram"></i></a>
-
-                                    <a class="artist-social" href="https://www.youtube.com/@saxonara" target="_blank" rel="noopener" title="youtube SAXONARA"><i class="fa-brands fa-youtube"></i></a>
+                                <p><b class="artist-info-item">Name</b>:<span class="artist-info-value">Arnald SAXONARA</span></p>
+                                <p><b class="artist-info-item">Saxophonist in</b>:<span class="artist-info-value">France</span></p>
+                                <p><b class="artist-info-item">Education</b>:<span class="artist-info-value">Schools of France, USA and Puerto Rico</span></p>
+                                <p><b class="artist-info-item">Follow me</b>:<span class="artist-info-value">
+                                    <a class="artist-social" href="https://www.facebook.com/saxonara/" target="_blank" rel="noopener" title="facebook SAXONARA"><i class="fab fa-facebook"></i></a>
+                                    <a class="artist-social" href="https://www.instagram.com/saxonara_/" target="_blank" rel="noopener" title="instagram SAXONARA"><i class="fab fa-instagram"></i></a>
+                                    <a class="artist-social" href="https://www.youtube.com/@saxonara" target="_blank" rel="noopener" title="youtube SAXONARA"><i class="fab fa-youtube"></i></a>
                                 </span></p>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-6 col-md-pull-6 col-xs-12 col-xs-pull-0">
                         <div class="artist-image">
-                            <img loading="lazy" class="img-responsive" src="../images/cities/saxophoniste-france.jpg" alt="Saxophoniste pour événements et mariages en France">
+                            <img loading="lazy" class="img-responsive" src="/images/cities/saxofonista-barcelona.jpg" alt="Arnald SAXONARA is a saxophonist in Barcelona">
                         </div>
                     </div>
                 </div>
@@ -90,29 +96,29 @@
                     <div class="col-sm-5">
                         <div class="doing-items section-padding">
                             <div class="section-header">
-                                <h2 class="section-title">SAXONARA en France</h2>
-                                <p class="section-subtext">En tant que saxophoniste professionnel, je reçois des demandes de différentes régions de France et j'ai joué dans toute la France, notamment sur les domaines proches de Toulouse et de Paris, ainsi qu'à Perpignan, Lyon ou Montpellier.</p>
+                                <h2 class="section-title">SAXONARA in France</h2>
+                                <p class="section-subtext">As a professional saxophonist, I receive requests from different regions of France and I have played all over France, notably in parties near Toulouse and Paris, as well as in Perpignan, Lyon or Montpellier.</p>
                             </div>
                             <div class="doing-item">
                                 <div class="doing-icon">
                                     <i class="fa-solid fa-martini-glass-citrus"></i>
                                 </div>
-                                <h4 class="doing-title">Événements</h4>
-                                <p class="doing-text">Evénements d'entreprise dans des villes françaises telles que Paris, Toulouse ou Montpellier, ouvertures de magasins ou <strong>cocktails aux penthouses urbains</strong> sont quelques-uns des événements auxquels j'ai participé en tant que <strong>saxophoniste en France</strong>.</p>
+                                <h4 class="doing-title">Events</h4>
+                                <p class="doing-text">Corporate events around French cities such as Paris, Toulouse or Montpellier, store openings or <strong>cocktails at urban penthouses</strong> are some of the events I have participated in as <strong>saxophonist in France</strong>.</p>
                             </div>
                             <div class="doing-item">
                                 <div class="doing-icon">
-                                    <i class="fa-solid fa-martini-glass-citrus"></i>
+                                    <i class="fa-solid fa-church"></i>
                                 </div>
-                                <h4 class="doing-title">Mariage</h4>
-                                <p class="doing-text">J'ai eu la chance de visiter <strong>les domaines les plus spectaculaires</strong> pour les mariages en France, notamment dans les régions les plus ensoleillées du sud, comme <strong>Toulouse, Perpignan ou Montpellier</strong>, mais aussi dans les environs de <strong>Paris</strong>, jouant du saxophone au <strong>Vin d'Honneur</strong> ou à la soirée avec <strong>le DJ et moi au saxophone</strong>.</p>
+                                <h4 class="doing-title">Weddings</h4>
+                                <p class="doing-text">I have had the chance to visit <strong>the most spectacular estates</strong> for weddings in France, especially in the sunniest regions of the south, such as <strong>Toulouse, Perpignan or Montpellier</strong>, but also in the surroundings of <strong>Paris</strong>, playing the saxophone at the <strong>Vin d'Honneur</strong> or at the evening with <strong>the DJ and me on the saxophone</strong>.</p>
                             </div>
                             <div class="doing-item">
                                 <div class="doing-icon">
                                     <i class="fa-solid fa-headphones"></i>
                                 </div>
-                                <h4 class="doing-title">Hôtels & Clubs</h4>
-                                <p class="doing-text">En plus des événements privés, je participe également en tant que <strong>saxophoniste jouant dans des hôtels</strong>, avec des DJs dans des Clubs ou lors de Soirées. Adaptant toujours mon répertoire de <strong>Musique Électronique, House, Pop Moderne, Disco et Jazz</strong>.</p>
+                                <h4 class="doing-title">Hotels and Clubs</h4>
+                                <p class="doing-text">In addition to private events, I also participate as a <strong>saxophonist playing in hotels</strong>, with DJs in Clubs or at Parties. Always adapting my repertoire of <strong>Electronic Music, House, Modern Pop, Disco and Jazz</strong>.</p>
                             </div>
                         </div>
                     </div>
@@ -127,28 +133,24 @@
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2 col-xs-12">
                         <div class="section-header text-center">
-                            <h3 class="section-title">Événements en France avec SAXONARA</h3>
-                            <p class="section-subtext">Découvrez mes clips vidéo <strong>enregistrés en France</strong>, J'ai enregistré des clips vidéo dans des endroits comme Perpignan, Toulouse, Paris et les Alpes françaises. Pour l'enregistrement de ces vidéos j'utilise différents saxophones, principalement le saxophone ténor et le saxophone alto, mais aussi le soprano pour des moments plus intimes comme une <strong>Cérémonie de Mariage</strong>.</p>
+                            <h3 class="section-title">Events in France with SAXONARA</h3>
+                            <p class="section-subtext">Watch my music videos <strong>recorded in France</strong>, I recorded music videos in places like Perpignan, Toulouse, Paris and the French Alps. For the recording of these videos I use different saxophones, mainly the tenor saxophone and the alto saxophone, but also the soprano for more intimate moments like a <strong>Wedding Ceremony</strong>.</p>
                         </div>
                     </div>
                 </div>
 
-                <!-- COMMON -->
-                <?php include"../common-php/videos/loc-perpignan.html"; ?>
-                <!-- COMMON END -->
+                <?php include "../common-php/videos/loc-perpignan.html"; ?>
 
                 <div class="row">
-                    <div class="col-md-10 col-md-offset-1 col-xs-12">
-                        <div class="text-center style-3">
-                            <a class="btn btn-small btn-black" href="/fr/videos.php" title="Vidéos du saxophoniste SAXONARA">VIDÉOS</a>
+                        <div class="col-md-10 col-md-offset-1 col-xs-12">
+                            <div class="text-center style-3">
+                                <a class="btn btn-small btn-black" href="/en/videos.php" title="Videos by SAXONARA">MORE VIDEOS</a>
+                            </div>
                         </div>
                     </div>
-                </div>
-
             </div>
         </div>
         <!-- ARTIST END -->
-
 
         <!-- BAND INFORMATIONS -->
         <div class="section theme-bg band-info-section">
@@ -161,7 +163,7 @@
                                     <i class="fa-solid fa-music"></i>
                                 </div>
                                 <h6 class="band-info-title">Styles</h6>
-                                <p class="band-info-content">House, Jazz, Électronique, Pop</p>
+                                <p class="band-info-content">House, Jazz, Electronic, Pop</p>
                             </div>
                         </div>
                         <div class="col-md-2 col-sm-4 col-xs-6">
@@ -169,8 +171,8 @@
                                 <div class="band-info-icon">
                                     <i class="fa-solid fa-globe"></i>
                                 </div>
-                                <h6 class="band-info-title">Saxophoniste Professionnel</h6>
-                                <p class="band-info-content">Depuis 2015</p>
+                                <h6 class="band-info-title">Saxophonist for hire</h6>
+                                <p class="band-info-content">Since 2015</p>
                             </div>
                         </div>
                         <div class="col-lg-2 col-md-3 col-sm-4 col-xs-6">
@@ -178,7 +180,7 @@
                                 <div class="band-info-icon">
                                     <i class="fa-solid fa-location-arrow"></i>
                                 </div>
-                                <h6 class="band-info-title">Fréquemment à</h6>
+                                <h6 class="band-info-title">Find me in</h6>
                                 <p class="band-info-content">Perpignan, Toulouse, Paris, Lyon</p>
                             </div>
                         </div>
@@ -187,8 +189,8 @@
                                 <div class="band-info-icon">
                                     <i class="fa-solid fa-calendar"></i>
                                 </div>
-                                <h6 class="band-info-title">Événements</h6>
-                                <p class="band-info-content">Mariages, Fêtes, Corporatif</p>
+                                <h6 class="band-info-title">Events</h6>
+                                <p class="band-info-content">Weddings, Events Corporate</p>
                             </div>
                         </div>
                         <div class="col-md-2 col-sm-4 col-xs-6">
@@ -196,8 +198,8 @@
                                 <div class="band-info-icon">
                                     <i class="fa-solid fa-church"></i>
                                 </div>
-                                <h6 class="band-info-title">Mariages</h6>
-                                <p class="band-info-content">Cérémonie, Vin d'honneur, DJ & SAX</p>
+                                <h6 class="band-info-title">Weddings</h6>
+                                <p class="band-info-content">Ceremony, Cocktail, DJ & SAX</p>
                             </div>
                         </div>
                     </div>
@@ -271,9 +273,13 @@
         </div>
         <!-- NEWS & BLOG END -->
 
+        <!-- DIVIDER -->
+        <?php include "../common-php/dividers/01-en.html"; ?>
+        <!-- DIVIDER END -->
+
     </div>
     <!-- FOOTER -->
-    <?php include "../common-php/footer/fr.html"; ?>
+    <?php include "../common-php/footer/en.html"; ?>
     <!-- FOOTER END -->
 
     <!-- COMMON-BODY-SCRIPT -->

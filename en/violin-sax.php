@@ -100,7 +100,7 @@
                     </div>
                 </div>
 
-                <?php include "../common-php/violin-sax/photos-violin-sax-01-en.html"; ?>
+                <?php include "../common-php/violin-sax/gallery/photos-violin-sax-01-en.html"; ?>
 
             </div>
         </div>

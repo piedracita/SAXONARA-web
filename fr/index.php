@@ -36,18 +36,11 @@
 
         <!-- BANNER SLIDER -->
         <div class="banner-slider owl-slider" id="banner-slider">
-            <div class="banner-item banner-item-1">
-                <div class="banner-content text-white">
-                    <div class="container">
-                        <h1 class="banner-title">Saxophoniste événementiel</h1>
-                        <p class="banner-subtitle"><span class="banner-highlight">Bienvenue chez SAXONARA, saxophoniste professionnel pour mariages et événements. <b>Musique et plaisir!</b></span></p>
-                        <div class="button-group">
-                            <a class="btn btn-border btn-lg btn-white" href="#contact">Contacter</a>
-                            <a class="btn btn-simple btn-lg btn-white" href="/fr/videos.php"><i class="fa-solid fa-play"></i> Vidéos</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
+
+            <!-- COMMON-BANNER-EVENTS -->
+            <?php include "../common-php/banners/events/fr.html"; ?>
+            <!-- COMMON-BODY END -->
+
         </div>
         <!-- Banner Slider End -->
     </header>

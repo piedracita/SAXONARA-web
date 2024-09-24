@@ -37,42 +37,11 @@
 
         <!-- BANNER SLIDER -->
         <div class="banner-slider owl-slider" id="banner-slider">
-            <!-- <div class="banner-item banner-item-1">
-                <div class="banner-content">
-                    <div class="container">
-                        <h3 class="banner-subtitle theme-color">New Music Album</h3>
-                        <h1 class="banner-title">Get the new songs</h1>
-                        <div class="button-group">
-                            <a class="btn btn-border btn-lg btn-black" href="#">Purchase Now</a>
-                            <a class="btn btn-simple btn-lg play-video" href="https://www.youtube.com/watch?v=5cY5PHE4x_g"><i class="fa-solid fa-play"></i> Watch Trailer</a>
-                        </div>
-                    </div>
-                </div>
-            </div> -->
-            <div class="banner-item banner-item-1">
-                <div class="banner-content text-white">
-                    <div class="container">
-                        <h1 class="banner-title">Saxofonista para eventos</h1>
-                        <p class="banner-subtitle"><span class="banner-highlight">Bienvenidos a SAXONARA, saxofonista profesional para bodas y eventos. <b>¡Música y diversión!</b></span></p>
-                        <div class="button-group">
-                            <a class="btn btn-border btn-lg btn-white" href="#contact">Contactar</a>
-                            <a class="btn btn-simple btn-lg btn-white" href="/videos/"><i class="fa-solid fa-play"></i> Ver Vídeos</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- <div class="banner-item banner-item-3">
-                <div class="banner-content text-white">
-                    <div class="container">
-                        <h1 class="banner-title">Saxofonista para bodas</h1>
-                        <p class="banner-subtitle"><span class="banner-highlight">Saxofonista para tu boda, fiesta o celebración. <b>¡SAXONARA!</b></span></p>
-                        <div class="button-group">
-                            <a class="btn btn-border btn-lg btn-white" href="#contact">Contactar</a>
-                            <a class="btn btn-simple btn-lg btn-white" href="/videos/"><i class="fa-solid fa-play"></i> Ver Vídeos</a>
-                        </div>
-                    </div>
-                </div>
-            </div> -->
+
+            <!-- COMMON-BANNER-EVENTS -->
+            <?php include "common-php/banners/events/es.html"; ?>
+            <!-- COMMON-BODY END -->
+
         </div>
         <!-- BANNER SLIDER END -->
     </header>

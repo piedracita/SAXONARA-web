@@ -38,7 +38,7 @@
 
         <!-- BANNER SLIDER -->
         <div class="banner-slider owl-slider" id="banner-slider">
-            <div class="banner-item banner-item-3">
+            <div class="banner-item banner-item-violin-sax">
                 <div class="banner-content text-white">
                     <div class="container">
                         <h1 class="banner-title">Violin & Sax Fusion</h1>

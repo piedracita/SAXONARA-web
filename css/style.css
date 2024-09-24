@@ -586,15 +586,36 @@ Banner
 }
 
 .banner-item-1 {
-  background-image: url(../images/css/bg-dj-sax.jpg);
+  background-image: url(../images/dj-sax/banner-dj-sax-club.jpg);
 }
 
 .banner-item-2 {
   background-image: url(../images/weddings/banner-wedding-sax.jpg);
 }
 
-.banner-item-3 {
+.banner-item-violin-sax {
   background-image: url(../images/violin-sax/banner-violin-sax-01.jpg);
+}
+.banner-item-madrid {
+  background-image: url(../images/cities/banner-saxofonista-madrid.jpg);
+}
+.banner-item-barcelona {
+  background-image: url(../images/cities/banner-saxophonist-barcelona.jpg);
+}
+.banner-item-spain {
+  background-image: url(../images/cities/banner-spain.jpg);
+}
+.banner-item-valencia {
+  background-image: url(../images/cities/banner-valencia.jpg);
+}
+.banner-item-tarragona {
+  background-image: url(../images/cities/banner-tarragona.jpg);
+}
+.banner-item-lleida {
+  background-image: url(../images/cities/banner-lleida.jpg);
+}
+.banner-item-girona {
+  background-image: url(../images/cities/banner-girona.jpg);
 }
 
 .banner-content {

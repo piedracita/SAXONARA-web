@@ -24,7 +24,7 @@
 
 </head>
 
-<body class="page">
+<body>
 
     <!-- COMMON-BODY -->
     <?php include "../common-php/body.html"; ?>
@@ -36,16 +36,13 @@
         <!-- NAVIGATION END -->
     </header>
 
-    <!-- PAGE HEADER -->
-    <div class="page-header">
-        <div class="container text-center">
-            <h1 class="page-title">Saxofonista per a bodes</h1>
-            <ol class="breadcrumb">
-                <li><span class="banner-highlight">Contractar el saxofonista per a bodes, consulta la disponibilitat, informació i preus. Música per a Cerimònia de boda, Aperitiu o Festa i Barra lliure. Sorprèn els teus convidats per al millor casament.</span></li>
-            </ol>
-        </div>
+    <!-- BANNER SLIDER -->
+    <div class="banner-slider owl-slider" id="banner-slider">
+        <!-- COMMON-BANNER-WEDDINGS -->
+        <?php include "../common-php/banner/weddings/cat.html"; ?>
+        <!-- COMMON-BODY END -->
     </div>
-    <!-- PAGE HEADER END -->
+    <!-- BANNER SLIDER END -->
 
     <div class="main-wrap">
 

@@ -36,13 +36,12 @@
 
         <!-- BANNER SLIDER -->
         <div class="banner-slider owl-slider" id="banner-slider">
-
-            <!-- COMMON-BANNER-EVENTS -->
-            <?php include "../common-php/banners/events/en.html"; ?>
+            <!-- COMMON-BANNER-WEDDINGS -->
+            <?php include "../common-php/banner/events/en.html"; ?>
             <!-- COMMON-BODY END -->
-
         </div>
-        <!-- Banner Slider End -->
+        <!-- BANNER SLIDER END -->
+
     </header>
 
     <div class="main-wrap">

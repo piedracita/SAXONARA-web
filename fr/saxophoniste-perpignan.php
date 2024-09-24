@@ -19,7 +19,7 @@
     <!-- COMMON-OPENGRAPH END -->
 </head>
 
-<body class="page">
+<body>
 
     <!-- COMMON-BODY -->
     <?php include "../common-php/body.html"; ?>
@@ -31,16 +31,13 @@
         <!-- NAVIGATION END -->
     </header>
 
-    <!-- PAGE HEADER -->
-    <div class="page-header">
-        <div class="container text-center">
-            <h1 class="page-title">Saxophoniste à Perpignan</h1>
-            <ol class="breadcrumb">
-                <li><span class="banner-highlight">Saxophoniste à Perpignan pour événements, mariages et soirées. Toutes les informations sur SAXONARA, engagez un saxophoniste à Perpignan pour des événements d'entreprise ou des mariages.</span></li>
-            </ol>
-        </div>
+    <!-- BANNER SLIDER -->
+    <div class="banner-slider owl-slider" id="banner-slider">
+        <!-- COMMON-BANNER-PERPIGNAN -->
+        <?php include "../common-php/banner/fr-perpignan.html"; ?>
+        <!-- COMMON-BODY END -->
     </div>
-    <!-- PAGE HEADER END -->
+    <!-- BANNER SLIDER END -->
 
     <div class="main-wrap">
     	<!-- ABOUT ARTIST -->

@@ -24,7 +24,7 @@
 
 </head>
 
-<body class="page">
+<body>
 
     <!-- COMMON-BODY -->
     <?php include "../common-php/body.html"; ?>
@@ -34,18 +34,16 @@
         <!-- NAVIGATION -->
         <?php include "../common-php/navigation/en.html"; ?>
         <!-- NAVIGATION END -->
-    </header>
 
-    <!-- PAGE HEADER -->
-    <div class="page-header">
-        <div class="container text-center">
-            <h1 class="page-title">Wedding Saxophonist</h1>
-            <ol class="breadcrumb">
-                <li><span class="banner-highlight">Hire the saxophonist for weddings, check availability, information and prices. Live music for Wedding Ceremony, Appetizer or Party and Open Bar. Surprise your guests for the best wedding.</span></li>
-            </ol>
+        <!-- BANNER SLIDER -->
+        <div class="banner-slider owl-slider" id="banner-slider">
+            <!-- COMMON-BANNER-WEDDINGS -->
+            <?php include "../common-php/banner/weddings/en.html"; ?>
+            <!-- COMMON-BODY END -->
         </div>
-    </div>
-    <!-- PAGE HEADER END -->
+        <!-- BANNER SLIDER END -->
+
+    </header>
 
     <div class="main-wrap">
 

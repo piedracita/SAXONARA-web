@@ -14,7 +14,7 @@
     <!-- COMMON-LOCALIZATION END -->
 
     <!-- SITE INFORMATION -->
-    <title>Saxophoniste pour mariages | Vin d'Honneur, Soirée & Cérémonie | Prix</title>
+    <title>Saxophoniste mariage | Vin d'Honneur, Soirée & Cérémonie | Prix</title>
     <meta name="description" content="Saxophoniste pour les mariages, vérifiez la disponibilité, les informations et les prix. Musique pour cérémonie de mariage, apéritif ou fête et bar ouvert. Surprenez vos invités pour le meilleur mariage.">
     <meta name="keywords" content="saxophoniste, mariage, musique, fête, open bar, cocktail, cocktail, cérémonie, soirée">
 
@@ -24,7 +24,7 @@
 
 </head>
 
-<body class="page">
+<bodyS>
 
     <!-- COMMON-BODY -->
     <?php include "../common-php/body.html"; ?>
@@ -36,16 +36,13 @@
         <!-- NAVIGATION END -->
     </header>
 
-    <!-- PAGE HEADER -->
-    <div class="page-header">
-        <div class="container text-center">
-            <h1 class="page-title">Saxophoniste pour mariage</h1>
-            <ol class="breadcrumb">
-                <li><span class="banner-highlight">Saxophoniste pour les mariages, vérifiez la disponibilité, les informations et les prix. Musique pour cérémonie de mariage, apéritif ou fête et bar ouvert. Surprenez vos invités pour le meilleur mariage.</span></li>
-            </ol>
-        </div>
+    <!-- BANNER SLIDER -->
+    <div class="banner-slider owl-slider" id="banner-slider">
+        <!-- COMMON-BANNER-WEDDINGS -->
+        <?php include "../common-php/banner/weddings/fr.html"; ?>
+        <!-- COMMON-BODY END -->
     </div>
-    <!-- PAGE HEADER END -->
+    <!-- BANNER SLIDER END -->
 
     <div class="main-wrap">
 
@@ -63,7 +60,7 @@
                     <div class="col-md-8 col-md-offset-2 col-xs-12">
                         <div class="text-center">
                             <h3 class="section-title" id="ceremony">La Cérémonie</h3>
-                            <p>La première intervention dans le mariage en tant que musicien se situe dans la partie de la cérémonie, avec le chemin vers l'autel des mariés. Voulez-vous une chanson moderne ou un classique du mariage ? Pour les couples qui préfèrent le moderne, la musique d'Ed Sheeran est l'une des plus demandées, tandis que dans les cérémonies traditionnelles un Canon de Pachelbel ou la Marche nuptiale de Wagner sont les références.</p>
+                            <p>La première intervention dans le mariage en tant que musicien se situe dans la partie de la cérémonie, avec le chemin vers l'autel des mariés. Voulez-vous une chanson moderne ou un classique du mariage? Pour les couples qui préfèrent le moderne, la musique d'Ed Sheeran est l'une des plus demandées, tandis que dans les cérémonies traditionnelles un Canon de Pachelbel ou la Marche nuptiale de Wagner sont les références.</p>
 
                             <p>Consultez l'ensemble de mon répertoire, faites-vous des idées de chansons que vous aimeriez pour chaque moment de la Cérémonie, si vous ne trouvez pas votre chanson préférée, faites le moi savoir, ce ne sera pas un problème de l'apprendre pour votre mariage.</p>
 

@@ -144,7 +144,7 @@
                     </div>
                     <div class="col-md-6">
                         <div class="section-header">
-                            <h2 class="section-title">Servicios con saxofonista</h2>
+                            <h2 class="section-title">Contratar Saxofonista</h2>
                             <h5>Bodas</h5>
                             <p>Una de las partes que más disfruto como saxofonista és cuando participo en bodas, realizando servicios como la <strong><a href="/saxofonista-bodas.php#ceremony">Ceremonia</a></strong>, el <strong><a href="/saxofonista-bodas.php#cocktail">Cóctel</a></strong>, el <strong>Primer Baile</strong> o la <strong><a href="/saxofonista-bodas.php#party">Fiesta junto al DJ</a></strong>, siempre con la intención de hacer que a celebración sea inolvidable y al gusto de la pareja.</p>
                             <h5>Eventos Corporativos</h5>

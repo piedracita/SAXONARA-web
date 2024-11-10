@@ -142,61 +142,9 @@
         <!-- ARTIST END -->
 
 
-        <!-- BAND INFORMATIONS -->
-        <div class="section theme-bg band-info-section">
-            <div class="container">
-                <div class="row">
-                    <div class="band-info-items">
-                        <div class="col-md-2 col-lg-offset-1 col-sm-4 col-xs-6">
-                            <div class="band-info-item">
-                                <div class="band-info-icon">
-                                    <i class="fa-solid fa-music"></i>
-                                </div>
-                                <h6 class="band-info-title">Styles</h6>
-                                <p class="band-info-content">House, Jazz, Électronique, Pop</p>
-                            </div>
-                        </div>
-                        <div class="col-md-2 col-sm-4 col-xs-6">
-                            <div class="band-info-item">
-                                <div class="band-info-icon">
-                                    <i class="fa-solid fa-globe"></i>
-                                </div>
-                                <h6 class="band-info-title">Saxophoniste Professionnel</h6>
-                                <p class="band-info-content">Depuis 2015</p>
-                            </div>
-                        </div>
-                        <div class="col-lg-2 col-md-3 col-sm-4 col-xs-6">
-                            <div class="band-info-item">
-                                <div class="band-info-icon">
-                                    <i class="fa-solid fa-location-arrow"></i>
-                                </div>
-                                <h6 class="band-info-title">Fréquemment à</h6>
-                                <p class="band-info-content">Perpignan, Narbonne, Montpellier</p>
-                            </div>
-                        </div>
-                        <div class="col-md-2 col-md-offset-0 col-sm-4 col-sm-offset-2 col-xs-6">
-                            <div class="band-info-item">
-                                <div class="band-info-icon">
-                                    <i class="fa-solid fa-calendar"></i>
-                                </div>
-                                <h6 class="band-info-title">Événements</h6>
-                                <p class="band-info-content">Mariages, Fêtes, Corporatif</p>
-                            </div>
-                        </div>
-                        <div class="col-md-2 col-sm-4 col-xs-6">
-                            <div class="band-info-item">
-                                <div class="band-info-icon">
-                                    <i class="fa-solid fa-church"></i>
-                                </div>
-                                <h6 class="band-info-title">Mariages</h6>
-                                <p class="band-info-content">Cérémonie, Vin d'honneur, DJ & SAX</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- BAND INFORMATION END -->
+        <!-- COMMON -->
+        <?php include"../common-php/dividers/01-fr.html"; ?>
+        <!-- COMMON END -->
 
         <!-- NEWS & BLOG -->
         <div class="section section-padding">

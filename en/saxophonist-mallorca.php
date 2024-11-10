@@ -157,6 +157,24 @@
         <?php include "../common-php/dividers/01-en.html"; ?>
         <!-- DIVIDER END -->
 
+        <!-- MAIN SERVICES -->
+        <div class="section section-padding">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-8 col-md-offset-2 col-xs-12">
+                        <div class="section-header text-center">
+                            <h3 class="section-title">My favorite events to play sax in Mallorca</h3>
+                            <p class="section-subtext">I'm so lucky you ask me to be part in so many events, and I love it, here's a quick description of the most requested services you ask me to play saxophone at. I'd say that the most of you want me to play <strong>House music and iconic Pop songs on saxophone</strong>, and also with DJs who do their mixes and I get to add saxophone vibes to them.</p>
+                        </div>
+                    </div>
+                </div>
+                <!-- COMMON MAIN SERVICES -->
+                <?php include "../common-php/services-main/en.html"; ?>
+                <!-- COMMON MAIN SERVICES END -->
+            </div>
+        </div>
+        <!-- MAIN SERVICES END -->
+
     </div>
     <!-- FOOTER -->
     <?php include "../common-php/footer/en.html"; ?>

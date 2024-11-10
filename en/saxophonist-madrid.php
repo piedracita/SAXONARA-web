@@ -156,6 +156,24 @@
         <?php include "../common-php/dividers/01-en.html"; ?>
         <!-- DIVIDER END -->
 
+        <!-- MAIN SERVICES -->
+        <div class="section section-padding">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-8 col-md-offset-2 col-xs-12">
+                        <div class="section-header text-center">
+                            <h3 class="section-title">Playing saxophone at events in Madrid</h3>
+                            <p class="section-subtext">Quick description of the main services I do in <strong>Madrid</strong>, and around Spain too, where clients hire me to play <strong>saxophone at their weddings, events and private parties</strong>, sometimes as a solo artist and very often with DJs who provide the perfect vibe for a <strong>live saxophone</strong> performance.</p>
+                        </div>
+                    </div>
+                </div>
+                <!-- COMMON MAIN SERVICES -->
+                <?php include "../common-php/services-main/en.html"; ?>
+                <!-- COMMON MAIN SERVICES END -->
+            </div>
+        </div>
+        <!-- MAIN SERVICES END -->
+
     </div>
     <!-- FOOTER -->
     <?php include "../common-php/footer/en.html"; ?>

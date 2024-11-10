@@ -156,6 +156,24 @@
         <?php include "../common-php/dividers/01-en.html"; ?>
         <!-- DIVIDER END -->
 
+        <!-- MAIN SERVICES -->
+        <div class="section section-padding">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-8 col-md-offset-2 col-xs-12">
+                        <div class="section-header text-center">
+                            <h3 class="section-title">Hire Saxophonist in Barcelona</h3>
+                            <p class="section-subtext">Are you thinking about hiring a <strong>saxophonist in Barcelona</strong>? If you're getting married in Barcelona or nearby and want to hire a <strong>live saxophone player</strong>, get in touch! It's so easy! Also if you're planning an event in Barcelona, I'm also available and I'll be very happy to be part of it, get in touch with me and I'll send you all the info, details and prices for <strong>hiring a saxophonist in Barcelona</strong> for your private event, wedding or party.</p>
+                        </div>
+                    </div>
+                </div>
+                <!-- COMMON MAIN SERVICES -->
+                <?php include "../common-php/services-main/en.html"; ?>
+                <!-- COMMON MAIN SERVICES END -->
+            </div>
+        </div>
+        <!-- MAIN SERVICES END -->
+
     </div>
     <!-- FOOTER -->
     <?php include "../common-php/footer/en.html"; ?>

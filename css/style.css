@@ -2187,7 +2187,7 @@ Footer
 
 .logo-footer {
   display: inline-block;
-  filter: drop-shadow(2px 2px 10px #00000080);
+  filter: drop-shadow(2px 2px 2px #000000);
 }
 
 .footer-contact a {

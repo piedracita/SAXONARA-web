@@ -2172,7 +2172,7 @@ Footer
 }
 .logo-social-area .socials {
   margin-top: 12px;
-  filter: drop-shadow(2px 2px 10px #00000080);
+  filter: drop-shadow(2px 2px 2px #000000);
 }
 .logo-social-area .socials a {
   color: #ffffff;

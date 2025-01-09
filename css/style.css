@@ -618,6 +618,10 @@ Banner
   background-image: url(../images/cities/banner-girona.jpg);
 }
 
+.banner-item-spanish-guitar {
+  background-image: url(../images/spanish-guitar/banner-spanish-guitar.jpg);
+}
+
 .banner-content {
   position: absolute;
   top: 50%;

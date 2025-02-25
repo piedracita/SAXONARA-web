@@ -49,7 +49,7 @@
                         <div class="blog-single">
                             <article class="post">
                                 <div class="post-thumb">
-                                    <img loading="lazy"class="img-responsive" src="/images/videos/afterglow-ed-sheeran.jpg" alt="Afterglow de Ed Sheeran por SAXONARA en Barcelona">
+                                    <img loading="lazy" class="img-responsive" src="/images/videos/afterglow-ed-sheeran.jpg" alt="Afterglow de Ed Sheeran por SAXONARA en Barcelona">
                                 </div>
                                 <div class="post-content">
                                     <div class="post-metas">

@@ -122,6 +122,7 @@
         <?php include "../common-php/dj-sax/electronicdjsax-en.html"; ?>
         <!-- COMMON-DJSAX-ELECTRONICSAX -->
 
+        <!-- DJ SAX VIDEOS -->
         <div class="section purchase-section text-white">
             <div class="overlay section-padding">
                 <div class="container">
@@ -131,6 +132,8 @@
                 </div>
             </div>
         </div>
+        <!-- /DJ SAX VIDEOS -->
+
         <!-- ABOUT ALBUM -->
         <div class="section album-info-section section-padding" id="services">
             <div class="container">

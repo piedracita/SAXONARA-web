@@ -142,7 +142,7 @@
 
                 <!-- VIDEOS DJSAX -->
                 <?php include "common-php/videos/djsax.html"; ?>
-                <!-- VIDEOS DJSAX END -->
+                <!-- /VIDEOS DJSAX -->
             </div>
         </div>
 

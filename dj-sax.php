@@ -14,8 +14,8 @@
     <!-- COMMON-LOCALIZATION END -->
 
     <!-- SITE INFORMATION -->
-    <title>DJ & SAX Combo | Eventos y Fiestas de boda | + Bongos / Violín</title>
-    <meta name="description" content="Música en directo DJ & SAX Combo para Fiestas y Eventos, también con Bongos o Violín. Música en directo tipo Lounge / Chill-Out o las Fiestas más explosivas en bodas y clubs de Barcelona y Madrid. Consulta precio y tarifas.">
+    <title>DJ & SAXO Combo | Eventos y Fiestas de boda | + Bongos / Violín</title>
+    <meta name="description" content="Música en directo DJ & SAXO Combo para Fiestas y Eventos, también con Bongos o Violín. Música en directo tipo Lounge / Chill-Out o las Fiestas más explosivas en bodas y clubs de Barcelona y Madrid. Consulta precio y tarifas.">
     <meta name="keywords" content="sax, dj, duo, combo, bodas, fiestas, electrónica">
 
     <!-- COMMON-OPENGRAPH -->
@@ -36,22 +36,9 @@
         <?php include "common-php/navigation/es.html"; ?>
         <!-- NAVIGATION END -->
 
-        <!-- BANNER SLIDER -->
-        <div class="banner-slider owl-slider" id="banner-slider">
-            <div class="banner-item banner-item-1">
-                <div class="banner-content text-white">
-                    <div class="container">
-                        <h1 class="banner-title">DJ & SAX Combo</h1>
-                        <p class="banner-subtitle"><span class="banner-highlight">Música en directo DJ & SAX Combo para Fiestas y Eventos, también con Bongos o Violín. Música en directo tipo Lounge / Chill-Out o las Fiestas más explosivas en bodas. Consulta precio y tarifas.</span></p>
-                        <div class="button-group">
-                            <a class="btn btn-border btn-lg btn-white" href="#contact">Contactar</a>
-                            <a class="btn btn-simple btn-lg btn-white" href="/videos/"><i class="fa-solid fa-play"></i> Ver Vídeos</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- BANNER SLIDER END -->
+        <!-- COMMON-BANNER-DJSAX -->
+        <?php include "common-php/banner/djsax/es.html"; ?>
+        <!-- /COMMON-BANNER-DJSAX -->
     </header>
 
     <div class="main-wrap">
@@ -61,12 +48,12 @@
                 <div class="row">
                     <div class="col-md-10 col-md-offset-1 col-xs-12">
                         <div class="section-header text-center style-3">
-                            <h3 class="section-title">DJ & SAX Combo</h3>
-                            <p class="section-subtext">Nuestro Combo DJ & SAX se adapta a tu evento, desde <strong>fiestas de boda</strong> a <strong>eventos de empresa</strong> o aperitivos y eventos/bodas <strong>cóctel</strong>.</p>
+                            <h3 class="section-title">DJ & SAXO Combo</h3>
+                            <p class="section-subtext">Nuestro Combo DJ & SAXO se adapta a tu evento, desde <strong>fiestas de boda</strong> a <strong>eventos de empresa</strong> o aperitivos y eventos/bodas <strong>cóctel</strong>.</p>
 
                             <p class="section-subtext">El saxofón es un instrumentos que se mimetiza perfectamente con la música electrónica, desde estilos más <strong>Lounge</strong> y <strong>Chill-Out</strong> a las fiestas más explosivas, como podría ser un Club, con <strong>saxofón electrónico</strong>, o una Fiesta de Boda con el saxofonsita animando y ofreciendo <strong>música en directo</strong>.</p>
 
-                            <p class="section-subtext">A nuestro combo DJ & Sax se le pueden sumar más músicos para que el evento sea aún más vibrante, por ejemplo, <strong>DJ, Saxofón y Bongos</strong> es una opción fantástica para una fiesta de boda. Otra opción es <strong>DJ, Sax & Violín</strong> eléctrico, con una puesta en escena con <strong>luces LED</strong> y la música más conocida.</p>
+                            <p class="section-subtext">A nuestro combo DJ & Saxo se le pueden sumar más músicos para que el evento sea aún más vibrante, por ejemplo, <strong>DJ, Saxofón y Bongos</strong> es una opción fantástica para una fiesta de boda. Otra opción es <strong>DJ, Saxo & Violín</strong> eléctrico, con una puesta en escena con <strong>luces LED</strong> y la música más conocida.</p>
 
                             <p class="section-subtext">Nos puedes contactar directamente para <strong>disponibilidad y precio</strong>. Estamos disponibles en toda España y el extrangero.</p>
                             <a class="btn btn-small btn-black" href="#contact">CONTACTO</a>
@@ -84,27 +71,13 @@
         </div>
         <!-- ABOUT BAND END -->
 
-        <!-- DIVIDER -->
+        <!-- COMMON-DJSAX-DIVIDER -->
         <?php include "common-php/dj-sax/divider-dj-sax-01-es.html"; ?>
-        <!-- DIVIDER END -->
+        <!-- /COMMON-DJSAX-DIVIDER -->
 
-        <!-- ARTIST -->
-        <div class="section section-padding artist-section" id="videos">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-8 col-md-offset-2 col-xs-12">
-                        <div class="section-header text-center">
-                            <h3 class="section-title">DJ & Sax Electrónico</h3>
-                            <p class="section-subtext">Estas són algunas de nuestras fotos favoritas en fiestas DJ & SAX, también acompañados de otros músicos para formatos <strong>DJ, Sax & Bongos</strong> o a <strong>Dúo Saxo y Violín</strong>, encontrarás muchas más fotos en el Instagram de SAXONARA.</p>
-                        </div>
-                    </div>
-                </div>
-
-                <?php include "common-php/dj-sax/photos-dj-sax-01-es.html"; ?>
-
-            </div>
-        </div>
-        <!-- ARTIST END -->
+        <!-- COMMON-DJSAX-IBIZASUNSET -->
+        <?php include "common-php/dj-sax/ibizasunset-es.html"; ?>
+        <!-- /COMMON-DJSAX-IBIZASUNSET -->
 
         <!-- WHAT WE DO -->
         <div class="section black-bg side-img-section what-we-do-section" id="bands">
@@ -129,7 +102,7 @@
                                     <i class="fa-solid fa-water-ladder"></i>
                                 </div>
                                 <h4 class="doing-title">Pool Party</h4>
-                                <p class="doing-text">Mi opción favorita tanto en música como formato es la opción DJ & SAX para una pool party, mezclando <strong>música en directo</strong>, entretenimiento y el ambiente de <strong>Saxofonista Nikki Beach Ibiza</strong> en tu <strong>Pool Party</strong>.</p>
+                                <p class="doing-text">Mi opción favorita tanto en música como formato es la opción DJ & SAXO para una pool party, mezclando <strong>música en directo</strong>, entretenimiento y el ambiente de <strong>Saxofonista Nikki Beach Ibiza</strong> en tu <strong>Pool Party</strong>.</p>
                             </div>
                             <div class="doing-item">
                                 <div class="doing-icon">
@@ -144,6 +117,22 @@
             </div>
         </div>
         <!-- WHAT WE DO END -->
+        
+        <!-- COMMON-DJSAX-ELECTRONICSAX -->
+        <?php include "common-php/dj-sax/electronicdjsax-es.html"; ?>
+        <!-- COMMON-DJSAX-ELECTRONICSAX -->
+
+        <!-- DJ SAX VIDEOS -->
+        <div class="section purchase-section text-white">
+            <div class="overlay section-padding">
+                <div class="container">
+                <!-- VIDEOS DJSAX -->
+                <?php include "common-php/videos/djsax.html"; ?>
+                <!-- /VIDEOS DJSAX -->
+                </div>
+            </div>
+        </div>
+        <!-- /DJ SAX VIDEOS -->
 
         <!-- ABOUT ALBUM -->
         <div class="section album-info-section section-padding" id="services">
@@ -157,7 +146,7 @@
                     <div class="col-md-6">
                         <div class="section-header">
                             <h2 class="section-title">Saxofonista, Violín y Bongos</h2>
-                            <h5>Sax & Bongos</h5>
+                            <h5>Saxo & Bongos</h5>
                             <p>Junto con el DJ, este Combo <strong>Saxo & Bongos</strong> lenvatará el ánimo de la fiesta con el extra de <strong>percusión en directo</strong> y la energía del <strong>saxofón electrónico</strong>, un formato adaptable a bodas y eventos.</p>
                             <h5>Violín & Saxofón</h5>
                             <p>Preparamos los sets más explosivos para que no paréis de bailar, la combinación de <strong>Saxofón y Violín electrónico</strong> en directo hará que tu fiesta brille, especialmente con las <strong>luces LED</strong> del violín.</p>

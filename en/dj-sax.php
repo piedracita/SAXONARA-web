@@ -36,22 +36,9 @@
         <?php include "../common-php/navigation/en.html"; ?>
         <!-- NAVIGATION END -->
 
-        <!-- BANNER SLIDER -->
-        <div class="banner-slider owl-slider" id="banner-slider">
-            <div class="banner-item banner-item-1">
-                <div class="banner-content text-white">
-                    <div class="container">
-                        <h1 class="banner-title">DJ & SAX Combo</h1>
-                        <p class="banner-subtitle"><span class="banner-highlight">Live music DJ & SAX Combo style, perfect for Weddings, Events and Pool Parties, also with live Bongos or Violin. Lounge Chill Out live music or Uplifting Hits at parties in Barcelona, the South of France or Internationally. Ask for prices and availability.</span></p>
-                        <div class="button-group">
-                            <a class="btn btn-border btn-lg btn-white" href="#contact">Contact</a>
-                            <a class="btn btn-simple btn-lg btn-white" href="/en/videos.php"><i class="fa-solid fa-play"></i> Videos</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- BANNER SLIDER END -->
+        <!-- COMMON-BANNER-DJSAX -->
+        <?php include "../common-php/banner/djsax/en.html"; ?>
+        <!-- /COMMON-BANNER-DJSAX -->
     </header>
 
     <div class="main-wrap">
@@ -88,23 +75,9 @@
         <?php include "../common-php/dj-sax/divider-dj-sax-01-en.html"; ?>
         <!-- DIVIDER END -->
 
-        <!-- ARTIST -->
-        <div class="section section-padding artist-section" id="videos">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-8 col-md-offset-2 col-xs-12">
-                        <div class="section-header text-center">
-                            <h3 class="section-title">DJ & Electronic Sax</h3>
-                            <p class="section-subtext">These are some of our favorite photos at DJ & SAX Parties, also working with more musicians open format, as <strong>DJ, Sax & Bongos</strong> or <strong>Sax & Violin Duo</strong>, you will find more photos and videos by searching SAXONARA on Instagram or YouTube.</p>
-                        </div>
-                    </div>
-                </div>
-
-                <?php include "../common-php/dj-sax/photos-dj-sax-01-en.html"; ?>
-
-            </div>
-        </div>
-        <!-- ARTIST END -->
+        <!-- COMMON-DJSAX-IBIZASUNSET -->
+        <?php include "../common-php/dj-sax/ibizasunset-en.html"; ?>
+        <!-- COMMON-DJSAX-IBIZASUNSET -->
 
         <!-- WHAT WE DO -->
         <div class="section black-bg side-img-section what-we-do-section" id="bands">
@@ -145,6 +118,19 @@
         </div>
         <!-- WHAT WE DO END -->
 
+        <!-- COMMON-DJSAX-ELECTRONICSAX -->
+        <?php include "../common-php/dj-sax/electronicdjsax-en.html"; ?>
+        <!-- COMMON-DJSAX-ELECTRONICSAX -->
+
+        <div class="section purchase-section text-white">
+            <div class="overlay section-padding">
+                <div class="container">
+                <!-- VIDEOS DJSAX -->
+                <?php include "../common-php/videos/djsax.html"; ?>
+                <!-- /VIDEOS DJSAX -->
+                </div>
+            </div>
+        </div>
         <!-- ABOUT ALBUM -->
         <div class="section album-info-section section-padding" id="services">
             <div class="container">

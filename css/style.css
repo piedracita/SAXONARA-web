@@ -40,6 +40,7 @@ FAQs
 Whatsapp Button (by Arnald)
 Linktree Page (by Arnald)
 Img-Responsive (by Arnald)
+HR Line (by Arnald)
 ------------------------------------------*/
 /*----------------------------
 General
@@ -175,7 +176,8 @@ strong, b {
   margin-bottom: 0;
   font-weight: 400;
 }
-.section-header:after {
+/* He tret la línea negra al final del SECTION ja que no m'agrada (by Arnald */
+/*.section-header:after {
   content: "";
   position: absolute;
   height: 8px;
@@ -184,7 +186,7 @@ strong, b {
   bottom: 0;
   margin-left: -50px;
   background-color: #111111;
-}
+}*/
 .text-white .section-header:after, .theme-bg .section-header:after {
   background-color: #ffffff;
 }
@@ -3355,3 +3357,43 @@ Img-Responsive (Centrar imatges dels mini-posts)
   margin-left: auto;
   margin-right: auto;
 }
+
+/*--------------------------------
+HR Line by Arnald
+--------------------------------*/
+*:before, *:after { content: ''; }
+hr {
+  border: 0;
+  margin: 1.35em auto;
+  max-width: 100%;
+  background-position: 50%;
+  box-sizing: border-box;
+}
+
+.bookends-dots {
+  position: relative;
+  border-bottom: 1px solid hsla(0, 0%, 50%, 0.75);
+  width: 50%;
+}
+.bookends-dots:before,
+.bookends-dots:after {
+  position: absolute;
+  bottom: -5px;
+  width: 10px;
+  height: 10px;
+  display: block;
+  border-width: 0 1px 1px 0;
+  border-color: hsla(0, 0%, 50%, 0.75);
+  border-style: solid;
+  box-sizing: border-box;
+  border-radius: 100%;
+}
+.bookends-dots:before {
+  transform: translateZ(0) rotate(-45deg);
+  left: -10px;
+}
+.bookends-dots:after {
+  transform: translateZ(0) rotate(135deg);
+  right: -10px;
+}
+  

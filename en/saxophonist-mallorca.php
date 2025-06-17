@@ -65,7 +65,7 @@
                             <p><b>Freelance saxophonist for private events and weddings in Mallorca.</b></p>
                             <p>Born in Barcelona and season based in Mallorca, Arnald SAXONARA is a live saxophonist playing at <strong>private events</strong>, parties, pool parties and <strong>weddings</strong> all over the island.</p>
                             <p>I've played with hundreds of DJs and all types of events in <strong>Mallorca</strong>, I also provide my solo set where I mix and play myself, going from those <strong>jazzy tunes</strong> to the House music <strong>Ibiza style</strong>.</p>
-                            <p>I'ev studied in schools from Spain, the USA and Purto Rico, providing quality and diversity to my shows, mixing latin music and <strong>modern electronic</strong> tunes.</b>. Mallorca is a beautiful location, with endless beaches, cultural life and the <strong>best parties in the Mediterranean</strong>. You can find me around the island playing at the best hotels and clubs.</p>
+                            <p>I'ev studied in schools from Spain, the USA and Puerto Rico, providing quality and diversity to my shows, mixing latin music and <strong>modern electronic</strong> tunes.</b>. Mallorca is a beautiful location, with endless beaches, cultural life and the <strong>best parties in the Mediterranean</strong>. You can find me around the island playing at the best hotels and clubs.</p>
                             <div class="artist-information-list">
                                 <p><b class="artist-info-item">Name</b>:<span class="artist-info-value">Arnald SAXONARA</span></p>
                                 <p><b class="artist-info-item">Age</b>:<span class="artist-info-value">32</span></p>
@@ -81,7 +81,7 @@
                     </div>
                     <div class="col-md-6 col-md-pull-6 col-xs-12 col-xs-pull-0">
                         <div class="artist-image">
-                            <img loading="lazy" class="img-responsive" src="/images/cities/saxophonist-mallorca.jpg" alt="Arnald SAXONARA is a saxophonist in Barcelona">
+                            <img loading="lazy" class="img-responsive" src="/images/cities/saxophonist-mallorca.jpg" alt="Arnald SAXONARA is a saxophonist in Mallorca">
                         </div>
                     </div>
                 </div>

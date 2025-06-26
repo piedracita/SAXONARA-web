@@ -64,9 +64,9 @@
                             <h3 class="section-title" id="ceremony">La Ceremonia</h3>
                             <p>La primera intervención en la boda como músico es en la parte de la ceremonia, con el camino al altar de los novios. ¿Te gustaría una canción <strong>moderna</strong> o un <strong>clásico</strong> de las bodas? En parejas que prefieren lo moderno, la música de <strong>Ed Sheeran</strong> es una de las más solicitadas, mientras que en ceremonias tradicionales un <strong>Canon de Pachelbel</strong> o la <strong>Marcha Nupcial de Wagner</strong> son los referentes.</p>
 
-                            <p>Consulta todo mi repetorio en la <a href="/repertoire.php">pestaña REPERTORIO</a>, toma ideas de que canciones te gustarían para cada momento de la Ceremonia, si no encuentras tu canción favorita, avísame, no será ningún problema aprenderla para tu boda.</p>
+                            <p>Consulta todo mi repetorio en la <a href="/repertoire.php">pestaña REPERTORIO</a>, toma ideas de que canciones te gustarían para cada momento de la Ceremonia, Si tienes alguna canción especial en mente y no aparece en la lista, ¡no te preocupes! Estaré encantado de prepararla para que suene justo como la habías imaginado.</p>
 
-                            <p>También puedes encontrar muchos de mis vídeos buscando <a href="#contact">SAXONARA en YouTube o Instagram</a>, escucha mis versiones en saxofón y imagínate como sonaría el día de tu boda.</p>
+                            <p>También puedes encontrar muchos de mis vídeos buscando <a href="#contact">SAXONARA en YouTube o Instagram</a>, escucha mis <strong>versiones en saxofón</strong> y imagínate como sonaría el día de tu boda.</p>
                         </div>
                     </div>
                 </div>

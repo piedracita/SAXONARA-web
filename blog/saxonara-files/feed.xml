@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>SAXONARA</title>
+    <link href="https://www.saxonara.com/blog/feed.xml" rel="self" />
+    <link href="https://www.saxonara.com/blog" />
+    <updated>2025-06-26T10:13:01+02:00</updated>
+    <author>
+        <name>Arnald SAXONARA</name>
+    </author>
+    <id>https://www.saxonara.com/blog</id>
+
+    <entry>
+        <title>Prova 02</title>
+        <author>
+            <name>Arnald SAXONARA</name>
+        </author>
+        <link href="https://www.saxonara.com/blog/prova-02.html"/>
+        <id>https://www.saxonara.com/blog/prova-02.html</id>
+
+        <updated>2025-06-26T10:12:49+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Aquesta és la prova 02 de que existeix
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Aquesta és la prova 02 de que existeix</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Post Title by SAXONARA</title>
+        <author>
+            <name>Arnald SAXONARA</name>
+        </author>
+        <link href="https://www.saxonara.com/blog/post-title-by-saxonara.html"/>
+        <id>https://www.saxonara.com/blog/post-title-by-saxonara.html</id>
+
+        <updated>2025-06-25T17:12:04+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Text by SAXONARA
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Text by SAXONARA</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

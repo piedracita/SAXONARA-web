@@ -1,0 +1,41 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "SAXONARA",
+    "description": "",
+    "home_page_url": "https://www.saxonara.com/blog",
+    "feed_url": "https://www.saxonara.com/blog/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Arnald SAXONARA"
+    },
+    "items": [
+        {
+            "id": "https://www.saxonara.com/blog/prova-02.html",
+            "url": "https://www.saxonara.com/blog/prova-02.html",
+            "title": "Prova 02",
+            "summary": "Aquesta és la prova 02 de que existeix",
+            "content_html": "<p>Aquesta és la prova 02 de que existeix</p>",
+            "author": {
+                "name": "Arnald SAXONARA"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-06-26T10:12:49+02:00",
+            "date_modified": "2025-06-26T10:13:01+02:00"
+        },
+        {
+            "id": "https://www.saxonara.com/blog/post-title-by-saxonara.html",
+            "url": "https://www.saxonara.com/blog/post-title-by-saxonara.html",
+            "title": "Post Title by SAXONARA",
+            "summary": "Text by SAXONARA",
+            "content_html": "<p>Text by SAXONARA</p>",
+            "author": {
+                "name": "Arnald SAXONARA"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-06-25T17:12:04+02:00",
+            "date_modified": "2025-06-25T17:12:04+02:00"
+        }
+    ]
+}

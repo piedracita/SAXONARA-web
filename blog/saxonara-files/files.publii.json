@@ -82,32 +82,112 @@
     {
         "path": "/authors/arnald-saxonara/index.html",
         "type": "file",
-        "md5": "9dd7d9c4767cf8354aac00f072a29e38"
+        "md5": "66e51857c6557d13d64541bdbeb78b35"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "ba30304a438af793ab6c4f896f6d9231"
+        "md5": "7fda6835348f51eb4cda097dcd705781"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "3aa183f67126901768dbfe6fc4f95d7c"
+        "md5": "98c18aa9d053ff717a39646fb7ca5625"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "4459723a31ffb3477f48624b18f10c6f"
+        "md5": "9892804f40bf870df20d8c0d56a6dd48"
     },
     {
-        "path": "post-title-by-saxonara.html",
-        "type": "file",
-        "md5": "12ddcd80c41a09db6f586e4b962c1232"
+        "path": "media",
+        "type": "directory",
+        "md5": false
     },
     {
-        "path": "prova-02.html",
+        "path": "media/authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/authors/1",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/authors/1/23.01.18-profile-saxonara-full-body-2.jpg",
         "type": "file",
-        "md5": "bcaef917b410ac5c27ba862241e81e2c"
+        "md5": "b088321869fba17d4208edaa42e0bb38"
+    },
+    {
+        "path": "media/authors/1/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/authors/1/responsive/23.01.18-profile-saxonara-full-body-2-2xl.jpg",
+        "type": "file",
+        "md5": "e453f5757dbed25545b697deaad42237"
+    },
+    {
+        "path": "/media/authors/1/responsive/23.01.18-profile-saxonara-full-body-2-lg.jpg",
+        "type": "file",
+        "md5": "35cedb909f2fc8a422c2d6645621a292"
+    },
+    {
+        "path": "/media/authors/1/responsive/23.01.18-profile-saxonara-full-body-2-md.jpg",
+        "type": "file",
+        "md5": "8dfa7b766f2e04967578226471b775d9"
+    },
+    {
+        "path": "/media/authors/1/responsive/23.01.18-profile-saxonara-full-body-2-sm.jpg",
+        "type": "file",
+        "md5": "53d55e194bf2b6206f4f0bd82ee0797c"
+    },
+    {
+        "path": "/media/authors/1/responsive/23.01.18-profile-saxonara-full-body-2-xl.jpg",
+        "type": "file",
+        "md5": "dde534252f497e91afe146cd1c1aebc5"
+    },
+    {
+        "path": "/media/authors/1/responsive/23.01.18-profile-saxonara-full-body-2-xs.jpg",
+        "type": "file",
+        "md5": "f8134f9c4fdda9253a9e58a03e409fc4"
+    },
+    {
+        "path": "media/posts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/1",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/1/SANTLLEI.avif",
+        "type": "file",
+        "md5": "3bb37b4b2024fcc2cea0284d10e7e51f"
+    },
+    {
+        "path": "media/posts/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/2/oardefault.avif",
+        "type": "file",
+        "md5": "276b1c541e5b85c6a436557d0c2db418"
+    },
+    {
+        "path": "media/posts/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/3/alcazar.avif",
+        "type": "file",
+        "md5": "3dc1e688f9f2f8e87692334301981b06"
     },
     {
         "path": "robots.txt",
@@ -117,7 +197,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "425e507ae9fd3c4fc4372a8be0c8b667"
+        "md5": "4d3f212c6d5cabe49ffec93d5dd77059"
     },
     {
         "path": "sitemap.xsl",
@@ -130,8 +210,193 @@
         "md5": false
     },
     {
+        "path": "tags/alcazar-del-garraf",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/alcazar-del-garraf/index.html",
+        "type": "file",
+        "md5": "a571312f70073efd631f1cd01412d8de"
+    },
+    {
+        "path": "tags/chateau-de-caumont-wedding",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/chateau-de-caumont-wedding/index.html",
+        "type": "file",
+        "md5": "469dba3c7bf4d64f59481de4c21ca4dc"
+    },
+    {
+        "path": "tags/chateau-wedding-saxophone",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/chateau-wedding-saxophone/index.html",
+        "type": "file",
+        "md5": "c4a9eb305142f55025d346718210e728"
+    },
+    {
+        "path": "tags/destination-wedding-barcelona",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/destination-wedding-barcelona/index.html",
+        "type": "file",
+        "md5": "3a85b335c9f55908c63eb088e2ce015d"
+    },
+    {
+        "path": "tags/destination-wedding-spain",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/destination-wedding-spain/index.html",
+        "type": "file",
+        "md5": "5cbce4f4a634ba57a410bca0e52c3bd5"
+    },
+    {
+        "path": "tags/ibiza-dj-sax",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/ibiza-dj-sax/index.html",
+        "type": "file",
+        "md5": "d17c44288e41e79d73b3ddfa66e6b680"
+    },
+    {
+        "path": "tags/ibiza-saxophone-dj",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/ibiza-saxophone-dj/index.html",
+        "type": "file",
+        "md5": "6f65755d482876304806ed878ee7ba71"
+    },
+    {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "cb32d05b0e4eaa911f9c93837cb41e94"
+        "md5": "ee80a9c81f64577b42a8eca1f789ff85"
+    },
+    {
+        "path": "tags/live-saxophonist-europe",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/live-saxophonist-europe/index.html",
+        "type": "file",
+        "md5": "0cf90e8b70738224765b1e2e0f5af47e"
+    },
+    {
+        "path": "tags/luxury-wedding-entertainment",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/luxury-wedding-entertainment/index.html",
+        "type": "file",
+        "md5": "1fa70488b2be7cf9421b0e484eea825d"
+    },
+    {
+        "path": "tags/mas-de-sant-llei-wedding",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/mas-de-sant-llei-wedding/index.html",
+        "type": "file",
+        "md5": "cea45ffb52a0b315d957b4f2c64b08ba"
+    },
+    {
+        "path": "tags/sax-live-pool-party",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/sax-live-pool-party/index.html",
+        "type": "file",
+        "md5": "0502fcbec1a298414e0d6aaf7608a7fb"
+    },
+    {
+        "path": "tags/saxonara-live-music",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/saxonara-live-music/index.html",
+        "type": "file",
+        "md5": "2436b725b97ddd1dbb7297f2b970216b"
+    },
+    {
+        "path": "tags/saxophonist-for-hire",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/saxophonist-for-hire/index.html",
+        "type": "file",
+        "md5": "8b26d22055983dbfc9b08c783d4897c4"
+    },
+    {
+        "path": "tags/saxophonist-in-france",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/saxophonist-in-france/index.html",
+        "type": "file",
+        "md5": "a6a344bda1039b521fcd9a51d4733f64"
+    },
+    {
+        "path": "tags/saxophonist-sitges",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/saxophonist-sitges/index.html",
+        "type": "file",
+        "md5": "e822120ba66f21695d6a81e2cc1ce250"
+    },
+    {
+        "path": "tags/wedding-musician-south-of-france",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/wedding-musician-south-of-france/index.html",
+        "type": "file",
+        "md5": "6a8effb66dbab283f97f4308e15d0450"
+    },
+    {
+        "path": "tags/wedding-saxophonist-barcelona",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/wedding-saxophonist-barcelona/index.html",
+        "type": "file",
+        "md5": "697091bf0b96435d574806e7f42131da"
+    },
+    {
+        "path": "wedding-saxophonist-alcazar-del-garraf-barcelona-sitges.html",
+        "type": "file",
+        "md5": "78d758feeb3732fb01ec59d9cc7f6b67"
+    },
+    {
+        "path": "wedding-saxophonist-barcelona-mas-de-sant-llei.html",
+        "type": "file",
+        "md5": "87cda0787a29664d0f71b95a7213bae4"
+    },
+    {
+        "path": "wedding-saxophonist-chateau-de-caumont-france.html",
+        "type": "file",
+        "md5": "8141bc03ce961251ed99e9f054164183"
     }
 ]

@@ -134,30 +134,9 @@
         </div>
         <!-- /DJ SAX VIDEOS -->
 
-        <!-- ABOUT ALBUM -->
-        <div class="section album-info-section section-padding" id="services">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-6">
-                        <div class="album-image">
-                            <img loading="lazy" class="img-responsive" src="images/dj-sax/dj-sax-combo.jpg" alt="Combo DJ y Saxo para fiestas y eventos como bodas">
-                        </div>
-                    </div>
-                    <div class="col-md-6">
-                        <div class="section-header">
-                            <h2 class="section-title">Saxofonista, Violín y Bongos</h2>
-                            <h5>Saxo & Bongos</h5>
-                            <p>Junto con el DJ, este Combo <strong>Saxo & Bongos</strong> lenvatará el ánimo de la fiesta con el extra de <strong>percusión en directo</strong> y la energía del <strong>saxofón electrónico</strong>, un formato adaptable a bodas y eventos.</p>
-                            <h5>Violín & Saxofón</h5>
-                            <p>Preparamos los sets más explosivos para que no paréis de bailar, la combinación de <strong>Saxofón y Violín electrónico</strong> en directo hará que tu fiesta brille, especialmente con las <strong>luces LED</strong> del violín.</p>
-                            <h5>Eventos de empresa</h5>
-                            <p>Nuestros formatos de música en directo están disponibles para <b>eventos de empresa</b>, <strong>fiestas de boda</strong> y más eventos y fiestas privadas, así como conciertos y actuaciones. Consulta <strong>precio</strong> y disponibilidad.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- ABOUT ALBUM END -->
+        <!-- COMMON-DJSAX-DJ-SAX-VIOLIN-PERCUSSION -->
+        <?php include "common-php/dj-sax/dj-sax-violin-percussion-es.html"; ?>
+        <!-- COMMON-DJSAX-DJ-SAX-VIOLIN-PERCUSSION -->
 
     </div>
     <!-- FOOTER -->

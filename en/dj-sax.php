@@ -134,30 +134,9 @@
         </div>
         <!-- /DJ SAX VIDEOS -->
 
-        <!-- ABOUT ALBUM -->
-        <div class="section album-info-section section-padding" id="services">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-6">
-                        <div class="album-image">
-                            <img loading="lazy" class="img-responsive" src="/images/dj-sax/dj-sax-combo.jpg" alt="DJ and Sax Combo for parties, events and weddings">
-                        </div>
-                    </div>
-                    <div class="col-md-6">
-                        <div class="section-header">
-                            <h2 class="section-title">Saxophonist, Violin and Percussion</h2>
-                            <h5>Sax & Percussion</h5>
-                            <p>Playing with the DJ, the <strong>Sax & Bongos</strong> combo will cheer-up the party with the extra <strong>live drums</strong> and the energy of an <strong>electronic saxophone</strong>, a music fusion that's perfect for weddings and events.</p>
-                            <h5>Violin & Sax Fusion</h5>
-                            <p>We arrange the most uplifting sets so you just dance, a DJ band with live <strong>saxophone and electronic violin</strong>  will make your party stand out, specially with the <strong>Led lights</strong> on the violin.</p>
-                            <h5>Business Events</h5>
-                            <p>Our live music band is available for <b>business events</b>, <strong>wedding parties</strong> and more. Ask for <strong>prices</strong> and availability.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- ABOUT ALBUM END -->
+        <!-- COMMON-DJSAX-DJ-SAX-VIOLIN-PERCUSSION -->
+        <?php include "../common-php/dj-sax/dj-sax-violin-percussion-en.html"; ?>
+        <!-- COMMON-DJSAX-DJ-SAX-VIOLIN-PERCUSSION -->
 
     </div>
     <!-- FOOTER -->

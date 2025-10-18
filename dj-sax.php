@@ -42,34 +42,9 @@
     </header>
 
     <div class="main-wrap">
-    	<!-- ABOUT BAND -->
-        <div class="section section-padding bottom-0 about-band-section" id="bio">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-10 col-md-offset-1 col-xs-12">
-                        <div class="section-header text-center style-3">
-                            <h3 class="section-title">DJ & SAXO Combo</h3>
-                            <p class="section-subtext">Nuestro Combo DJ & SAXO se adapta a tu evento, desde <strong>fiestas de boda</strong> a <strong>eventos de empresa</strong> o aperitivos y eventos/bodas <strong>cóctel</strong>.</p>
-
-                            <p class="section-subtext">El saxofón es un instrumentos que se mimetiza perfectamente con la música electrónica, desde estilos más <strong>Lounge</strong> y <strong>Chill-Out</strong> a las fiestas más explosivas, como podría ser un Club, con <strong>saxofón electrónico</strong>, o una Fiesta de Boda con el saxofonsita animando y ofreciendo <strong>música en directo</strong>.</p>
-
-                            <p class="section-subtext">A nuestro combo DJ & Saxo se le pueden sumar más músicos para que el evento sea aún más vibrante, por ejemplo, <strong>DJ, Saxofón y Bongos</strong> es una opción fantástica para una fiesta de boda. Otra opción es <strong>DJ, Saxo & Violín</strong> eléctrico, con una puesta en escena con <strong>luces LED</strong> y la música más conocida.</p>
-
-                            <p class="section-subtext">Nos puedes contactar directamente para <strong>disponibilidad y precio</strong>. Estamos disponibles en toda España y el extrangero.</p>
-                            <a class="btn btn-small btn-black" href="#contact">CONTACTO</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-xs-12 text-center">
-                        <div class="band-img">
-                            <img loading="lazy" class="img-responsive" src="/images/dj-sax/dj-sax.jpg" alt="Combo DJ y Saxofonsita electrónico para fiestas y eventos.">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- ABOUT BAND END -->
+        <!-- COMMON-DJSAX-HEADER -->
+        <?php include "common-php/dj-sax/header-es.html"; ?>
+        <!-- /COMMON-DJSAX-HEADER -->
 
         <!-- COMMON-DJSAX-DIVIDER -->
         <?php include "common-php/dj-sax/divider-dj-sax-01-es.html"; ?>
@@ -79,44 +54,9 @@
         <?php include "common-php/dj-sax/ibizasunset-es.html"; ?>
         <!-- /COMMON-DJSAX-IBIZASUNSET -->
 
-        <!-- WHAT WE DO -->
-        <div class="section black-bg side-img-section what-we-do-section" id="bands">
-            <div class="col-sm-6 col-sm-offset-6 side-img hidden-xs"></div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-5">
-                        <div class="doing-items section-padding">
-                            <div class="section-header">
-                                <h2 class="section-title">Música en directo para eventos</h2>
-                                <p class="section-subtext">El formato perfecto para tu evento, la combinación musical <strong>DJ y Saxofón en directo</strong>, una opción potente, elegante y animada para hacer que tu evento destaque, disponible para <strong>eventos de empresa</strong>, <strong>bodas</strong> y otras opciones, sigue leyendo...</p>
-                            </div>
-                            <div class="doing-item">
-                                <div class="doing-icon">
-                                    <i class="fa-solid fa-martini-glass-citrus"></i>
-                                </div>
-                                <h4 class="doing-title">Chill-Out / Lounge</h4>
-                                <p class="doing-text">Si estás organizando un <strong>evento</strong> y quieres música en directo puedes contar con nuestro <strong>Combo DJ y Saxo</strong>, con nuestro formato obtendrás la <b>adaptabilidad</b> de la música DJ junto con el hype que le dará la <strong>música del saxofón en directo</strong>, puediendo adaptar la música a cada momento.</p>
-                            </div>
-                            <div class="doing-item">
-                                <div class="doing-icon">
-                                    <i class="fa-solid fa-water-ladder"></i>
-                                </div>
-                                <h4 class="doing-title">Pool Party</h4>
-                                <p class="doing-text">Mi opción favorita tanto en música como formato es la opción DJ & SAXO para una pool party, mezclando <strong>música en directo</strong>, entretenimiento y el ambiente de <strong>Saxofonista Nikki Beach Ibiza</strong> en tu <strong>Pool Party</strong>.</p>
-                            </div>
-                            <div class="doing-item">
-                                <div class="doing-icon">
-                                    <i class="fa-solid fa-champagne-glasses"></i>
-                                </div>
-                                <h4 class="doing-title">La mejor fiesta</h4>
-                                <p class="doing-text">Un formató original de <strong>música en directo</strong> para <strong>fiestas de empresa</strong> y <strong>fiestas de boda</strong>, pudiéndonos adaptar en función de las necesidades y gustos de cliente, con una presentación <strong>elegante</strong> y saxofonista animando en formato pases desde la pista de baile, asegurando el éxito y <strong>diversión</strong> del evento.</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- WHAT WE DO END -->
+        <!-- COMMON-DJSAX-live-music-events -->
+        <?php include "common-php/dividers/live-music-events-es.html"; ?>
+        <!-- /COMMON-DJSAX-live-music-events -->
         
         <!-- COMMON-DJSAX-ELECTRONICSAX -->
         <?php include "common-php/dj-sax/electronicdjsax-es.html"; ?>

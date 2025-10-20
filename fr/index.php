@@ -53,7 +53,7 @@
                     <div class="col-md-10 col-md-offset-1 col-xs-12">
                         <div class="section-header text-center style-3">
                             <h3 class="section-title">SAXONARA<br>Saxophoniste événementiel & mariages</h3>
-                            <p class="section-subtext">Salut! Je suis Arnald SAXONARA, <strong>saxophoniste professionnel lors d'événements et de mariages</strong> en tant que soliste, ainsi qu'avec des DJ, des groupes et d'autres options. J'adore faire de la <strong>musique live lors des mariages</strong>, d'événements privés, d'hôtels, de fêtes, de <strong>dîners d'entreprise</strong> et plus encore.</p>
+                            <p class="section-subtext">Je suis Arnald SAXONARA, <strong>saxophoniste professionnel lors d'événements et de mariages</strong> en tant que soliste, ainsi qu'avec des DJ, des groupes et d'autres options. J'adore faire de la <strong>musique live lors des mariages</strong>, d'événements privés, d'hôtels, de fêtes, de <strong>dîners d'entreprise</strong> et plus encore.</p>
 
                             <p class="section-subtext">Où pouvez-vous me trouver? Je voyage pour jouer de la musique en tant que <strong><a href="/fr/saxophoniste-france.php">saxophoniste en France</a></strong>, en particulier vous pouvez me trouver à <a href="/fr/saxophoniste-toulouse.php">Toulouse</a>, <a href="/fr/saxophoniste-perpignan.php">Perpignan</a> ou Montpellier. Je travaille également, surtout pour des événements privés et des mariages, à Paris, Lyon ou Marseille.</p>
 

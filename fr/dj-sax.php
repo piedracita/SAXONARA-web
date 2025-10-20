@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 
 <head>
     <!-- COMMON-HEAD -->
@@ -7,19 +7,19 @@
     <!-- COMMON-HEAD END -->
 
     <!-- CANONICAL -->
-    <link rel="canonical" href="https://www.saxonara.com/en/dj-sax.php">
+    <link rel="canonical" href="https://www.saxonara.com/fr/dj-sax.php">
 
     <!-- COMMON-LOCALIZATION -->
     <?php include "../common-php/localization/dj-sax.html"; ?>
     <!-- COMMON-LOCALIZATION END -->
 
     <!-- SITE INFORMATION -->
-    <title>DJ & SAX Combo | Events, Weddings & Pool Party | + Bongos / Violin</title>
-    <meta name="description" content="Live music DJ & SAX Combo style, perfect for Weddings, Events and Pool Parties, also with live Bongos or Violin. Lounge Chill Out live music or Uplifting Hits at parties in Barcelona, the South of France or Internationally. Ask for prices and availability.">
-    <meta name="keywords" content="sax, dj, duo, combo, wedding, party, pool party">
+    <title>DJ & SAXO Combo | Eventos y Fiestas de boda | + Bongos / Violín</title>
+    <meta name="description" content="Música en directo DJ & SAXO Combo para Fiestas y Eventos, también con Bongos o Violín. Música en directo tipo Lounge / Chill-Out o las Fiestas más explosivas en bodas y clubs de Barcelona y Madrid. Consulta precio y tarifas.">
+    <meta name="keywords" content="sax, dj, duo, combo, bodas, fiestas, electrónica">
 
     <!-- COMMON-OPENGRAPH -->
-    <?php include "../common-php/opengraph/en.html"; ?>
+    <?php include "../common-php/opengraph/fr.html"; ?>
     <!-- COMMON-OPENGRAPH END -->
     
 </head>
@@ -33,33 +33,33 @@
 
     <header id="top" class="top-header">
         <!-- NAVIGATION -->
-        <?php include "../common-php/navigation/en.html"; ?>
+        <?php include "../common-php/navigation/fr.html"; ?>
         <!-- NAVIGATION END -->
 
         <!-- COMMON-BANNER-DJSAX -->
-        <?php include "../common-php/djsax/banner-en.html"; ?>
+        <?php include "../common-php/dj-sax/banner-fr.html"; ?>
         <!-- /COMMON-BANNER-DJSAX -->
     </header>
 
     <div class="main-wrap">
         <!-- COMMON-DJSAX-HEADER -->
-        <?php include "../common-php/dj-sax/header-en.html"; ?>
+        <?php include "../common-php/dj-sax/header-fr.html"; ?>
         <!-- /COMMON-DJSAX-HEADER -->
 
-        <!-- DIVIDER -->
-        <?php include "../common-php/dj-sax/divider-dj-sax-01-en.html"; ?>
-        <!-- /DIVIDER END -->
+        <!-- COMMON-DJSAX-DIVIDER -->
+        <?php include "../common-php/dj-sax/divider-dj-sax-01-fr.html"; ?>
+        <!-- /COMMON-DJSAX-DIVIDER -->
 
         <!-- COMMON-DJSAX-IBIZASUNSET -->
-        <?php include "../common-php/dj-sax/ibizasunset-en.html"; ?>
+        <?php include "../common-php/dj-sax/ibizasunset-fr.html"; ?>
         <!-- /COMMON-DJSAX-IBIZASUNSET -->
 
-        <!-- COMMON-DIVIDER-live-music-events -->
-        <?php include "../common-php/dividers/live-music-events-en.html"; ?>
-        <!-- /COMMON-DIVIDER-live-music-events -->
-
+        <!-- COMMON-DJSAX-live-music-events -->
+        <?php include "../common-php/dividers/live-music-events-fr.html"; ?>
+        <!-- /COMMON-DJSAX-live-music-events -->
+        
         <!-- COMMON-DJSAX-ELECTRONICSAX -->
-        <?php include "../common-php/dj-sax/electronicdjsax-en.html"; ?>
+        <?php include "../common-php/dj-sax/electronicdjsax-fr.html"; ?>
         <!-- COMMON-DJSAX-ELECTRONICSAX -->
 
         <!-- DJ SAX VIDEOS -->
@@ -75,12 +75,12 @@
         <!-- /DJ SAX VIDEOS -->
 
         <!-- COMMON-DJSAX-DJ-SAX-VIOLIN-PERCUSSION -->
-        <?php include "../common-php/dj-sax/dj-sax-violin-percussion-en.html"; ?>
+        <?php include "../common-php/dj-sax/dj-sax-violin-percussion-fr.html"; ?>
         <!-- COMMON-DJSAX-DJ-SAX-VIOLIN-PERCUSSION -->
 
     </div>
     <!-- FOOTER -->
-    <?php include "../common-php/footer/en.html"; ?>
+    <?php include "../common-php/footer/fr.html"; ?>
     <!-- FOOTER END -->
 
     <!-- COMMON-BODY-SCRIPT -->

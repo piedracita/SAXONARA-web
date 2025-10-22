@@ -37,7 +37,7 @@
         <!-- NAVIGATION END -->
 
         <!-- COMMON-BANNER-DJSAX -->
-        <?php include "common-php/djsax/banner-es.html"; ?>
+        <?php include "common-php/dj-sax/banner-es.html"; ?>
         <!-- /COMMON-BANNER-DJSAX -->
     </header>
 

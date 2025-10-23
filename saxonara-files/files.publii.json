@@ -1410,6 +1410,86 @@
         "md5": "e3b28ee9b41f9c5678ddfa8001717413"
     },
     {
+        "path": "media/posts/28",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/28/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/28/responsive/saxonara-miss-monique-lg.jpg",
+        "type": "file",
+        "md5": "970ea08431be04137e3784e9f1ad8472"
+    },
+    {
+        "path": "/media/posts/28/responsive/saxonara-miss-monique-sm.jpg",
+        "type": "file",
+        "md5": "308ec42c6fc7db2d57f321b51b9341ce"
+    },
+    {
+        "path": "/media/posts/28/responsive/saxonara-miss-monique-xs.jpg",
+        "type": "file",
+        "md5": "cc860ab4a070a7ba636ad240089908c9"
+    },
+    {
+        "path": "/media/posts/28/responsive/saxonara-miss-monique-md.jpg",
+        "type": "file",
+        "md5": "f75c120597e93d572daa7fdb9b187b69"
+    },
+    {
+        "path": "/media/posts/28/responsive/saxonara-miss-monique-xl.jpg",
+        "type": "file",
+        "md5": "970ea08431be04137e3784e9f1ad8472"
+    },
+    {
+        "path": "/media/posts/28/responsive/saxonara-miss-monique-2xl.jpg",
+        "type": "file",
+        "md5": "970ea08431be04137e3784e9f1ad8472"
+    },
+    {
+        "path": "/media/posts/28/responsive/miss-monique-es-vedra-xs.jpg",
+        "type": "file",
+        "md5": "d7af1a8f3e195b298313bf1139bae58a"
+    },
+    {
+        "path": "/media/posts/28/responsive/miss-monique-es-vedra-lg.jpg",
+        "type": "file",
+        "md5": "2039cb24ae0f448606413b1d57f05a2c"
+    },
+    {
+        "path": "/media/posts/28/responsive/miss-monique-es-vedra-sm.jpg",
+        "type": "file",
+        "md5": "4704d029c70bd86d3584c0c4400cd831"
+    },
+    {
+        "path": "/media/posts/28/responsive/miss-monique-es-vedra-md.jpg",
+        "type": "file",
+        "md5": "33113d60e9069cc0441fc90050e5dc7d"
+    },
+    {
+        "path": "/media/posts/28/responsive/miss-monique-es-vedra-xl.jpg",
+        "type": "file",
+        "md5": "2039cb24ae0f448606413b1d57f05a2c"
+    },
+    {
+        "path": "/media/posts/28/responsive/miss-monique-es-vedra-2xl.jpg",
+        "type": "file",
+        "md5": "2039cb24ae0f448606413b1d57f05a2c"
+    },
+    {
+        "path": "/media/posts/28/saxonara-miss-monique.jpg",
+        "type": "file",
+        "md5": "4e19971d389420e05fbb3d4cfd50ff63"
+    },
+    {
+        "path": "/media/posts/28/miss-monique-es-vedra.jpg",
+        "type": "file",
+        "md5": "e6c9fa215058537dccd605cbf3443b67"
+    },
+    {
         "path": "media/authors",
         "type": "directory",
         "md5": false
@@ -1462,7 +1542,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "9f2e661ae282f68ac32a31fd59b2ef3e"
+        "md5": "fcdd32cc25ae7ec5fc58a8b1aebff4d9"
     },
     {
         "path": "wedding-saxophonist-barcelona-mas-de-sant-llei.html",
@@ -1532,12 +1612,12 @@
     {
         "path": "dj-sax-mallorca-beach-club-ibiza-sunset.html",
         "type": "file",
-        "md5": "c1c9b2791aec1c7feb14ae24b7e65bfa"
+        "md5": "064b50d0fb8301b6f690f205ff335180"
     },
     {
         "path": "dj-sax-wedding-cocktail-aperitif-music.html",
         "type": "file",
-        "md5": "035edf5a126b8899c246b196ee5cb41f"
+        "md5": "895d699bd5b7913748578f0ba4aae0d4"
     },
     {
         "path": "violin-sax-fusion-wedding-music-barcelona-luxury-events.html",
@@ -1572,32 +1652,32 @@
     {
         "path": "live-sax-barcelona-la-baronia-wedding.html",
         "type": "file",
-        "md5": "0b68f7f736927c0201dbfd7fc71d003f"
+        "md5": "5aabc54e2cd54af7ef4996327359600d"
     },
     {
         "path": "live-sax-benicassim-corporate-event-spain.html",
         "type": "file",
-        "md5": "0c5c11f5ad3ad173762f5e425fc8ae99"
+        "md5": "010f992924291990f02919679c9f29a4"
     },
     {
         "path": "elevate-your-destination-wedding-live-sax-at-hacienda-la-soledad.html",
         "type": "file",
-        "md5": "fcfdda6a6be34799cb81a70427724487"
+        "md5": "2a40f891e988ca581936ae13cbc48400"
     },
     {
         "path": "saxonara-delivers-high-impact-dj-and-sax-show-near-barcelona.html",
         "type": "file",
-        "md5": "8da3be6265b1f2f43f5a550d7965bbe0"
+        "md5": "882199416418ef1b3eb81c0c731646e3"
     },
     {
         "path": "dj-sax-experience-in-milan-the-perfect-blend-of-saxophone-and-lounge-vibes-for-luxury-events.html",
         "type": "file",
-        "md5": "e2db419e2307d343149e2ede4fc35fdc"
+        "md5": "1bc233f393b5d4c8a64efaf58e3999bc"
     },
     {
         "path": "violin-and-sax-fusion-at-domaine-le-castelet-destination-wedding-in-the-south-of-france.html",
         "type": "file",
-        "md5": "e5e79b59f633b9c0ae0190149e43a285"
+        "md5": "6fc493b56f2c8cccce7801abe751c871"
     },
     {
         "path": "page",
@@ -1612,7 +1692,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "7851eda2f20815f6c10c6fe7b1b2ff47"
+        "md5": "423496b7b1c59cef3dc8f8bc0be8be62"
     },
     {
         "path": "page/3",
@@ -1622,7 +1702,7 @@
     {
         "path": "/page/3/index.html",
         "type": "file",
-        "md5": "a4ca72d6643593852d47cc31974ef7e6"
+        "md5": "e6958b37aa8463471ce52fe99e8c663a"
     },
     {
         "path": "page/4",
@@ -1632,7 +1712,7 @@
     {
         "path": "/page/4/index.html",
         "type": "file",
-        "md5": "c1dc0dfa648886c1899fe788e9a81823"
+        "md5": "741eb37fc41923b91fdaa32d06a0c205"
     },
     {
         "path": "page/5",
@@ -1642,7 +1722,7 @@
     {
         "path": "/page/5/index.html",
         "type": "file",
-        "md5": "70e4c1946f0b712ef845ce372f95001e"
+        "md5": "13f93846fc6606a1506bcc393e3d689b"
     },
     {
         "path": "page/6",
@@ -1652,7 +1732,12 @@
     {
         "path": "/page/6/index.html",
         "type": "file",
-        "md5": "f11a71d6110e4cd6a12b7adf60da66cd"
+        "md5": "81a5e7e046842b7c897835016b3f5dbc"
+    },
+    {
+        "path": "es-vedra-miss-monique-saxonara-live-sax-ibiza.html",
+        "type": "file",
+        "md5": "a1500b7e6cc28ec8e97c27afd31a9664"
     },
     {
         "path": "tags",
@@ -1728,6 +1813,16 @@
         "path": "/tags/balearic-islands/index.html",
         "type": "file",
         "md5": "3e3fbbd7e055683daf4cf8931e319059"
+    },
+    {
+        "path": "tags/barcelona-events",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/barcelona-events/index.html",
+        "type": "file",
+        "md5": "0c126168d0c6e6990e858438a6cb9cad"
     },
     {
         "path": "tags/barcelona-musician-live-loops",
@@ -2120,6 +2215,16 @@
         "md5": "8e72c9a2ac1d4c620d7bc248c07d4181"
     },
     {
+        "path": "tags/dj-and-sax",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/dj-and-sax/index.html",
+        "type": "file",
+        "md5": "8df25217bd3abb578909e3143265ea7b"
+    },
+    {
         "path": "tags/djsax",
         "type": "directory",
         "md5": false
@@ -2192,7 +2297,22 @@
     {
         "path": "/tags/destination-wedding/index.html",
         "type": "file",
-        "md5": "bd9eac5f2c54a14dabbdfb6a5a8cbd35"
+        "md5": "6ab4fd346b9427a9cd2349442f6856e9"
+    },
+    {
+        "path": "tags/destination-wedding/page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "tags/destination-wedding/page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/destination-wedding/page/2/index.html",
+        "type": "file",
+        "md5": "f81f02972d3863f58799efb4270146b1"
     },
     {
         "path": "tags/destination-wedding-afterparty",
@@ -2545,6 +2665,16 @@
         "md5": "b7453e7c75d60b31bbb0c9602dea0fc9"
     },
     {
+        "path": "tags/ibiza-2026",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/ibiza-2026/index.html",
+        "type": "file",
+        "md5": "fb38d5fbe75f92f0fbc878db7a6e0a99"
+    },
+    {
         "path": "tags/ibiza-beach-party-music",
         "type": "directory",
         "md5": false
@@ -2622,7 +2752,7 @@
     {
         "path": "/tags/ibiza-sunset/index.html",
         "type": "file",
-        "md5": "24c5fe8685e219508c31459a1d553a2a"
+        "md5": "7303ee84ab55d47431d071de11abf380"
     },
     {
         "path": "tags/ibiza-wedding-entertainment",
@@ -2772,7 +2902,7 @@
     {
         "path": "/tags/live-music/index.html",
         "type": "file",
-        "md5": "49a420ed968bdabe100242bd67a6460c"
+        "md5": "de331420291bf8108cd587b6ac602d4e"
     },
     {
         "path": "tags/live-music-for-events",
@@ -2832,7 +2962,7 @@
     {
         "path": "/tags/live-sax-ibiza/index.html",
         "type": "file",
-        "md5": "6bba35eaf80da22dec25b33ec19c5de5"
+        "md5": "8111a5ebd018167f231e6d0d0b01f140"
     },
     {
         "path": "tags/live-saxophone",
@@ -2942,7 +3072,7 @@
     {
         "path": "/tags/luxury-events/index.html",
         "type": "file",
-        "md5": "8d9ae4be04ee3830e9e8d4fc52afd8b1"
+        "md5": "a7c3c005d1aef8f3fe608620972dd2d7"
     },
     {
         "path": "tags/luxury-music",
@@ -3073,6 +3203,16 @@
         "path": "/tags/milan-music/index.html",
         "type": "file",
         "md5": "f178e7841acd7d109628415148add7a9"
+    },
+    {
+        "path": "tags/miss-monique",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/miss-monique/index.html",
+        "type": "file",
+        "md5": "36831432538878d8ede63268aac76cda"
     },
     {
         "path": "tags/music-gear",
@@ -3242,7 +3382,7 @@
     {
         "path": "/tags/saxonara-dj-live/index.html",
         "type": "file",
-        "md5": "4ad3e560a2ae8f3e8c0b2decf681f9bc"
+        "md5": "51bad63615fd48e5951267378e2dfcc4"
     },
     {
         "path": "tags/saxonara-in-the-snow",
@@ -3393,6 +3533,16 @@
         "path": "/tags/saxophonist-sitges/index.html",
         "type": "file",
         "md5": "9b8fdf135e63f4235a05384e02804a87"
+    },
+    {
+        "path": "tags/saxophonist-for-events",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/saxophonist-for-events/index.html",
+        "type": "file",
+        "md5": "c6f8d6d09667ae2c3450c207bc94b6c9"
     },
     {
         "path": "tags/saxophonist-for-events-europe",
@@ -3732,7 +3882,7 @@
     {
         "path": "/tags/wedding-sax/index.html",
         "type": "file",
-        "md5": "693afc188351241f3d4aa38910aac906"
+        "md5": "e661742046835c7f1f505ad4c2091c62"
     },
     {
         "path": "tags/wedding-saxophonist",
@@ -3892,12 +4042,12 @@
     {
         "path": "/tags/wedding-musician-south-of-france/index.html",
         "type": "file",
-        "md5": "34b7334d0f8da6423b3064eb2c93319f"
+        "md5": "04ca76e51e34802633c191c5935f48d4"
     },
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "b73c1b3c11bc1100057d6cf9fd650899"
+        "md5": "93c99afdd2df4f67fc48f76b3d3cd7ff"
     },
     {
         "path": "authors",
@@ -3912,7 +4062,7 @@
     {
         "path": "/authors/arnald-saxonara/index.html",
         "type": "file",
-        "md5": "e9d22514a805c1cb347ddf7e08adbde2"
+        "md5": "c07dc15dcc222c623140226024fdf288"
     },
     {
         "path": "authors/arnald-saxonara/page",
@@ -3927,7 +4077,7 @@
     {
         "path": "/authors/arnald-saxonara/page/2/index.html",
         "type": "file",
-        "md5": "9b54d506aa277b314f5c9fc9501774ee"
+        "md5": "5b27d0719f71072c15e7ea84b3c7c132"
     },
     {
         "path": "authors/arnald-saxonara/page/3",
@@ -3937,7 +4087,7 @@
     {
         "path": "/authors/arnald-saxonara/page/3/index.html",
         "type": "file",
-        "md5": "90636312e19e17a80ed25b07567518e8"
+        "md5": "c07fb1608c6fa9c557f7aeffda3fa5db"
     },
     {
         "path": "authors/arnald-saxonara/page/4",
@@ -3947,7 +4097,7 @@
     {
         "path": "/authors/arnald-saxonara/page/4/index.html",
         "type": "file",
-        "md5": "785b5e2b050b2e7223d723d2d0ef31b0"
+        "md5": "4695f25022c848acfa67817c43c79de3"
     },
     {
         "path": "authors/arnald-saxonara/page/5",
@@ -3957,7 +4107,17 @@
     {
         "path": "/authors/arnald-saxonara/page/5/index.html",
         "type": "file",
-        "md5": "9dab042d77caf9ce10777361e18fdf83"
+        "md5": "9f178f9fec6ccb79f8c955a6ca7c0d2a"
+    },
+    {
+        "path": "authors/arnald-saxonara/page/6",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/arnald-saxonara/page/6/index.html",
+        "type": "file",
+        "md5": "830bb6b5c29f20d684409d669b9e0540"
     },
     {
         "path": "authors/female-saxophonist-ibiza-gesax-destination-wedding-music",
@@ -3977,12 +4137,12 @@
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "fc3a2031c42af659dd052369d112e910"
+        "md5": "704f5773ada69de5de01f25c2aba5fea"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "0a8590200a035eb7816bdf63b46609ae"
+        "md5": "c08aeacd62b89e9929d24dba7b49fa6c"
     },
     {
         "path": "assets",

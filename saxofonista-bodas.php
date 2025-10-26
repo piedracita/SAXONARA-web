@@ -141,7 +141,7 @@
                 </div>
 
                 <!-- VIDEOS DJSAX -->
-                <?php include "common-php/videos/djsax.html"; ?>
+                <?php include "common-php/videos/djsax01.html"; ?>
                 <!-- /VIDEOS DJSAX -->
             </div>
         </div>

@@ -62,7 +62,7 @@
         <?php include "../common-php/dj-sax/electronicdjsax-en.html"; ?>
         <!-- COMMON-DJSAX-ELECTRONICSAX -->
 
-        <!-- DJ SAX VIDEOS -->
+        <!-- DJ SAX VIDEOS01 -->
         <div class="section purchase-section text-white">
             <div class="overlay section-padding">
                 <div class="container">
@@ -72,10 +72,10 @@
                 </div>
             </div>
         </div>
-        <!-- /DJ SAX VIDEOS -->
+        <!-- /DJ SAX VIDEOS01 -->
         
         <!-- COMMON-DJSAX-POOLPARTY -->
-        <?php include "../common-php/dj-sax/pool-party-en.html"; ?>
+        <?php include "../common-php/dj-sax/poolparty-en.html"; ?>
         <!-- /COMMON-DJSAX-POOLPARTY -->
 
         <!-- COMMON-VIDEOS-DJSAX02 -->

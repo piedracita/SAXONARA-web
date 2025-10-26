@@ -73,6 +73,22 @@
             </div>
         </div>
         <!-- /DJ SAX VIDEOS -->
+        
+        <!-- COMMON-DJSAX-POOLPARTY -->
+        <?php include "../common-php/dj-sax/poolparty-cat.html"; ?>
+        <!-- /COMMON-DJSAX-POOLPARTY -->
+
+        <!-- COMMON-VIDEOS-DJSAX02 -->
+        <div class="section purchase-section text-white">
+            <div class="overlay section-padding">
+                <div class="container">
+                <!-- VIDEOS DJSAX -->
+                <?php include "../common-php/videos/djsax02.html"; ?>
+                <!-- /VIDEOS DJSAX -->
+                </div>
+            </div>
+        </div>
+        <!-- /COMMON-VIDEOS-DJSAX02 -->
 
         <!-- COMMON-DJSAX-DJ-SAX-VIOLIN-PERCUSSION -->
         <?php include "../common-php/dj-sax/dj-sax-violin-percussion-cat.html"; ?>

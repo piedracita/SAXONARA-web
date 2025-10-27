@@ -4,14 +4,14 @@
 <head>
     <!-- COMMON-HEAD -->
     <?php include "../common-php/head.html"; ?>
-    <!-- COMMON-HEAD END -->
+    <!-- /COMMON-HEAD -->
 
     <!-- CANONICAL -->
     <link rel="canonical" href="https://www.saxonara.com/en/index.php">
 
     <!-- COMMON-LOCALIZATION -->
     <?php include "../common-php/localization/main.html"; ?>
-    <!-- COMMON-LOCALIZATION END -->
+    <!-- /COMMON-LOCALIZATION -->
 
     <!-- SITE INFORMATION -->
     <title>SAXONARA | Saxophonist for weddings and events</title>
@@ -20,14 +20,14 @@
 
     <!-- COMMON-OPENGRAPH -->
     <?php include "../common-php/opengraph/en.html"; ?>
-    <!-- COMMON-OPENGRAPH END -->
+    <!-- /COMMON-OPENGRAPH -->
 
 </head>
 
 <body>
     <!-- COMMON-BODY -->
     <?php include "../common-php/body.html"; ?>
-    <!-- COMMON-BODY END -->
+    <!-- /COMMON-BODY -->
 
     <header id="top" class="top-header">
         <!-- COMMON-NAVIGATION-EN -->
@@ -38,9 +38,9 @@
         <div class="banner-slider owl-slider" id="banner-slider">
             <!-- COMMON-BANNER-WEDDINGS -->
             <?php include "../common-php/banner/events/en.html"; ?>
-            <!-- COMMON-BODY END -->
+            <!-- /COMMON-BODY -->
         </div>
-        <!-- BANNER SLIDER END -->
+        <!-- /BANNER SLIDER -->
 
     </header>
 
@@ -77,7 +77,7 @@
 
         <!-- DIVIDER -->
         <?php include "../common-php/dividers/01-en.html"; ?>
-        <!-- DIVIDER END -->
+        <!-- /DIVIDER -->
  
         <!-- Artist -->
         <div class="section section-padding artist-section" id="videos">
@@ -108,11 +108,11 @@
                 
             </div>
         </div>
-        <!-- Artist End -->
+        <!-- /ARTIST -->
 
         <!-- DIVIDER -->
         <?php include "../common-php/dividers/repertoire-presence-en.html"; ?>
-        <!-- DIVIDER END -->
+        <!-- /DIVIDER -->
 
         <!-- COMMON WEDDINGS -->
         <?php include "../common-php/weddings/en.html"; ?>
@@ -194,7 +194,7 @@
                 </div>
             </div>
         </div>
-        <!-- WHAT WE DO END -->
+        <!-- /WHAT WE DO -->
 
         <!-- REVIEWS -->
         <?php include "../common-php/reviews/en.html"; ?>
@@ -204,11 +204,11 @@
 
     <!-- FOOTER -->
     <?php include "../common-php/footer/en.html"; ?>
-    <!-- FOOTER END -->
+    <!-- /FOOTER -->
 
     <!-- COMMON-BODY-SCRIPT -->
     <?php include "../common-php/body-script.html"; ?>
-    <!-- COMMON-BODY-SCRIPT END -->
+    <!-- /COMMON-BODY-SCRIPT -->
 </body>
 
 </html>

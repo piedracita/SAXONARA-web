@@ -4,7 +4,7 @@
 <head>
     <!-- COMMON-HEAD -->
     <?php include "common-php/head.html"; ?>
-    <!-- COMMON-HEAD END -->
+    <!-- /COMMON-HEAD -->
 
     <!-- CANONICAL -->
     <link rel="canonical" href="https://www.saxonara.com/jazzband.php">
@@ -16,7 +16,7 @@
 
     <!-- COMMON-OPENGRAPH -->
     <?php include "common-php/opengraph/es.html"; ?>
-    <!-- COMMON-OPENGRAPH END -->
+    <!-- /COMMON-OPENGRAPH -->
     
 </head>
 
@@ -25,12 +25,12 @@
 
     <!-- COMMON-BODY -->
     <?php include "common-php/body.html"; ?>
-    <!-- COMMON-BODY END -->
+    <!-- /COMMON-BODY -->
 
     <header id="top" class="top-header">
         <!-- NAVIGATION -->
         <?php include "common-php/navigation/es.html"; ?>
-        <!-- NAVIGATION END -->
+        <!-- /NAVIGATION -->
 
         <!-- BANNER SLIDER -->
         <div class="banner-slider owl-slider" id="banner-slider">
@@ -47,7 +47,7 @@
                 </div>
             </div>
         </div>
-        <!-- BANNER SLIDER END -->
+        <!-- /BANNER SLIDER -->
     </header>
 
     <div class="main-wrap">
@@ -83,7 +83,7 @@
                 </div>
             </div>
         </div>
-        <!-- ABOUT ARTIST END -->
+        <!-- /ABOUT ARTIST -->
 
         <!-- WHAT WE DO -->
         <div class="section black-bg side-img-section what-we-do-section" id="bands">
@@ -122,7 +122,7 @@
                 </div>
             </div>
         </div>
-        <!-- WHAT WE DO END -->
+        <!-- /WHAT WE DO -->
 
         <!-- ARTIST -->
         <div class="section section-padding artist-section" id="videos">
@@ -147,7 +147,7 @@
                     </div>
             </div>
         </div>
-        <!-- ARTIST END -->
+        <!-- /ARTIST -->
 
 
         <!-- BAND INFORMATIONS -->
@@ -209,11 +209,11 @@
     </div>
     <!-- FOOTER -->
     <?php include "common-php/footer/es.html"; ?>
-    <!-- FOOTER END -->
+    <!-- /FOOTER -->
 
     <!-- COMMON-BODY-SCRIPT -->
     <?php include "common-php/body-script.html"; ?>
-    <!-- COMMON-BODY-SCRIPT END -->
+    <!-- /COMMON-BODY-SCRIPT -->
 </body>
 
 </html>

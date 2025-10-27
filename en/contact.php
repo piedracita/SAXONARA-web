@@ -4,14 +4,14 @@
 <head>
     <!-- COMMON-HEAD -->
     <?php include "../common-php/head.html"; ?>
-    <!-- COMMON-HEAD END -->
+    <!-- /COMMON-HEAD -->
 
     <!-- CANONICAL -->
     <link rel="canonical" href="https://www.saxonara.com/en/contact.php">
 
     <!-- COMMON-LOCALIZATION -->
     <?php include "../common-php/localization/contact.html"; ?>
-    <!-- COMMON-LOCALIZATION END -->
+    <!-- /COMMON-LOCALIZATION -->
 
     <!-- SITE INFORMATION -->
     <title>Contact SAXONARA | Saxophonist for weddings and events</title>
@@ -20,14 +20,14 @@
 
     <!-- COMMON-OPENGRAPH -->
     <?php include "../common-php/opengraph/en.html"; ?>
-    <!-- COMMON-OPENGRAPH END -->
+    <!-- /COMMON-OPENGRAPH -->
 
 </head>
 
 <body class="page">
     <!-- COMMON-BODY -->
     <?php include "../common-php/body.html"; ?>
-    <!-- COMMON-BODY END -->
+    <!-- /COMMON-BODY -->
 
     <header id="top" class="top-header">
         <!-- COMMON-NAVIGATION-EN -->
@@ -85,7 +85,7 @@
                 </div>
             </div>
         </div>
-        <!-- WHAT WE DO END -->
+        <!-- /WHAT WE DO -->
 
         <!-- REVIEWS -->
         <?php include "../common-php/reviews/en.html"; ?>
@@ -95,11 +95,11 @@
 
     <!-- FOOTER -->
     <?php include "../common-php/footer/en.html"; ?>
-    <!-- FOOTER END -->
+    <!-- /FOOTER -->
 
     <!-- COMMON-BODY-SCRIPT -->
     <?php include "../common-php/body-script.html"; ?>
-    <!-- COMMON-BODY-SCRIPT END -->
+    <!-- /COMMON-BODY-SCRIPT -->
 </body>
 
 </html>

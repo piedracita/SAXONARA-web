@@ -4,14 +4,14 @@
 <head>
     <!-- COMMON-HEAD -->
     <?php include "../common-php/head.html"; ?>
-    <!-- COMMON-HEAD END -->
+    <!-- /COMMON-HEAD -->
 
     <!-- CANONICAL -->
     <link rel="canonical" href="https://www.saxonara.com/cat/saxofonista-barcelona.php">
 
     <!-- COMMON-LOCALIZATION -->
     <?php include "../common-php/localization/loc-barcelona.html"; ?>
-    <!-- COMMON-LOCALIZATION END -->
+    <!-- /COMMON-LOCALIZATION -->
 
     <!-- SITE INFORMATION -->
     <title>Saxofonista de Barcelona | Esdeveniments, Bodes i Festes | Disponibilitat i Preus</title>
@@ -20,7 +20,7 @@
 
     <!-- COMMON-OPENGRAPH -->
     <?php include "../common-php/opengraph/cat.html"; ?>
-    <!-- COMMON-OPENGRAPH END -->
+    <!-- /COMMON-OPENGRAPH -->
 </head>
 
 <body>
@@ -28,12 +28,12 @@
 
     <!-- COMMON-BODY -->
     <?php include "../common-php/body.html"; ?>
-    <!-- COMMON-BODY END -->
+    <!-- /COMMON-BODY -->
 
     <header id="top" class="top-header">
         <!-- NAVIGATION -->
         <?php include "../common-php/navigation/cat.html"; ?>
-        <!-- NAVIGATION END -->
+        <!-- /NAVIGATION -->
 
         <!-- BANNER SLIDER -->
         <div class="banner-slider owl-slider" id="banner-slider">
@@ -50,7 +50,7 @@
                 </div>
             </div>
         </div>
-        <!-- BANNER SLIDER END -->
+        <!-- /BANNER SLIDER -->
     </header>
 
     <div class="main-wrap">
@@ -85,7 +85,7 @@
                 </div>
             </div>
         </div>
-        <!-- ABOUT ARTIST END -->
+        <!-- /ABOUT ARTIST -->
 
         <!-- WHAT WE DO -->
         <div class="section black-bg side-img-section what-we-do-section" id="bands">
@@ -124,45 +124,28 @@
                 </div>
             </div>
         </div>
-        <!-- WHAT WE DO END -->
+        <!-- /WHAT WE DO -->
 
-        <!-- ARTIST -->
-        <div class="section section-padding artist-section" id="videos">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-8 col-md-offset-2 col-xs-12">
-                        <div class="section-header text-center">
-                            <h3 class="section-title">Enregistraments a Barcelona</h3>
-                            <p class="section-subtext">Descobreix alguns dels meus videoclips grabats a Barcelona, on us ensenyo com són les experiències de realitzar esdeveniments a la capital de Catalunya, <strong>saxofonista a a bodes i festes</strong> en racons singulars que no tots el barcelonins coneixen. Per a l'enregistrament d'aquests vídeos utilitzo diferents saxòfons, principalment el saxòfon tenor i l'alt, però també el soprano per a moments més íntims com una <strong>Cerimònia de boda</strong>.</p>
-                        </div>
-                    </div>
-                </div>
-
-                <?php include "../common-php/videos/loc-barcelona.html"; ?>
-
-                <div class="row">
-                        <div class="col-md-10 col-md-offset-1 col-xs-12">
-                            <div class="text-center style-3">
-                                <a class="btn btn-small btn-black" href="/cat/videos.php" title="Vídeos de SAXONARA">MÉS VÍDEOS</a>
-                            </div>
-                        </div>
-                    </div>
-            </div>
-        </div>
-        <!-- ARTIST END -->
+        <!-- COMMON-PHP RECORDINGS-BARCELONA -->
+        <?php include "../common-php/pages-content/rec-barcelona-cat.html"; ?>
+        <!-- /COMMON-PHP RECORDINGS-BARCELONA -->
 
         <!-- DIVIDER -->
         <?php include "../common-php/dividers/01-cat.html"; ?>
-        <!-- DIVIDER END -->
+        <!-- /DIVIDER -->
+
+        <!-- COMMON-PHP VIDEOS-BARCELONA -->
+        <?php include "../common-php/videos/loc-barcelona.html"; ?>
+        <!-- /COMMON-PHP VIDEOS-BARCELONA -->
 
     </div>
     <!-- FOOTER -->
     <?php include "../common-php/footer/cat.html"; ?>
-    <!-- FOOTER END -->
+    <!-- /FOOTER -->
 
     <!-- COMMON-BODY-SCRIPT -->
     <?php include "../common-php/body-script.html"; ?>
-    <!-- COMMON-BODY-SCRIPT END -->
+    <!-- /COMMON-BODY-SCRIPT -->
 </body>
 
 </html>

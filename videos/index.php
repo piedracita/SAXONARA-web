@@ -4,14 +4,14 @@
 <head>
     <!-- COMMON-HEAD -->
     <?php include "../common-php/head.html"; ?>
-    <!-- COMMON-HEAD END -->
+    <!-- /COMMON-HEAD -->
 
     <!-- CANONICAL -->
     <link rel="canonical" href="https://www.saxonara.com/videos/index.php">
 
     <!-- COMMON-LOCALIZATION -->
     <?php include "../common-php/localization/videos.html"; ?>
-    <!-- COMMON-LOCALIZATION END -->
+    <!-- /COMMON-LOCALIZATION -->
 
     <!-- SITE INFORMATION -->
     <title>Vídeos de SAXONARA | Saxofonista para bodas y eventos</title>
@@ -20,19 +20,19 @@
     
     <!-- COMMON-OPENGRAPH -->
     <?php include "../common-php/opengraph/es.html"; ?>
-    <!-- COMMON-OPENGRAPH END -->
+    <!-- /COMMON-OPENGRAPH -->
 
 </head>
 
 <body class="page">
     <!-- COMMON-BODY -->
     <?php include "../common-php/body.html"; ?>
-    <!-- COMMON-BODY END -->
+    <!-- /COMMON-BODY -->
 
     <header id="top" class="top-header">
         <!-- NAVIGATION -->
         <?php include "../common-php/navigation/es.html"; ?>
-        <!-- NAVIGATION END -->
+        <!-- /NAVIGATION -->
     </header>
 
     <!-- PAGE HEADER -->
@@ -181,7 +181,7 @@
 
         <!-- DIVIDER -->
         <?php include "../common-php/dividers/01-es.html"; ?>
-        <!-- DIVIDER END -->
+        <!-- /DIVIDER -->
 
         <!-- NEWS & BLOG -->
         <div class="section section-padding">
@@ -264,11 +264,11 @@
 
     <!-- FOOTER -->
     <?php include "../common-php/footer/es.html"; ?>
-    <!-- FOOTER END -->
+    <!-- /FOOTER -->
 
     <!-- COMMON-BODY-SCRIPT -->
     <?php include "../common-php/body-script.html"; ?>
-    <!-- COMMON-BODY-SCRIPT END -->
+    <!-- /COMMON-BODY-SCRIPT -->
 </body>
 
 </html>

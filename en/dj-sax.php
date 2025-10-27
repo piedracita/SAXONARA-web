@@ -4,14 +4,14 @@
 <head>
     <!-- COMMON-HEAD -->
     <?php include "../common-php/head.html"; ?>
-    <!-- COMMON-HEAD END -->
+    <!-- /COMMON-HEAD -->
 
     <!-- CANONICAL -->
     <link rel="canonical" href="https://www.saxonara.com/en/dj-sax.php">
 
     <!-- COMMON-LOCALIZATION -->
     <?php include "../common-php/localization/dj-sax.html"; ?>
-    <!-- COMMON-LOCALIZATION END -->
+    <!-- /COMMON-LOCALIZATION -->
 
     <!-- SITE INFORMATION -->
     <title>DJ & SAX Combo | Events, Weddings & Pool Party | + Bongos / Violin</title>
@@ -20,7 +20,7 @@
 
     <!-- COMMON-OPENGRAPH -->
     <?php include "../common-php/opengraph/en.html"; ?>
-    <!-- COMMON-OPENGRAPH END -->
+    <!-- /COMMON-OPENGRAPH -->
     
 </head>
 
@@ -29,12 +29,12 @@
 
     <!-- COMMON-BODY -->
     <?php include "../common-php/body.html"; ?>
-    <!-- COMMON-BODY END -->
+    <!-- /COMMON-BODY -->
 
     <header id="top" class="top-header">
         <!-- NAVIGATION -->
         <?php include "../common-php/navigation/en.html"; ?>
-        <!-- NAVIGATION END -->
+        <!-- /NAVIGATION -->
 
         <!-- COMMON-BANNER-DJSAX -->
         <?php include "../common-php/dj-sax/banner-en.html"; ?>
@@ -97,11 +97,11 @@
     </div>
     <!-- FOOTER -->
     <?php include "../common-php/footer/en.html"; ?>
-    <!-- FOOTER END -->
+    <!-- /FOOTER -->
 
     <!-- COMMON-BODY-SCRIPT -->
     <?php include "../common-php/body-script.html"; ?>
-    <!-- COMMON-BODY-SCRIPT END -->
+    <!-- /COMMON-BODY-SCRIPT -->
 </body>
 
 </html>

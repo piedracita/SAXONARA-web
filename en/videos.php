@@ -4,14 +4,14 @@
 <head>
     <!-- COMMON-HEAD -->
     <?php include "../common-php/head.html"; ?>
-    <!-- COMMON-HEAD END -->
+    <!-- /COMMON-HEAD -->
 
     <!-- CANONICAL -->
     <link rel="canonical" href="https://www.saxonara.com/en/videos.php">
 
     <!-- COMMON-LOCALIZATION -->
     <?php include "../common-php/localization/videos.html"; ?>
-    <!-- COMMON-LOCALIZATION END -->
+    <!-- /COMMON-LOCALIZATION -->
 
     <!-- SITE INFORMATION -->
     <title>Videos by SAXONARA | Saxophonist for weddings and events</title>
@@ -20,14 +20,14 @@
 
     <!-- COMMON-OPENGRAPH -->
     <?php include "../common-php/opengraph/en.html"; ?>
-    <!-- COMMON-OPENGRAPH END -->
+    <!-- /COMMON-OPENGRAPH -->
 
 </head>
 
 <body class="page">
     <!-- COMMON-BODY -->
     <?php include "../common-php/body.html"; ?>
-    <!-- COMMON-BODY END -->
+    <!-- /COMMON-BODY -->
 
     <header id="top" class="top-header">
         <!-- COMMON-NAVIGATION-EN -->
@@ -184,17 +184,17 @@
 
         <!-- DIVIDER -->
         <?php include "../common-php/dividers/01-en.html"; ?>
-        <!-- DIVIDER END -->
+        <!-- /DIVIDER -->
 
     </div>
 
     <!-- FOOTER -->
     <?php include "../common-php/footer/en.html"; ?>
-    <!-- FOOTER END -->
+    <!-- /FOOTER -->
 
     <!-- COMMON-BODY-SCRIPT -->
     <?php include "../common-php/body-script.html"; ?>
-    <!-- COMMON-BODY-SCRIPT END -->
+    <!-- /COMMON-BODY-SCRIPT -->
 </body>
 
 </html>

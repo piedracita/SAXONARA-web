@@ -4,7 +4,7 @@
 <head>
     <!-- COMMON-HEAD -->
     <?php include "../common-php/head.html"; ?>
-    <!-- COMMON-HEAD END -->
+    <!-- /COMMON-HEAD -->
 
     <!-- CANONICAL -->
     <link rel="canonical" href="https://www.saxonara.com/fr/saxophoniste-paris.php">
@@ -16,28 +16,28 @@
 
     <!-- COMMON-OPENGRAPH -->
     <?php include "../common-php/opengraph/en.html"; ?>
-    <!-- COMMON-OPENGRAPH END -->
+    <!-- /COMMON-OPENGRAPH -->
 </head>
 
 <body>
 
     <!-- COMMON-BODY -->
     <?php include "../common-php/body.html"; ?>
-    <!-- COMMON-BODY END -->
+    <!-- /COMMON-BODY -->
 
     <header id="top" class="top-header">
         <!-- NAVIGATION -->
         <?php include "../common-php/navigation/en.html"; ?>
-        <!-- NAVIGATION END -->
+        <!-- /NAVIGATION -->
     </header>
 
     <!-- BANNER SLIDER -->
     <div class="banner-slider owl-slider" id="banner-slider">
         <!-- COMMON-BANNER-PARIS -->
         <?php include "../common-php/banner/en-paris.html"; ?>
-        <!-- COMMON-BODY END -->
+        <!-- /COMMON-BODY -->
     </div>
-    <!-- BANNER SLIDER END -->
+    <!-- /BANNER SLIDER -->
 
     <div class="main-wrap">
     	<!-- ABOUT ARTIST -->
@@ -72,7 +72,7 @@
                 </div>
             </div>
         </div>
-        <!-- ABOUT ARTIST END -->
+        <!-- /ABOUT ARTIST -->
 
         <!-- WHAT WE DO -->
         <div class="section black-bg side-img-section what-we-do-section" id="bands">
@@ -111,7 +111,7 @@
                 </div>
             </div>
         </div>
-        <!-- WHAT WE DO END -->
+        <!-- /WHAT WE DO -->
 
         <!-- ARTIST -->
         <div class="section section-padding artist-section" id="videos">
@@ -139,7 +139,7 @@
 
             </div>
         </div>
-        <!-- ARTIST END -->
+        <!-- /ARTIST -->
 
         <!-- COMMON -->
         <?php include"../common-php/dividers/01-en.html"; ?>
@@ -166,11 +166,11 @@
     </div>
     <!-- FOOTER -->
     <?php include "../common-php/footer/en.html"; ?>
-    <!-- FOOTER END -->
+    <!-- /FOOTER -->
 
     <!-- COMMON-BODY-SCRIPT -->
     <?php include "../common-php/body-script.html"; ?>
-    <!-- COMMON-BODY-SCRIPT END -->
+    <!-- /COMMON-BODY-SCRIPT -->
 </body>
 
 </html>

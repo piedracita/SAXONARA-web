@@ -4,7 +4,7 @@
 <head>
     <!-- COMMON-HEAD -->
     <?php include "common-php/head.html"; ?>
-    <!-- COMMON-HEAD END -->
+    <!-- /COMMON-HEAD -->
 
     <!-- CANONICAL -->
     <link rel="canonical" href="https://www.saxonara.com/about.php">
@@ -16,7 +16,7 @@
 
     <!-- COMMON-OPENGRAPH -->
     <?php include "common-php/opengraph/es.html"; ?>
-    <!-- COMMON-OPENGRAPH END -->
+    <!-- /COMMON-OPENGRAPH -->
 
 </head>
 
@@ -24,12 +24,12 @@
 
     <!-- COMMON-BODY -->
     <?php include "common-php/body.html"; ?>
-    <!-- COMMON-BODY END -->
+    <!-- /COMMON-BODY -->
 
     <header id="top" class="top-header">
         <!-- NAVIGATION -->
         <?php include "common-php/navigation/es.html"; ?>
-        <!-- NAVIGATION END -->
+        <!-- /NAVIGATION -->
     </header>
 
     <!-- PAGE HEADER -->
@@ -74,11 +74,11 @@
                 </div>
             </div>
         </div>
-        <!-- ABOUT ARTIST END -->
+        <!-- /ABOUT ARTIST -->
 
         <!-- DIVIDER -->
         <?php include "common-php/dividers/01-es.html"; ?>
-        <!-- DIVIDER END -->
+        <!-- /DIVIDER -->
 
         <!-- COMMON WEDDINGS -->
         <?php include "common-php/weddings/es.html"; ?>
@@ -87,11 +87,11 @@
     </div>
     <!-- FOOTER -->
     <?php include "common-php/footer/es.html"; ?>
-    <!-- FOOTER END -->
+    <!-- /FOOTER -->
 
     <!-- COMMON-BODY-SCRIPT -->
     <?php include "common-php/body-script.html"; ?>
-    <!-- COMMON-BODY-SCRIPT END -->
+    <!-- /COMMON-BODY-SCRIPT -->
 </body>
 
 </html>

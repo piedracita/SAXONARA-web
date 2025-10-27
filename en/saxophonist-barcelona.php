@@ -4,14 +4,14 @@
 <head>
     <!-- COMMON-HEAD -->
     <?php include "../common-php/head.html"; ?>
-    <!-- COMMON-HEAD END -->
+    <!-- /COMMON-HEAD -->
 
     <!-- CANONICAL -->
     <link rel="canonical" href="https://www.saxonara.com/en/saxophonist-barcelona.php">
 
     <!-- COMMON-LOCALIZATION -->
     <?php include "../common-php/localization/loc-barcelona.html"; ?>
-    <!-- COMMON-LOCALIZATION END -->
+    <!-- /COMMON-LOCALIZATION -->
 
     <!-- SITE INFORMATION -->
     <title>Saxophonist in Barcelona | Events & Weddings | Availability & Prices</title>
@@ -20,7 +20,7 @@
 
     <!-- COMMON-OPENGRAPH -->
     <?php include "../common-php/opengraph/en.html"; ?>
-    <!-- COMMON-OPENGRAPH END -->
+    <!-- /COMMON-OPENGRAPH -->
 
 </head>
 
@@ -29,12 +29,12 @@
 
     <!-- COMMON-BODY -->
     <?php include "../common-php/body.html"; ?>
-    <!-- COMMON-BODY END -->
+    <!-- /COMMON-BODY -->
 
     <header id="top" class="top-header">
         <!-- NAVIGATION -->
         <?php include "../common-php/navigation/en.html"; ?>
-        <!-- NAVIGATION END -->
+        <!-- /NAVIGATION -->
 
         <!-- BANNER SLIDER -->
         <div class="banner-slider owl-slider" id="banner-slider">
@@ -51,7 +51,7 @@
                 </div>
             </div>
         </div>
-        <!-- BANNER SLIDER END -->
+        <!-- /BANNER SLIDER -->
     </header>
 
     <div class="main-wrap">
@@ -61,13 +61,12 @@
                 <div class="row">
                     <div class="col-md-6 col-md-push-6 col-xs-12 col-xs-push-0">
                         <div class="about-artist">
-                            <h2 class="artist-name">Arnald | SAXONARA</h2>
+                            <h2 class="artist-name">Arnald SAXONARA</h2>
                             <p><b>Professional saxophonist from Barcelona with extensive experience on stage, also as a musician for weddings, events and parties.</b></p>
                             <p>Hello! I am Arnald SAXONARA, a professional saxophonist with years of experience on stage, playing different styles and attending academies in Barcelona, the United States, Puerto Rico and Argentina. I'm known by the stage name SAXONARA as a <strong> saxophonist for weddings and events </strong>, blending my music on saxophone with entertainment, seeking interaction with the guests.</p>
                             <p>Barcelona is my favorite city to take part in exclusive and luxury events, it has a <b>great cultural life</b> and many business centers that make it very interesting for <b>local and international activities</b>. In addition, it also has some privileged surroundings for <strong>weddings</strong>, with estates, vineyards and luxury hotels.</p>
                             <div class="artist-information-list">
                                 <p><b class="artist-info-item">Name</b>:<span class="artist-info-value">Arnald SAXONARA</span></p>
-                                <p><b class="artist-info-item">Age</b>:<span class="artist-info-value">32</span></p>
                                 <p><b class="artist-info-item">Saxophonist in</b>:<span class="artist-info-value">Barcelona</span></p>
                                 <p><b class="artist-info-item">Education</b>:<span class="artist-info-value">Schools of Barcelona, USA and Puerto Rico</span></p>
                                 <p><b class="artist-info-item">Follow me</b>:<span class="artist-info-value">
@@ -86,7 +85,7 @@
                 </div>
             </div>
         </div>
-        <!-- ABOUT ARTIST END -->
+        <!-- /ABOUT ARTIST -->
 
         <!-- WHAT WE DO -->
         <div class="section black-bg side-img-section what-we-do-section" id="bands">
@@ -125,63 +124,28 @@
                 </div>
             </div>
         </div>
-        <!-- WHAT WE DO END -->
+        <!-- /WHAT WE DO -->
 
-        <!-- ARTIST -->
-        <div class="section section-padding artist-section" id="videos">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-8 col-md-offset-2 col-xs-12">
-                        <div class="section-header text-center">
-                            <h3 class="section-title">Recordings in Barcelona</h3>
-                            <p class="section-subtext">Watch some of my music videos recorded in Barcelona, where I show you what it's like to host events in the best city of Spain, <strong>saxophonist at weddings and parties</strong> in unique venues that not everyone know about. For the recording of these videos I use different saxophones, mainly the tenor saxophone and the alto saxophone, but also the soprano for more intimate moments such as a <strong>Wedding Ceremony</strong>.</p>
-                        </div>
-                    </div>
-                </div>
-
-                <?php include "../common-php/videos/loc-barcelona.html"; ?>
-
-                <div class="row">
-                        <div class="col-md-10 col-md-offset-1 col-xs-12">
-                            <div class="text-center style-3">
-                                <a class="btn btn-small btn-black" href="/en/videos.php" title="Videos by SAXONARA">MORE VIDEOS</a>
-                            </div>
-                        </div>
-                    </div>
-            </div>
-        </div>
-        <!-- ARTIST END -->
+        <!-- COMMON-PHP RECORDINGS-BARCELONA -->
+        <?php include "../common-php/pages-content/rec-barcelona-en.html"; ?>
+        <!-- /COMMON-PHP RECORDINGS-BARCELONA -->
 
         <!-- DIVIDER -->
         <?php include "../common-php/dividers/01-en.html"; ?>
-        <!-- DIVIDER END -->
+        <!-- /DIVIDER -->
 
-        <!-- MAIN SERVICES -->
-        <div class="section section-padding">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-8 col-md-offset-2 col-xs-12">
-                        <div class="section-header text-center">
-                            <h3 class="section-title">Hire Saxophonist in Barcelona</h3>
-                            <p class="section-subtext">Are you thinking about hiring a <strong>saxophonist in Barcelona</strong>? If you're getting married in Barcelona or nearby and want to hire a <strong>live saxophone player</strong>, get in touch! It's so easy! Also if you're planning an event in Barcelona, I'm also available and I'll be very happy to be part of it, get in touch with me and I'll send you all the info, details and prices for <strong>hiring a saxophonist in Barcelona</strong> for your private event, wedding or party.</p>
-                        </div>
-                    </div>
-                </div>
-                <!-- COMMON MAIN SERVICES -->
-                <?php include "../common-php/services-main/en.html"; ?>
-                <!-- COMMON MAIN SERVICES END -->
-            </div>
-        </div>
-        <!-- MAIN SERVICES END -->
+        <!-- COMMON-PHP VIDEOS-BARCELONA -->
+        <?php include "../common-php/videos/loc-barcelona.html"; ?>
+        <!-- /COMMON-PHP VIDEOS-BARCELONA -->
 
     </div>
     <!-- FOOTER -->
     <?php include "../common-php/footer/en.html"; ?>
-    <!-- FOOTER END -->
+    <!-- /FOOTER -->
 
     <!-- COMMON-BODY-SCRIPT -->
     <?php include "../common-php/body-script.html"; ?>
-    <!-- COMMON-BODY-SCRIPT END -->
+    <!-- /COMMON-BODY-SCRIPT -->
 </body>
 
 </html>

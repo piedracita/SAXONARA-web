@@ -4,14 +4,14 @@
 <head>
     <!-- COMMON-HEAD -->
     <?php include "../common-php/head.html"; ?>
-    <!-- COMMON-HEAD END -->
+    <!-- /COMMON-HEAD -->
 
     <!-- CANONICAL -->
     <link rel="canonical" href="https://www.saxonara.com/fr/saxophoniste-france.php">
 
     <!-- COMMON-LOCALIZATION -->
     <?php include "../common-php/localization/loc-france.html"; ?>
-    <!-- COMMON-LOCALIZATION END -->
+    <!-- /COMMON-LOCALIZATION -->
 
     <!-- SITE INFORMATION -->
     <title>Saxophoniste en France | Mariages, Événements & Soirées | SAXONARA</title>
@@ -20,28 +20,28 @@
 
     <!-- COMMON-OPENGRAPH -->
     <?php include "../common-php/opengraph/fr.html"; ?>
-    <!-- COMMON-OPENGRAPH END -->
+    <!-- /COMMON-OPENGRAPH -->
 </head>
 
 <body>
 
     <!-- COMMON-BODY -->
     <?php include "../common-php/body.html"; ?>
-    <!-- COMMON-BODY END -->
+    <!-- /COMMON-BODY -->
 
     <header id="top" class="top-header">
         <!-- NAVIGATION -->
         <?php include "../common-php/navigation/fr.html"; ?>
-        <!-- NAVIGATION END -->
+        <!-- /NAVIGATION -->
     </header>
 
     <!-- BANNER SLIDER -->
     <div class="banner-slider owl-slider" id="banner-slider">
         <!-- COMMON-BANNER-FRANCE -->
         <?php include "../common-php/banner/fr-france.html"; ?>
-        <!-- COMMON-BODY END -->
+        <!-- /COMMON-BODY -->
     </div>
-    <!-- BANNER SLIDER END -->
+    <!-- /BANNER SLIDER -->
 
     <div class="main-wrap">
     	<!-- ABOUT ARTIST -->
@@ -77,7 +77,7 @@
                 </div>
             </div>
         </div>
-        <!-- ABOUT ARTIST END -->
+        <!-- /ABOUT ARTIST -->
 
         <!-- WHAT WE DO -->
         <div class="section black-bg side-img-section what-we-do-section" id="bands">
@@ -116,7 +116,7 @@
                 </div>
             </div>
         </div>
-        <!-- WHAT WE DO END -->
+        <!-- /WHAT WE DO -->
 
         <!-- ARTIST -->
         <div class="section section-padding artist-section" id="videos">
@@ -144,7 +144,7 @@
 
             </div>
         </div>
-        <!-- ARTIST END -->
+        <!-- /ARTIST -->
 
 
         <!-- COMMON -->
@@ -219,11 +219,11 @@
     </div>
     <!-- FOOTER -->
     <?php include "../common-php/footer/fr.html"; ?>
-    <!-- FOOTER END -->
+    <!-- /FOOTER -->
 
     <!-- COMMON-BODY-SCRIPT -->
     <?php include "../common-php/body-script.html"; ?>
-    <!-- COMMON-BODY-SCRIPT END -->
+    <!-- /COMMON-BODY-SCRIPT -->
 </body>
 
 </html>

@@ -4,14 +4,14 @@
 <head>
     <!-- COMMON-HEAD -->
     <?php include "common-php/head.html"; ?>
-    <!-- COMMON-HEAD END -->
+    <!-- /COMMON-HEAD -->
 
     <!-- CANONICAL -->
     <link rel="canonical" href="https://www.saxonara.com/saxofonista-barcelona.php">
 
     <!-- COMMON-LOCALIZATION -->
     <?php include "common-php/localization/loc-barcelona.html"; ?>
-    <!-- COMMON-LOCALIZATION END -->
+    <!-- /COMMON-LOCALIZATION -->
 
     <!-- SITE INFORMATION -->
     <title>Saxofonista en Barcelona | Eventos, Bodas y Fiestas | Disponibilidad y precios</title>
@@ -20,7 +20,7 @@
 
     <!-- COMMON-OPENGRAPH -->
     <?php include "common-php/opengraph/es.html"; ?>
-    <!-- COMMON-OPENGRAPH END -->
+    <!-- /COMMON-OPENGRAPH -->
     
 </head>
 
@@ -29,12 +29,12 @@
 
     <!-- COMMON-BODY -->
     <?php include "common-php/body.html"; ?>
-    <!-- COMMON-BODY END -->
+    <!-- /COMMON-BODY -->
 
     <header id="top" class="top-header">
         <!-- NAVIGATION -->
         <?php include "common-php/navigation/es.html"; ?>
-        <!-- NAVIGATION END -->
+        <!-- /NAVIGATION -->
 
         <!-- BANNER SLIDER -->
         <div class="banner-slider owl-slider" id="banner-slider">
@@ -51,7 +51,7 @@
                 </div>
             </div>
         </div>
-        <!-- BANNER SLIDER END -->
+        <!-- /BANNER SLIDER -->
     </header>
 
     <div class="main-wrap">
@@ -85,7 +85,7 @@
                 </div>
             </div>
         </div>
-        <!-- ABOUT ARTIST END -->
+        <!-- /ABOUT ARTIST -->
 
         <!-- WHAT WE DO -->
         <div class="section black-bg side-img-section what-we-do-section" id="bands">
@@ -124,7 +124,7 @@
                 </div>
             </div>
         </div>
-        <!-- WHAT WE DO END -->
+        <!-- /WHAT WE DO -->
 
         <!-- COMMON-PHP RECORDINGS-BARCELONA -->
         <?php include "common-php/pages-content/rec-barcelona-es.html"; ?>
@@ -134,18 +134,18 @@
         <?php include "common-php/dividers/01-es.html"; ?>
         <!-- /DIVIDER -->
 
-        <!-- COMMON-PHP RECORDINGS-BARCELONA -->
+        <!-- COMMON-PHP VIDEOS-BARCELONA -->
         <?php include "common-php/videos/loc-barcelona.html"; ?>
-        <!-- /COMMON-PHP RECORDINGS-BARCELONA -->
+        <!-- /COMMON-PHP VIDEOS-BARCELONA -->
 
     </div>
     <!-- FOOTER -->
     <?php include "common-php/footer/es.html"; ?>
-    <!-- FOOTER END -->
+    <!-- /FOOTER -->
 
     <!-- COMMON-BODY-SCRIPT -->
     <?php include "common-php/body-script.html"; ?>
-    <!-- COMMON-BODY-SCRIPT END -->
+    <!-- /COMMON-BODY-SCRIPT -->
 </body>
 
 </html>

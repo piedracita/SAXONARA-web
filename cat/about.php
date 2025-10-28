@@ -68,7 +68,7 @@
                     </div>
                     <div class="col-md-6 col-md-pull-6 col-xs-12 col-xs-pull-0">
                         <div class="artist-image">
-                            <img loading="lazy" class="img-responsive" src="../images/cities/saxofonista-barcelona.jpg" alt="SAXONARA és el millor saxofonista per esdeveniments i bodes">
+                            <img loading="lazy" class="img-responsive" src="../images/cities/barcelona/bio-barcelona.jpg" alt="SAXONARA és el millor saxofonista per esdeveniments i bodes">
                         </div>
                     </div>
                 </div>

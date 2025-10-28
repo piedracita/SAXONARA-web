@@ -80,7 +80,7 @@
                     </div>
                     <div class="col-md-6 col-md-pull-6 col-xs-12 col-xs-pull-0">
                         <div class="artist-image">
-                            <img loading="lazy" class="img-responsive" src="/images/cities/saxofonista-barcelona.jpg" alt="Arnald SAXONARA is a saxophonist in Barcelona">
+                            <img loading="lazy" class="img-responsive" src="/images/cities/barcelona/bio-barcelona.jpg" alt="Arnald SAXONARA is a saxophonist in Barcelona">
                         </div>
                     </div>
                 </div>

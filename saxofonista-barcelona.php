@@ -36,98 +36,23 @@
         <?php include "common-php/navigation/es.html"; ?>
         <!-- /NAVIGATION -->
 
-        <!-- BANNER SLIDER -->
-        <div class="banner-slider owl-slider" id="banner-slider">
-            <div class="banner-item banner-item-barcelona">
-                <div class="banner-content text-white">
-                    <div class="container">
-                        <h1 class="banner-title">Saxofonista en Barcelona</h1>
-                        <p class="banner-subtitle"><span class="banner-highlight">Saxofonista en Barcelona para eventos, bodas y fiestas. Toda la información sobre SAXONARA, contrata al saxofonista de Barcelona para eventos de empresa o bodas.</span></p>
-                        <div class="button-group">
-                            <a class="btn btn-border btn-lg btn-white" href="#contact">Contactar</a>
-                            <a class="btn btn-simple btn-lg btn-white" href="/videos/"><i class="fa-solid fa-play"></i> Ver Vídeos</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- /BANNER SLIDER -->
+        <!-- COMMON-PHP BANNER-BARCELONA -->
+        <?php include "common-php/pages-content/barcelona/banner-barcelona-es.html"; ?>
+        <!-- /COMMON-PHP BANNER-BARCELONA -->
     </header>
 
     <div class="main-wrap">
-    	<!-- ABOUT ARTIST -->
-        <div class="section artist-info-section">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-6 col-md-push-6 col-xs-12 col-xs-push-0">
-                        <div class="about-artist">
-                            <h2 class="artist-name">Arnald SAXONARA</h2>
-                            <p><b>Saxofonista profesional de Barcelona con larga experiencia sobre los escenarios, también como músico para bodas, eventos y fiestas.</b></p>
-                            <p>¡Hola! Soy Arnald SAXONARA, saxofonista profesional con años de experiencia sobre los escenarios, tocando distintos estilos y cursando en academias de Barcelona, Estados Unidos, Puerto Rico y Argentina. Se me conoce con el nombre artístico SAXONARA como músico <strong>saxofonista para bodas y eventos</strong> donde mezclo la música al saxofón con espectáculos y shows divertidos, buscando la interacción con los invitados.</p>
-                            <p>Barcelona es mi ciudad favorita para tomar parte de eventos exclusivos y de lujo, tiene una <b>gran vida cultural</b> y muchos centros de negocios que hacen que sea muy interesante para que se realicen <b>actividades locales e internacionales</b>. Además, también cuenta con un entorno privilegiado para la realización de <strong>bodas</strong>, con fincas, viñedos y hoteles de lujo.</p>
-                            <div class="artist-information-list">
-                                <p><b class="artist-info-item">Nombre</b>:<span class="artist-info-value">Arnald SAXONARA</span></p>
-                                <p><b class="artist-info-item">Saxofonista en</b>:<span class="artist-info-value">Barcelona</span></p>
-                                <p><b class="artist-info-item">Educación</b>:<span class="artist-info-value">Academias de España, USA y Puerto Rico</span></p>
-                                <p><b class="artist-info-item">Sígueme</b>:<span class="artist-info-value">
-                                    <a class="artist-social" href="https://www.facebook.com/saxonara/" target="_blank" rel="noopener" title="facebook SAXONARA"><i class="fab fa-facebook"></i></a>
-                                    <a class="artist-social" href="https://www.instagram.com/saxonara_/" target="_blank" rel="noopener" title="instagram SAXONARA"><i class="fab fa-instagram"></i></a>
-                                    <a class="artist-social" href="https://www.youtube.com/@saxonara" target="_blank" rel="noopener" title="youtube SAXONARA"><i class="fab fa-youtube"></i></a>
-                                </span></p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-md-pull-6 col-xs-12 col-xs-pull-0">
-                        <div class="artist-image">
-                            <img loading="lazy" class="img-responsive" src="images/cities/saxofonista-barcelona.jpg" alt="Arnald SAXONARA es saxofonista en Barcelona">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- /ABOUT ARTIST -->
+                
+        <!-- COMMON-PHP BIO-BARCELONA -->
+        <?php include "common-php/pages-content/barcelona/bio-barcelona-es.html"; ?>
+        <!-- /COMMON-PHP BIO-BARCELONA -->
 
-        <!-- WHAT WE DO -->
-        <div class="section black-bg side-img-section what-we-do-section" id="bands">
-            <div class="col-sm-6 col-sm-offset-6 side-img hidden-xs"></div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-5">
-                        <div class="doing-items section-padding">
-                            <div class="section-header">
-                                <h2 class="section-title">SAXONARA en Barcelona</h2>
-                                <p class="section-subtext">La mayor parte de mis actuaciones como saxofonista para eventos las realizo en la misma ciudad de Barcelona o sus vecinas Sant Cugat, Castelldefels, Lloret de Mar... Barcelona es el lugar perfecto para realizar fiestas y a mi me encanta participar de ellas como <strong>saxofonista profesional</strong>.</p>
-                            </div>
-                            <div class="doing-item">
-                                <div class="doing-icon">
-                                    <i class="fa-solid fa-martini-glass-citrus"></i>
-                                </div>
-                                <h4 class="doing-title">Eventos</h4>
-                                <p class="doing-text">Eventos de empresas de Barcelona, fiestas privadas, <strong>inauguraciones de tiendas</strong>, Team Builings en áticos de la ciudad o <strong>paseos en barco por el Mediterráneo</strong> son algunos de los eventos en los que he participado como <strong>saxofonista en Barcelona</strong>.</p>
-                            </div>
-                            <div class="doing-item">
-                                <div class="doing-icon">
-                                    <i class="fa-solid fa-church"></i>
-                                </div>
-                                <h4 class="doing-title">Bodas</h4>
-                                <p class="doing-text">La mayor parte de <strong>bodas en Barcelona</strong> se realizan en los alrededores de la ciudad, como fincas en Sant Cugat o subiendo al Montseny, también <b>bodas en la playa frente al mar</b> cercanas como Castelldefels o Sitges, y lugares únicos como el Poble Espanyol con vistas a Barcelona. Si buscas un <strong>saxofonista para bodas en Barcelona</strong> puedes contactar conmigo en SAXONARA.</p>
-                            </div>
-                            <div class="doing-item">
-                                <div class="doing-icon">
-                                    <i class="fa-solid fa-headphones"></i>
-                                </div>
-                                <h4 class="doing-title">Hoteles y Terrazas</h4>
-                                <p class="doing-text">Además de eventos privados, también participo como <strong>saxofonista tocando en hoteles de Barcelona</strong>, <b>terrazas</b> frente al mar o <b>áticos</b> de bares y restaurantes, etc. Siempre adaptando mi <strong>repertorio entre House, Pop Moderno y Jazz</strong>, como solista o junto a los mejores DJs.</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- /WHAT WE DO -->
+        <!-- COMMON-PHP SAXONARA-BARCELONA -->
+        <?php include "common-php/pages-content/barcelona/saxonara-barcelona-es.html"; ?>
+        <!-- /COMMON-PHP SAXONARA-BARCELONA -->
 
         <!-- COMMON-PHP RECORDINGS-BARCELONA -->
-        <?php include "common-php/pages-content/rec-barcelona-es.html"; ?>
+        <?php include "common-php/pages-content/barcelona/rec-barcelona-es.html"; ?>
         <!-- /COMMON-PHP RECORDINGS-BARCELONA -->
 
         <!-- DIVIDER -->

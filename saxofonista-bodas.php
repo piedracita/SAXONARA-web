@@ -87,28 +87,9 @@
         </div>
         <!-- /PURCHASE FROM -->
 
-        <div class="section section-padding" id="party">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-8 col-md-offset-2 col-xs-12">
-                        <div class="text-center">
-                            <h3 class="section-title">La Fiesta & Barra Libre</h3>
-                            <p>Una salida espectacular tras el Primer Baile o al Final del Banquete, con luces LED en el saxofón y un <b>estilo musical explosivo</b>, así me gusta arrancar la <strong>fiesta junto al DJ</strong> ¡por sorpresa y con energía!</p>
-
-                            <p>Mi versatilidad al saxofón me permite adaptarme a cada tipo de evento, así la Barra Libre es una excelente opción par sacar <b>el sonido más funky al saxofón</b> y animar en la pista de baile con la música más moderna y también esos clásicos de la música Disco.</p>
-
-                            <p>Para estos momentos me encanta usar mi <strong>saxofón con luces LED</strong>, ofreciendo un show más vistoso y espectacular, que haga relucir al máximo este momento final de la celebración en tu boda.</p>
-
-                            <p>Trabajo con distintos DJs y también me adapto al que tengáis contratado, estando en constante comunicación, facilitándole mi música para que pueda mezclarla y, incluso, <b>improvisando junto a sus mezclas en la pista de baile</b>. ¡Que empiece la fiesta!</p>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- VIDEOS DJSAX -->
-                <?php include "common-php/videos/djsax01.html"; ?>
-                <!-- /VIDEOS DJSAX -->
-            </div>
-        </div>
+        <!-- COMMON-PAGE WEDDING-PARTY -->
+        <?php include "common-php/pages-content/weddings/wedding-party-es.html"; ?>
+        <!-- /COMMON-PAGE WEDDING-PARTY -->
 
         <!-- WHAT WE DO -->
         <div class="section black-bg side-img-section what-we-do-section" id="bands">

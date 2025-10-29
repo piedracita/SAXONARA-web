@@ -25,23 +25,19 @@
 </head>
 
 <body>
-<!--<body class="page">-->
 
     <!-- COMMON-BODY -->
     <?php include "common-php/body.html"; ?>
     <!-- /COMMON-BODY -->
 
     <header id="top" class="top-header">
+
         <!-- NAVIGATION -->
         <?php include "common-php/navigation/es.html"; ?>
         <!-- /NAVIGATION -->
 
         <!-- BANNER SLIDER -->
-        <div class="banner-slider owl-slider" id="banner-slider">
-            <!-- COMMON-BANNER-WEDDINGS -->
-            <?php include "common-php/banner/weddings/es.html"; ?>
-            <!-- /COMMON-BODY -->
-        </div>
+        <?php include "common-php/pages-content/weddings/banner-es.html"; ?>
         <!-- /BANNER SLIDER -->
 
     </header>
@@ -49,58 +45,26 @@
     <div class="main-wrap">
 
         <!-- COMMON WEDDINGS -->
-        <?php include "common-php/weddings/es.html"; ?>
-        <!-- COMMON WEDDINGS END -->
+        <?php include "common-php/pages-content/weddings/wedding-sax-es.html"; ?>
+        <!-- /COMMON WEDDINGS -->
 
         <!-- DIVIDER -->
         <?php include "common-php/dividers/01-es.html"; ?>
         <!-- /DIVIDER -->
 
-        <div class="section section-padding">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-8 col-md-offset-2 col-xs-12">
-                        <div class="text-center">
-                            <h3 class="section-title" id="ceremony">La Ceremonia</h3>
-                            <p>La primera intervención en la boda como músico es en la parte de la ceremonia, con el camino al altar de los novios. ¿Te gustaría una canción <strong>moderna</strong> o un <strong>clásico</strong> de las bodas? En parejas que prefieren lo moderno, la música de <strong>Ed Sheeran</strong> es una de las más solicitadas, mientras que en ceremonias tradicionales un <strong>Canon de Pachelbel</strong> o la <strong>Marcha Nupcial de Wagner</strong> son los referentes.</p>
-
-                            <p>Consulta todo mi repetorio en la <a href="/repertoire.php">pestaña REPERTORIO</a>, toma ideas de que canciones te gustarían para cada momento de la Ceremonia, Si tienes alguna canción especial en mente y no aparece en la lista, ¡no te preocupes! Estaré encantado de prepararla para que suene justo como la habías imaginado.</p>
-
-                            <p>También puedes encontrar muchos de mis vídeos buscando <a href="#contact">SAXONARA en YouTube o Instagram</a>, escucha mis <strong>versiones en saxofón</strong> y imagínate como sonaría el día de tu boda.</p>
-                        </div>
-                    </div>
-                </div>
-                <!-- VIDEOS CEREMONY -->
-                <?php include "common-php/videos/wedding-ceremony.html"; ?>
-                <!-- VIDEOS CEREMONY END -->
-            </div>
-        </div>
+        <!-- COMMON-PAGE WEDDING-CEREMONY -->
+        <?php include "common-php/pages-content/weddings/wedding-ceremony-es.html"; ?>
+        <!-- /COMMON-PAGE WEDDING-CEREMONY -->
 
         <!-- DIVIDER -->
         <?php include "common-php/dividers/repertoire-presence-es.html"; ?>
         <!-- /DIVIDER -->
 
-    	<div class="section section-padding">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-8 col-md-offset-2 col-xs-12">
-                        <div class="text-center">
-                            <h3 class="section-title" id="cocktail">Cóctel de Bienvenida & Aperitivo</h3>
-                            <p>Mezcla de música y entretenimiento, el Cóctel o Aperitivo es un momento excelente para disfrutar de <strong>música en directo con saxofón</strong>, con un repertorio Tropical House al más puro estilo Ibiza y amenizando en todos los espacios aprovechando que dispongo de microfonía inalámrbica.</p>
+        <!-- COMMON-PAGE WEDDING-COCKTAIL -->
+        <?php include "common-php/pages-content/weddings/wedding-cocktail-es.html"; ?>
+        <!-- /COMMON-PAGE WEDDING-COCKTAIL -->
 
-                            <p>Además prepararemos, si los novios así lo quieren, una <strong>entrada espectacular al Aperitivo</strong> con música bien explosiva para que sea increíble, paseando entre los invitados y bailando con aquellos que más se presten.</p>
-
-                            <p>¡No os olvidéis de decirme cuales son vuestras canciones favoritas para así añadirlas a mi repertorio!</p>
-                        </div>
-                    </div>
-                </div>
-                <!-- VIDEOS COCKTAIL -->
-                <?php include "common-php/videos/wedding-cocktail.html"; ?>
-                <!-- VIDEOS COCKTAIL END -->
-            </div>
-        </div>
-
-        <!-- Purchase From -->
+        <!-- PURCHASE FROM -->
         <div class="section purchase-section text-white">
             <div class="overlay section-padding">
                 <div class="container">
@@ -121,14 +85,14 @@
                 </div>
             </div>
         </div>
-        <!-- Purchase Form End -->
+        <!-- /PURCHASE FROM -->
 
-        <div class="section section-padding">
+        <div class="section section-padding" id="party">
             <div class="container">
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2 col-xs-12">
                         <div class="text-center">
-                            <h3 class="section-title" id="party">La Fiesta & Barra Libre</h3>
+                            <h3 class="section-title">La Fiesta & Barra Libre</h3>
                             <p>Una salida espectacular tras el Primer Baile o al Final del Banquete, con luces LED en el saxofón y un <b>estilo musical explosivo</b>, así me gusta arrancar la <strong>fiesta junto al DJ</strong> ¡por sorpresa y con energía!</p>
 
                             <p>Mi versatilidad al saxofón me permite adaptarme a cada tipo de evento, así la Barra Libre es una excelente opción par sacar <b>el sonido más funky al saxofón</b> y animar en la pista de baile con la música más moderna y también esos clásicos de la música Disco.</p>
@@ -187,7 +151,7 @@
 
         <!-- REVIEWS -->
         <?php include "common-php/reviews/es.html"; ?>
-        <!-- REVIEWS END -->
+        <!-- /REVIEWS -->
 
     </div>
 

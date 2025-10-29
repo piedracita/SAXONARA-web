@@ -89,7 +89,7 @@
 
         <!-- REVIEWS -->
         <?php include "../common-php/reviews/en.html"; ?>
-        <!-- REVIEWS END -->
+        <!-- /REVIEWS -->
 
     </div>
 

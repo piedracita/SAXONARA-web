@@ -116,7 +116,7 @@
 
         <!-- COMMON WEDDINGS -->
         <?php include "../common-php/weddings/fr.html"; ?>
-        <!-- COMMON WEDDINGS END -->
+        <!-- /COMMON WEDDINGS -->
 
         <!-- WEDDING VIDEOS -->
         <div class="section purchase-section text-white">
@@ -224,7 +224,7 @@
 
         <!-- REVIEWS -->
         <?php include "../common-php/reviews/fr.html"; ?>
-        <!-- REVIEWS END -->
+        <!-- /REVIEWS -->
         
     </div>
 

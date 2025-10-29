@@ -48,7 +48,7 @@
 
         <!-- COMMON WEDDINGS -->
         <?php include "../common-php/weddings/cat.html"; ?>
-        <!-- COMMON WEDDINGS END -->
+        <!-- /COMMON WEDDINGS -->
 
         <!-- DIVIDER -->
         <?php include "../common-php/dividers/01-cat.html"; ?>
@@ -70,7 +70,7 @@
                 </div>
                 <!-- VIDEOS CEREMONY -->
                 <?php include "../common-php/videos/wedding-ceremony.html"; ?>
-                <!-- VIDEOS CEREMONY END -->
+                <!-- /VIDEOS CEREMONY -->
             </div>
         </div>
 
@@ -94,11 +94,11 @@
                 </div>
                 <!-- VIDEOS COCKTAIL -->
                 <?php include "../common-php/videos/wedding-cocktail.html"; ?>
-                <!-- VIDEOS COCKTAIL END -->
+                <!-- /VIDEOS COCKTAIL -->
             </div>
         </div>
 
-        <!-- Purchase From -->
+        <!-- PURCHASE FROM -->
         <div class="section purchase-section text-white">
             <div class="overlay section-padding">
                 <div class="container">
@@ -119,7 +119,7 @@
                 </div>
             </div>
         </div>
-        <!-- Purchase Form End -->
+        <!-- /PURCHASE FROM -->
 
         <div class="section section-padding">
             <div class="container">
@@ -185,7 +185,7 @@
 
         <!-- REVIEWS -->
         <?php include "../common-php/reviews/cat.html"; ?>
-        <!-- REVIEWS END -->
+        <!-- /REVIEWS -->
 
     </div>
 

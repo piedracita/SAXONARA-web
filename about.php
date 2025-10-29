@@ -81,8 +81,8 @@
         <!-- /DIVIDER -->
 
         <!-- COMMON WEDDINGS -->
-        <?php include "common-php/weddings/es.html"; ?>
-        <!-- COMMON WEDDINGS END -->
+        <?php include "common-php/pages-content/weddings/wedding-sax-es.html"; ?>
+        <!-- /COMMON WEDDINGS -->
 
     </div>
     <!-- FOOTER -->

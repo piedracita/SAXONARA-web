@@ -82,7 +82,7 @@
 
         <!-- COMMON WEDDINGS -->
         <?php include "../common-php/weddings/cat.html"; ?>
-        <!-- COMMON WEDDINGS END -->
+        <!-- /COMMON WEDDINGS -->
 
     </div>
     <!-- FOOTER -->

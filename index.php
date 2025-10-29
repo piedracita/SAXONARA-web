@@ -115,8 +115,8 @@
         <!-- /DIVIDER -->
 
         <!-- COMMON WEDDINGS -->
-        <?php include "common-php/weddings/es.html"; ?>
-        <!-- COMMON WEDDINGS END -->
+        <?php include "common-php/pages-content/weddings/wedding-sax-es.html"; ?>
+        <!-- /COMMON WEDDINGS -->
         
 
         <!-- WEDDING VIDEOS -->
@@ -199,7 +199,7 @@
 
         <!-- REVIEWS -->
         <?php include "common-php/reviews/es.html"; ?>
-        <!-- REVIEWS END -->
+        <!-- /REVIEWS -->
         
     </div>
 

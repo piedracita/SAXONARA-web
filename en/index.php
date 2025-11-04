@@ -115,7 +115,7 @@
         <!-- /DIVIDER -->
 
         <!-- COMMON WEDDINGS -->
-        <?php include "../common-php/weddings/en.html"; ?>
+        <?php include "../common-php/pages-content/weddings/wedding-sax-en.html"; ?>
         <!-- /COMMON WEDDINGS -->
 
         <!-- WEDDING VIDEOS -->

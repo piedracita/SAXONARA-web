@@ -46,65 +46,18 @@
 
     <div class="main-wrap">
 
-    	<div class="section section-padding">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-8 col-md-offset-2 col-xs-12">
-                        <div class="text-center">
-                            <h3 class="section-title" style="text-transform: uppercase;">La mejor música para la fiesta</h3>
-                            <p class="section-subtext">A continuación encontraras un seguido de playlists y vídeos de distintos estilos, todos ellos para ser <strong>interpretados en saxofón</strong> y es que, tras años de experiencia como <strong>saxofonista profesional en eventos y bodas</strong>, he desarrollado un repertorio súper extenso que se adapta a muchas necesidades y, sino, lo adapto y incluyo nuevos temas en el repertorio.</p>
+        <!-- COMMON-PHP REPERTOIRE-UPLIFTING-CLUB-HITS -->
+        <?php include "common-php/pages-content/repertoire/uplifting-club-hits.html"; ?>
+        <!-- /COMMON-PHP REPERTOIRE-UPLIFTING-CLUB-HITS -->
 
-                           	<p>Esta primera selección son canciones en formato <strong>fiesta DJ y saxofonista</strong>, en <strong>discotecas o fiestas de boda</strong>, lo que se conoce como <strong>Barra Libre</strong>. Música comercial que pone a todo el mundo a bailar, interpretada en saxofón desde la pista de baile con la opción de incluir <strong>luces LED en el saxofón</strong>. También son opciones perfectas para la <strong>entrada al banquete de boda</strong> o al aperitivo.</p>
-                        </div>
-                    </div>
-                </div>
+        <!-- COMMON-PHP REPERTOIRE-BALLADS -->
+        <?php include "common-php/pages-content/repertoire/ballads.html"; ?>
+        <!-- /COMMON-PHP REPERTOIRE-BALLADS -->
 
-                <!-- COMMON -->
-                <?php include "common-php/song-list/uplifting.html"; ?>
-                <!-- COMMON -->
-                
-            </div>
-        </div>
-
-        <div class="section purchase-section text-white">
-            <div class="overlay section-padding">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-8 col-md-offset-2 col-xs-12">
-                            <div class="text-center">
-                                <h3 class="section-title" style="text-transform: uppercase;">Baladas y música romántica para ceremonia</h3>
-                                <p class="section-subtext">Piezas románticas, modernas y tranquilas, fruto de la variedad musical que he interpretado a lo largo de eventos así como <strong>peticiones de clientes</strong> que añadido al repertorio, especialmente de parejas en bodas, y más especialmente aún en <strong>ceremonias de boda</strong>, en las que he participado como saxofonista; pero también en momentos como ambientación en cenas u otro tipo de eventos tranquilos.</p>
-								<p>Un estilo que me encanta para poder <b>sacar el máximo partido de la expresividad de mis saxofones</b>, utilizando el más idóneo en cada momento y eligiendo entre el saxofón tenor, saxofón alto y saxofón soprano.</p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- COMMON -->
-                    <?php include "common-php/song-list/ballads.html"; ?>
-                    <!-- COMMON -->
-
-                </div>
-            </div>
-        </div>
-
-        <div class="section section-padding">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-8 col-md-offset-2 col-xs-12">
-                        <div class="text-center">
-                            <h3 class="section-title" style="text-transform: uppercase;">Música disco & funk para fiestas </h3>
-                            <p class="section-subtext">Los grandes clasicos de la musica disco interpretados en saxofón, para que ponga a todo el mundo a bailar. La opción más acertada para arrancar una <strong>fiesta de boda en formato DJ y Saxo</strong>. Puedo inclir <strong>saxofón con luces LED</strong>, para una fiesta más dinámica y espectacular, tocando y animando desde la pista de baile con música en directo.</p>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- COMMON -->
-                <?php include "common-php/song-list/disco.html"; ?>
-                <!-- COMMON -->
-
-            </div>
-        </div>
-
+        <!-- COMMON-PHP REPERTOIRE-DISCO -->
+        <?php include "common-php/pages-content/repertoire/disco.html"; ?>
+        <!-- /COMMON-PHP REPERTOIRE-DISCO -->
+         
         <div class="section purchase-section text-white">
             <div class="overlay section-padding">
                 <div class="container">

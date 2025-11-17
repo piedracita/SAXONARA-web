@@ -8,7 +8,8 @@ body {
 
 .parallax-links {
   /* The image used */
-  background-image: url('/images/css/bg-links.jpg');
+  /*background-image: url('/images/css/bg-links.jpg');*/
+background: rgb(46, 46, 46);
 
   /* Set a specific height */
   min-height: 500px;

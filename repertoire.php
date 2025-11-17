@@ -30,45 +30,36 @@
         <!-- NAVIGATION -->
         <?php include "common-php/navigation/es.html"; ?>
         <!-- /NAVIGATION -->
+         
+        <!-- COMMON-PHP REPERTOIRE-HEADER -->
+        <?php include "common-php/pages-content/repertoire/es/header.html"; ?>
+        <!-- /COMMON-PHP REPERTOIRE-HEADER -->
     </header>
-
-    <!-- PAGE HEADER -->
-    <div class="page-header">
-        <div class="container text-center">
-            <h1 class="page-title">Repertorio y Estilos</h1>
-            <p class="banner-highlight">Mi trabajo como <strong>saxofonista profesional</strong> se basa en la adaptabilidad total. No ofrezco un único estilo, sino una <b>paleta sonora completa</b> diseñada para evolucionar con los distintos momentos de tu evento y garantizar que la atmósfera sea siempre perfecta, desde el primer al último instante.</p>
-            <p class="banner-highlight">Mi repertorio es amplio y cuidadosamente segmentado para cubrir cualquier necesidad: desde las baladas más emotivas para la <strong>Ceremonia Nupcial</strong>, pasando por un estilo <strong>Lounge y Chill House</strong> ideal para el <strong>Cóctel o Aperitivo</strong>. Y si lo que buscas es la máxima energía, mi formato estrella es el Disco, Funk y Dance junto a un DJ, perfecto para la <strong>Barra Libre</strong> y la fiesta. No importa el ambiente que busques, tengo la banda sonora perfecta para el momento exacto.</p>
-            <!-- <ol class="breadcrumb">
-                <li><span class="banner-highlight">Selección musical con grabaciones de estudio y vídeos en directo</span></li>
-            </ol> -->
-        </div>
-    </div>
-    <!-- PAGE HEADER END -->
 
     <div class="main-wrap">
 
         <!-- COMMON-PHP REPERTOIRE-UPLIFTING-CLUB-HITS -->
-        <?php include "common-php/pages-content/repertoire/uplifting-club-hits.html"; ?>
+        <?php include "common-php/pages-content/repertoire/es/uplifting-club-hits.html"; ?>
         <!-- /COMMON-PHP REPERTOIRE-UPLIFTING-CLUB-HITS -->
 
         <!-- COMMON-PHP REPERTOIRE-BALLADS -->
-        <?php include "common-php/pages-content/repertoire/ballads.html"; ?>
+        <?php include "common-php/pages-content/repertoire/es/ballads.html"; ?>
         <!-- /COMMON-PHP REPERTOIRE-BALLADS -->
 
         <!-- COMMON-PHP REPERTOIRE-DISCO -->
-        <?php include "common-php/pages-content/repertoire/disco.html"; ?>
+        <?php include "common-php/pages-content/repertoire/es/disco.html"; ?>
         <!-- /COMMON-PHP REPERTOIRE-DISCO -->
 
         <!-- COMMON-PHP REPERTOIRE-MODERN-POP -->
-        <?php include "common-php/pages-content/repertoire/modern-pop.html"; ?>
+        <?php include "common-php/pages-content/repertoire/es/modern-pop.html"; ?>
         <!-- /COMMON-PHP REPERTOIRE-MODERN-POP -->
 
         <!-- COMMON-PHP REPERTOIRE-JAZZ-CHILL -->
-        <?php include "common-php/pages-content/repertoire/jazz-chill.html"; ?>
+        <?php include "common-php/pages-content/repertoire/es/jazz-chill.html"; ?>
         <!-- /COMMON-PHP REPERTOIRE-JAZZ-CHILL -->
 
         <!-- COMMON-PHP REPERTOIRE-TROPICAL-HOUSE -->
-        <?php include "common-php/pages-content/repertoire/tropical-house.html"; ?>
+        <?php include "common-php/pages-content/repertoire/es/tropical-house.html"; ?>
         <!-- /COMMON-PHP REPERTOIRE-TROPICAL-HOUSE -->
     
 

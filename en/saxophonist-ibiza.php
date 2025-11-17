@@ -136,7 +136,7 @@
         <!-- /WHAT WE DO -->
 
         <!-- ARTIST -->
-        <div class="section section-padding artist-section" id="videos">
+        <div class="section section-padding" id="videos">
             <div class="container">
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2 col-xs-12">
@@ -159,7 +159,7 @@
         <!-- /DIVIDER -->
 
         <!-- ARTIST -->
-        <div class="section section-padding artist-section" id="videos">
+        <div class="section section-padding" id="videos">
             <div class="container">
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2 col-xs-12">

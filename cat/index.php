@@ -80,37 +80,11 @@
         <!-- DIVIDER -->
         <?php include "../common-php/dividers/01-cat.html"; ?>
         <!-- /DIVIDER -->
+
+        <!-- COMMON-PHP VIDEOS-MAIN -->
+        <?php include "../common-php/videos/videos-main-cat.html"; ?>
+        <!-- /COMMON-PHP VIDEOS-MAIN -->
  
-        <!-- Artist -->
-        <div class="section section-padding" id="videos">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-8 col-md-offset-2 col-xs-12">
-                        <div class="section-header text-center">
-                            <h3 class="section-title">Vídeos de SAXONARA</h3>
-                            <p class="section-subtext">Tinc moltíssims vídeos d'enregistraments de directe en casaments i esdeveniments, així com videoclips que gravem a llocs meravellosos. Per estar al dia dels darrers enregistraments o descobrir junts <strong>les millors finques de casaments</strong> et pots subscriure als meus canals d'Instagram o Youtube, troba'm com SAXONARA.</p>
-                            <p class="section-subtext">Us deixo a continuació alguns dels meus darrers enregistraments, alguns de <strong>música romàtinca en saxofon</strong>, vídeos com a <a href="/cat/saxofonista-bodes.php">saxofonista per a bodes</a> o en festes amb <strong>saxofonista i DJ</strong>.</p>
-                        </div>
-                    </div>
-                </div>
-
-                
-                <!-- VIDEOS LATEST -->
-                <?php include "../common-php/videos/latest.html"; ?>
-                <!-- VIDEOS LATEST END -->
-
-                <div class="row">
-                    <div class="col-md-10 col-md-offset-1 col-xs-12">
-                        <div class="text-center style-3">
-                            <a class="btn btn-small btn-black" href="/cat/videos.php" title="Videos de SAXONARA">+ VÍDEOS</a>
-                        </div>
-                    </div>
-                </div>
-                
-            </div>
-        </div>
-        <!-- /ARTIST -->
-
         <!-- DIVIDER -->
         <?php include "../common-php/dividers/repertoire-presence-cat.html"; ?>
         <!-- /DIVIDER -->

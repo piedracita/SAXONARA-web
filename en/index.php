@@ -78,38 +78,11 @@
         <!-- DIVIDER -->
         <?php include "../common-php/dividers/01-en.html"; ?>
         <!-- /DIVIDER -->
+
+        <!-- COMMON-PHP VIDEOS-MAIN -->
+        <?php include "../common-php/videos/videos-main-en.html"; ?>
+        <!-- /COMMON-PHP VIDEOS-MAIN -->
  
-        <!-- Artist -->
-        <div class="section section-padding" id="videos">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-8 col-md-offset-2 col-xs-12">
-                        <div class="section-header text-center">
-                            <h3 class="section-title">SAXONARAVideos</h3>
-                            <p class="section-subtext">I have tons of videos from live recordings at weddings and events, as well as video clips that we shot in wonderful places. To keep up to date with the latest recordings or discover <strong>the best wedding venues</strong> together, you can subscribe to my Instagram or YouTube channels, find me as SAXONARA.</p>
-
-                            <p class="section-subtext"> Here are some of my latest recordings, some of them are <strong>romantic music on saxophone</strong>, videos as <a href="/en/saxophonist-wedding.php">saxophonist for weddings</a> or parties with <strong>saxophonist and DJ</strong>.</p>
-                        </div>
-                    </div>
-                </div>
-
-                
-                <!-- VIDEOS LATEST -->
-                <?php include "../common-php/videos/latest.html"; ?>
-                <!-- VIDEOS LATEST END -->
-
-                <div class="row">
-                    <div class="col-md-10 col-md-offset-1 col-xs-12">
-                        <div class="text-center style-3">
-                            <a class="btn btn-small btn-black" href="/en/videos.php" title="Videos de SAXONARA">+ VIDEOS</a>
-                        </div>
-                    </div>
-                </div>
-                
-            </div>
-        </div>
-        <!-- /ARTIST -->
-
         <!-- DIVIDER -->
         <?php include "../common-php/dividers/repertoire-presence-en.html"; ?>
         <!-- /DIVIDER -->

@@ -81,34 +81,9 @@
         <?php include "common-php/dividers/01-es.html"; ?>
         <!-- /DIVIDER -->
 
-        <!-- ARTIST -->
-        <div class="section section-padding" id="videos">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-8 col-md-offset-2 col-xs-12">
-                        <div class="section-header text-center">
-                            <h3 class="section-title">Vídeos de SAXONARA</h3>
-                            <p class="section-subtext">Tengo muchísimos vídeos de grabaciones de directo en bodas y eventos, así como videoclips que grabamos en lugares maravillosos. Para estar al día de las últimas grabaciones o descubrir juntos <strong>las mejores fincas de bodas</strong> te puedes suscribir a mis canales de Instagram o Youtube, encuéntrame como SAXONARA.</p>
-                            <p class="section-subtext">Te dejo a continuación algunas de mis últimas grabaciones, algunos de <strong>música romátinca en saxofón</strong>, vídeos como <a href="saxofonista-bodas.php">saxofonista para bodas</a> o en fiestas con <strong>saxofonista y DJ</strong>.</p>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- VIDEOS LATEST -->
-                <?php include "common-php/videos/latest.html"; ?>
-                <!-- VIDEOS LATEST END -->
-
-                <div class="row">
-                    <div class="col-md-10 col-md-offset-1 col-xs-12">
-                        <div class="text-center style-3">
-                            <a class="btn btn-small btn-black" href="/videos/" title="Videos de SAXONARA">+ VÍDEOS</a>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-        </div>
-        <!-- /ARTIST -->
+        <!-- COMMON-PHP VIDEOS-MAIN -->
+        <?php include "common-php/videos/videos-main-es.html"; ?>
+        <!-- /COMMON-PHP VIDEOS-MAIN -->
 
         <!-- DIVIDER -->
         <?php include "common-php/dividers/repertoire-presence-es.html"; ?>

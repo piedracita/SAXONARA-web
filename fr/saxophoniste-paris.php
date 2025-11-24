@@ -66,7 +66,7 @@
                     </div>
                     <div class="col-md-6 col-md-pull-6 col-xs-12 col-xs-pull-0">
                         <div class="artist-image">
-                            <img loading="lazy" class="img-responsive" src="../images/cities/saxophoniste-paris.jpg" alt="SAXONARA est saxophoniste à Paris">
+                            <img loading="lazy" class="img-responsive" src="../images/cities/paris/bio-paris.jpg" alt="SAXONARA est saxophoniste à Paris">
                         </div>
                     </div>
                 </div>
@@ -113,33 +113,9 @@
         </div>
         <!-- /WHAT WE DO -->
 
-        <!-- ARTIST -->
-        <div class="section section-padding" id="videos">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-8 col-md-offset-2 col-xs-12">
-                        <div class="section-header text-center">
-                            <h3 class="section-title">Enregistrements à Paris</h3>
-                            <p class="section-subtext">Découvrez mes clips vidéo enregistrés à Paris, où je vous montre à quoi ressemblent les expériences d'organiser des événements dans ce ville du Sud de la France, au Roussillon, où j'enregistre des vidéos dans <strong>les Châteaux et les Domaines en jouant du saxophone</strong>. Pour l'enregistrement de ces vidéos j'utilise différents saxophones, principalement le saxophone ténor et le saxophone alto, mais aussi le soprano pour des moments plus intimes comme une <strong>Cérémonie de Mariage</strong>.</p>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- COMMON -->
-                <?php include"../common-php/videos/loc-paris.html"; ?>
-                <!-- COMMON END -->
-
-                <div class="row">
-                    <div class="col-md-10 col-md-offset-1 col-xs-12">
-                        <div class="text-center style-3">
-                            <a class="btn btn-small btn-black" href="/fr/videos.php" title="Vidéos du saxophoniste SAXONARA">VIDÉOS</a>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-        </div>
-        <!-- /ARTIST -->
+        <!-- COMMON PARIS-REC -->
+        <?php include"../common-php/pages-content/paris/rec-fr.html"; ?>
+        <!-- /COMMON PARIS-REC END -->
 
         <!-- COMMON -->
         <?php include"../common-php/dividers/01-fr.html"; ?>

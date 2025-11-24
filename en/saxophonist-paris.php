@@ -66,7 +66,7 @@
                     </div>
                     <div class="col-md-6 col-md-pull-6 col-xs-12 col-xs-pull-0">
                         <div class="artist-image">
-                            <img loading="lazy" class="img-responsive" src="../images/cities/saxophoniste-paris.jpg" alt="SAXONARA is your saxophonist in Paris">
+                            <img loading="lazy" class="img-responsive" src="../images/cities/paris/bio-paris.jpg" alt="SAXONARA is your saxophonist in Paris">
                         </div>
                     </div>
                 </div>

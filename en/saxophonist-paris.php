@@ -113,33 +113,9 @@
         </div>
         <!-- /WHAT WE DO -->
 
-        <!-- ARTIST -->
-        <div class="section section-padding" id="videos">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-8 col-md-offset-2 col-xs-12">
-                        <div class="section-header text-center">
-                            <h3 class="section-title">Recordings in Paris</h3>
-                            <p class="section-subtext">Discover my video clips recorded in Paris, where I show you what the experiences of organizing events are like in this city in the South of France, in Roussillon, where I record videos in Castles and Estates playing the saxophone. For the recording of these videos I use different saxophones, mainly the tenor saxophone and the alto saxophone, but also the soprano for more intimate moments like a Wedding Ceremony.</p>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- COMMON -->
-                <?php include"../common-php/videos/loc-paris.html"; ?>
-                <!-- COMMON END -->
-
-                <div class="row">
-                    <div class="col-md-10 col-md-offset-1 col-xs-12">
-                        <div class="text-center style-3">
-                            <a class="btn btn-small btn-black" href="/fr/videos.php" title="videos by the saxophonist SAXONARA in Paris">VIDEOS</a>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-        </div>
-        <!-- /ARTIST -->
+        <!-- COMMON PARIS-REC -->
+        <?php include"../common-php/pages-content/paris/rec-en.html"; ?>
+        <!-- /COMMON PARIS-REC END -->
 
         <!-- COMMON -->
         <?php include"../common-php/dividers/01-en.html"; ?>

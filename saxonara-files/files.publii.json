@@ -1735,6 +1735,51 @@
         "md5": "24253d61e9e1ef22797d032a818f5636"
     },
     {
+        "path": "media/posts/35",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/35/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/35/responsive/suissa-flavour-lg.jpg",
+        "type": "file",
+        "md5": "a3c2ef6a23f93b43fb4603a7e9de7f5d"
+    },
+    {
+        "path": "/media/posts/35/responsive/suissa-flavour-sm.jpg",
+        "type": "file",
+        "md5": "79b77cf2d49ac5bdb7752f968807520a"
+    },
+    {
+        "path": "/media/posts/35/responsive/suissa-flavour-md.jpg",
+        "type": "file",
+        "md5": "e3cc75a978377c10766988bc4b4bef72"
+    },
+    {
+        "path": "/media/posts/35/responsive/suissa-flavour-xs.jpg",
+        "type": "file",
+        "md5": "8ad0535dbfb28504dd56040ddce08bcb"
+    },
+    {
+        "path": "/media/posts/35/responsive/suissa-flavour-2xl.jpg",
+        "type": "file",
+        "md5": "a3c2ef6a23f93b43fb4603a7e9de7f5d"
+    },
+    {
+        "path": "/media/posts/35/responsive/suissa-flavour-xl.jpg",
+        "type": "file",
+        "md5": "a3c2ef6a23f93b43fb4603a7e9de7f5d"
+    },
+    {
+        "path": "/media/posts/35/suissa-flavour.jpg",
+        "type": "file",
+        "md5": "4f4990dfed1f9e91be3f9d8ee09fa21d"
+    },
+    {
         "path": "media/website",
         "type": "directory",
         "md5": false
@@ -1887,7 +1932,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "811b79c92ea84e72380d68fef7a27311"
+        "md5": "856860c72918b765c3393529458d49be"
     },
     {
         "path": "wedding-saxophonist-barcelona-mas-de-sant-llei.html",
@@ -1942,72 +1987,7 @@
     {
         "path": "dj-sax-beach-party-ibiza-live-set-saxonara.html",
         "type": "file",
-        "md5": "d032fdbf5ba2c2a48a63f845c7e96cf7"
-    },
-    {
-        "path": "page",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "page/2",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/page/2/index.html",
-        "type": "file",
-        "md5": "e48abef97b9231b995b38bb3f5cc4998"
-    },
-    {
-        "path": "page/3",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/page/3/index.html",
-        "type": "file",
-        "md5": "042bf468ffbecf284caece49a27a998a"
-    },
-    {
-        "path": "page/4",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/page/4/index.html",
-        "type": "file",
-        "md5": "d123da0a84bbd8ae5054cd9e65fee1eb"
-    },
-    {
-        "path": "page/5",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/page/5/index.html",
-        "type": "file",
-        "md5": "a28108f2b0abd5600d75c990869118fa"
-    },
-    {
-        "path": "page/6",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/page/6/index.html",
-        "type": "file",
-        "md5": "beb3e7a2fa45f31152a99334ea9e33e8"
-    },
-    {
-        "path": "page/7",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/page/7/index.html",
-        "type": "file",
-        "md5": "71116162ca48593a0aed8c7ebc05c1fe"
+        "md5": "e995e4ee64e2b135adedcc863957b6f7"
     },
     {
         "path": "dj-sax-barcelona-live-music-for-events-and-weddings.html",
@@ -2082,7 +2062,7 @@
     {
         "path": "dj-sax-experience-in-milan-the-perfect-blend-of-saxophone-and-lounge-vibes-for-luxury-events.html",
         "type": "file",
-        "md5": "1d313e923060f9ac8cb9dbcb7e3d713b"
+        "md5": "0e5f024ef4a7f64393850d7809d9af3e"
     },
     {
         "path": "violin-and-sax-fusion-at-domaine-le-castelet-destination-wedding-in-the-south-of-france.html",
@@ -2122,7 +2102,77 @@
     {
         "path": "lorangerie-clos-barenys-when-saxophone-meets-reggaeton-and-the-dance-floor-ignites.html",
         "type": "file",
-        "md5": "5e09259ae0d473b0e6738a66fe6ce5a9"
+        "md5": "8f86f1119823b44a79ca074905545bfe"
+    },
+    {
+        "path": "dj-sax-solo-session-resquitx-flavour-trip-swiss-alps.html",
+        "type": "file",
+        "md5": "53a05ccf391377e36727d34cd53ad48a"
+    },
+    {
+        "path": "page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/2/index.html",
+        "type": "file",
+        "md5": "0c03d42bd7f9071a49acdc03b6aa5860"
+    },
+    {
+        "path": "page/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/3/index.html",
+        "type": "file",
+        "md5": "7fc1615ab62e58ca94ac1f8ef3e6d55e"
+    },
+    {
+        "path": "page/4",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/4/index.html",
+        "type": "file",
+        "md5": "931f4b91cdff5c3c5425129e750f2a88"
+    },
+    {
+        "path": "page/5",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/5/index.html",
+        "type": "file",
+        "md5": "f017bbd9864946dd3c62bf94fb98c6b2"
+    },
+    {
+        "path": "page/6",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/6/index.html",
+        "type": "file",
+        "md5": "8a47bb29a3d632e9a62380005242417f"
+    },
+    {
+        "path": "page/7",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/7/index.html",
+        "type": "file",
+        "md5": "ca6cb9d0a30be880f2c45225b4292021"
     },
     {
         "path": "tags",
@@ -2432,7 +2482,7 @@
     {
         "path": "/tags/dj-and-sax-ibiza/index.html",
         "type": "file",
-        "md5": "728dcd38ccfbfde1ff32a09c1dd480d5"
+        "md5": "9d010af8bc16d622c9a89d6f118c8a63"
     },
     {
         "path": "tags/dj-and-sax-show",
@@ -2902,7 +2952,7 @@
     {
         "path": "/tags/ibiza-sax/index.html",
         "type": "file",
-        "md5": "4175e92da32ba440835a3c0fdbae866a"
+        "md5": "4166dd6880a3de71ee4a2f9940779219"
     },
     {
         "path": "tags/ibiza-saxophone-dj",
@@ -2932,7 +2982,7 @@
     {
         "path": "/tags/ibiza-style-saxophone/index.html",
         "type": "file",
-        "md5": "9e73e85577e0d236f1f71562c5150f61"
+        "md5": "27e251cfc9eb04851ac791f7a884443d"
     },
     {
         "path": "tags/ibiza-wedding-entertainment",
@@ -2963,6 +3013,16 @@
         "path": "/tags/ibizavibes/index.html",
         "type": "file",
         "md5": "a889263edbd1dda3fddbf2c941f0e9ae"
+    },
+    {
+        "path": "tags/ibizavibeswedding",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/ibizavibeswedding/index.html",
+        "type": "file",
+        "md5": "d8ac60b24f630f052cd326f487e67d7f"
     },
     {
         "path": "tags/international-saxophonist",
@@ -3092,7 +3152,7 @@
     {
         "path": "/tags/live-sax-ibiza/index.html",
         "type": "file",
-        "md5": "8111a5ebd018167f231e6d0d0b01f140"
+        "md5": "50cf37e602c14a5a6812a8402da68f35"
     },
     {
         "path": "tags/live-saxophone-europe",
@@ -3572,7 +3632,7 @@
     {
         "path": "/tags/saxophonist-in-switzerland/index.html",
         "type": "file",
-        "md5": "8f621aa54837be660923b88e39805c05"
+        "md5": "9ab505a6d4338bb6884a2baed6540ea5"
     },
     {
         "path": "tags/saxophonist-mas-torroella",
@@ -3977,7 +4037,7 @@
     {
         "path": "/tags/wedding-saxophonist-switzerland/index.html",
         "type": "file",
-        "md5": "93619e641a4074d9bac9d0ab22fc902e"
+        "md5": "363b1ac1e1b59e668e54b587362d135c"
     },
     {
         "path": "tags/weddingdjandsax",
@@ -4052,7 +4112,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "0cb4b275512dc6145deac0a794cd0958"
+        "md5": "12d9e0469952d35bb9ccd8060a9333b6"
     },
     {
         "path": "authors",
@@ -4067,7 +4127,7 @@
     {
         "path": "/authors/arnald-saxonara/index.html",
         "type": "file",
-        "md5": "7eb265ae802c422409c0c1e9872df956"
+        "md5": "705fa71e93e430e16e1e247d8e8cd0e8"
     },
     {
         "path": "authors/arnald-saxonara/page",
@@ -4082,7 +4142,7 @@
     {
         "path": "/authors/arnald-saxonara/page/2/index.html",
         "type": "file",
-        "md5": "4d74cd5eb444e66a0824a69e72fe9ab2"
+        "md5": "09ac26a4ffd69a549012da5b27131dd9"
     },
     {
         "path": "authors/arnald-saxonara/page/3",
@@ -4092,7 +4152,7 @@
     {
         "path": "/authors/arnald-saxonara/page/3/index.html",
         "type": "file",
-        "md5": "f35f19f40510043d86b333f5ecf761e9"
+        "md5": "dc08ea65ae2620de543b0003ca44214e"
     },
     {
         "path": "authors/arnald-saxonara/page/4",
@@ -4102,7 +4162,7 @@
     {
         "path": "/authors/arnald-saxonara/page/4/index.html",
         "type": "file",
-        "md5": "e3ba2bb60eee8c5e2ef3ee9a0f7dbc40"
+        "md5": "7edef624ae69e2c2d5a3018c55ffaacd"
     },
     {
         "path": "authors/arnald-saxonara/page/5",
@@ -4112,7 +4172,7 @@
     {
         "path": "/authors/arnald-saxonara/page/5/index.html",
         "type": "file",
-        "md5": "cc4d7d037252e8d32bca59a79c05c03e"
+        "md5": "e0af32ee3fd4336a066062a7ea9d0a4f"
     },
     {
         "path": "authors/arnald-saxonara/page/6",
@@ -4122,7 +4182,7 @@
     {
         "path": "/authors/arnald-saxonara/page/6/index.html",
         "type": "file",
-        "md5": "f6209ecb2fdf5594b407da6e6bc6c6bd"
+        "md5": "57204fff7cf5048e5d9aa77f2af1f757"
     },
     {
         "path": "authors/arnald-saxonara/page/7",
@@ -4132,7 +4192,7 @@
     {
         "path": "/authors/arnald-saxonara/page/7/index.html",
         "type": "file",
-        "md5": "bb44f49459d189a7edeeb3c9336af9e3"
+        "md5": "314b2990a4f57dc93c8d885b1336291f"
     },
     {
         "path": "authors/female-saxophonist-ibiza-gesax-destination-wedding-music",
@@ -4152,12 +4212,12 @@
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "153ef98d6e1bf88a65ce9f2183eed8ea"
+        "md5": "6d70068d934a8f15ffd0f00632cda9bd"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "cc104e23e7ef6b767c792f073ce5e643"
+        "md5": "ef5747554bd3f50f08c0487315286437"
     },
     {
         "path": "assets",

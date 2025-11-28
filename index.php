@@ -118,15 +118,13 @@
                         </div>
                     </div>
                     <div class="col-md-6">
-                        <div class="section-header">
-                            <h2 class="section-title">Contratar Saxofonista</h2>
-                            <h5>Bodas</h5>
-                            <p>Una de las partes que más disfruto como saxofonista és cuando participo en bodas, realizando servicios como la <strong><a href="/saxofonista-bodas.php#ceremony">Ceremonia</a></strong>, el <strong><a href="/saxofonista-bodas.php#cocktail">Cóctel</a></strong>, el <strong>Primer Baile</strong> o la <strong><a href="/saxofonista-bodas.php#party">Fiesta junto al DJ</a></strong>, siempre con la intención de hacer que a celebración sea inolvidable y al gusto de la pareja.</p>
-                            <h5>Eventos Corporativos</h5>
-                            <p>En los <strong>eventos de empresa</strong> suelo trabajar <strong>amenizando en saxofón</strong> con música estilo Smooth Pop o House, creando un <strong>ambiente Chill-Out Moderno</strong> para momentos de After-Office, Team Building y similares, una opción muy solicitada en grandes ciudades como <strong>Barcelona, Madrid o Valencia</strong>.</p>
-                            <h5>Sonorización y Equipos de Sonido</h5>
-                            <p>También podemos proveer el <strong>equipo de sonido y luces</strong> para las performances, se trata de equipos de alta calidad y modulábles dependiendo del tipo de evento, el público y el espacio.</p>
-                        </div>
+                        <h2 class="section-title">Contratar Saxofonista</h2>
+                        <h5>Bodas</h5>
+                        <p>Una de las partes que más disfruto como saxofonista és cuando participo en bodas, realizando servicios como la <strong><a href="/saxofonista-bodas.php#ceremony">Ceremonia</a></strong>, el <strong><a href="/saxofonista-bodas.php#cocktail">Cóctel</a></strong>, el <strong>Primer Baile</strong> o la <strong><a href="/saxofonista-bodas.php#party">Fiesta junto al DJ</a></strong>, siempre con la intención de hacer que a celebración sea inolvidable y al gusto de la pareja.</p>
+                        <h5>Eventos Corporativos</h5>
+                        <p>En los <strong>eventos de empresa</strong> suelo trabajar <strong>amenizando en saxofón</strong> con música estilo Smooth Pop o House, creando un <strong>ambiente Chill-Out Moderno</strong> para momentos de After-Office, Team Building y similares, una opción muy solicitada en grandes ciudades como <strong>Barcelona, Madrid o Valencia</strong>.</p>
+                        <h5>Sonorización y Equipos de Sonido</h5>
+                        <p>También podemos proveer el <strong>equipo de sonido y luces</strong> para las performances, se trata de equipos de alta calidad y modulábles dependiendo del tipo de evento, el público y el espacio.</p>
                     </div>
                 </div>
             </div>

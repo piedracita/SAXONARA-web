@@ -131,7 +131,8 @@ strong, b {
 }
 
 .section-padding {
-  padding: 120px 0;
+  /* EDIT ARNALD 28/11/25  padding: 120px 0;*/
+  padding: 4em 0;
 }
 .section-padding.bottom-0 {
   padding-bottom: 0;
@@ -1101,6 +1102,9 @@ Video Grid
 .caption {
   text-align: center;
   margin-bottom: 10px;
+  padding-right: 15px;
+  padding-left: 15px;
+
 }
 
 /* 17/10/2025 END ARNALD EDIT */
@@ -2471,8 +2475,8 @@ About Artist
 }
 
 .about-artist {
-  padding-top: 185px;
-  padding-bottom: 64px;
+  padding-top: 4em;
+  padding-bottom: 4em;
 }
 .about-artist .artist-name {
   text-transform: uppercase;
@@ -3427,3 +3431,18 @@ hr {
   right: -10px;
 }
   
+/*--------------------------------
+BLOCKQUOTE ARNALD 281125
+--------------------------------*/
+/*.section-blockquote { */
+blockquote {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 2em;
+  margin-left: 4em;
+  text-align: left;
+  border-left: 5px solid #d6842c;
+  padding-left: 15px;
+  font-size: 14px;
+  font-style: italic;
+}
